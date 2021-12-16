@@ -1,0 +1,57 @@
+[
+    {
+        "RouteName":"IssaquahAlps",
+        "StopName":"EastSunsetWay",
+        "locId":"L8102503",
+        "locName":"Issaquah Salmon Hatchery",
+        "Country":"US",
+        "StateCode":"US-WA",
+        "RegionCode":"US-WA-033",
+        "lat":47.5295029,
+        "long":-122.039512
+    },
+    {
+        "RouteName":"IssaquahAlps",
+        "StopName":"HighSchool",
+        "locId":"L8365620",
+        "locName":"Issaquah High School",
+        "Country":"US",
+        "StateCode":"US-WA",
+        "RegionCode":"US-WA-033",
+        "lat":47.52249,
+        "long":-122.028687
+    },
+    {
+        "RouteName":"IssaquahAlps",
+        "StopName":"ChiricoTrail-PooPooPoint",
+        "locId":"L890938",
+        "locName":"Tiger Mountain",
+        "Country":"US",
+        "StateCode":"US-WA",
+        "RegionCode":"US-WA-033",
+        "lat":47.4970242,
+        "long":-121.9578552
+    },
+    {
+        "RouteName":"IssaquahAlps",
+        "StopName":"SquakMountain",
+        "locId":"L854460",
+        "locName":"Squak Mountain SP",
+        "Country":"US",
+        "StateCode":"US-WA",
+        "RegionCode":"US-WA-033",
+        "lat":47.5103021,
+        "long":-122.04772
+    },
+    {
+        "RouteName":"IssaquahAlps",
+        "StopName":"MargaretsWay",
+        "locId":"L3943215",
+        "locName":"Cougar-Squak Corridor",
+        "Country":"US",
+        "StateCode":"US-WA",
+        "RegionCode":"US-WA-033",
+        "lat":47.5046997,
+        "long":-122.0798378
+    }
+]
