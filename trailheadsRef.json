@@ -1,0 +1,58 @@
+[
+    {
+        "Route":"IssaquahAlps",
+        "StopName":"EastSunsetWay",
+        "Address":"661-831 E Sunset Way, Issaquah, WA 98027",
+        "Latitude":47.529635,
+        "Longitude":-122.025119
+    },
+    {
+        "Route":"IssaquahAlps",
+        "StopName":"HighSchool",
+        "Address":"Parking lot, The Rainier Trail, Issaquah, WA 98027",
+        "Latitude":47.519345,
+        "Longitude":-122.029801
+    },
+    {
+        "Route":"IssaquahAlps",
+        "StopName":"ChiricoTrail_PooPooPoint",
+        "Address":"11400 Issaquah-Hobart Road Southeast, Issaquah, WA 98027",
+        "Latitude":47.499949,
+        "Longitude":-122.021730
+    },
+    {
+        "Route":"IssaquahAlps",
+        "StopName":"SquakMountain",
+        "Address":"13201 Squak Mountain Rd SE, Issaquah, WA 98027",
+        "Latitude":47.481465,
+        "Longitude":-122.053997
+    },
+    {
+        "Route":"IssaquahAlps",
+        "StopName":"MargaretsWay",
+        "Address":"190th Ave SE, Issaquah, WA 98027",
+        "Latitude":47.506620,
+        "Longitude":-122.086660
+    },
+    {
+        "Route":"MountSi",
+        "StopName":"MountSi",
+        "Address":"King County, WA 98104",
+        "Latitude":47.488966,
+        "Longitude":-122.723044
+    },
+    {
+        "Route":"MountSi",
+        "StopName":"MountTeneriffe",
+        "Address":"Mount Teneriffe Rd, North Bend, WA 98045",
+        "Latitude":47.490104,
+        "Longitude":-122.709182
+    },
+    {
+        "Route":"MountSi",
+        "StopName":"LittleSi",
+        "Address":"SE Mt Si Rd, North Bend, WA 98045",
+        "Latitude":47.489366,
+        "Longitude":-122.753833
+    }
+]
