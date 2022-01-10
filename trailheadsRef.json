@@ -54,5 +54,19 @@
         "Address":"SE Mt Si Rd, North Bend, WA 98045",
         "Latitude":47.489366,
         "Longitude":-122.753833
-    }
+    },
+    {
+        "Route":"SeattleParks",
+        "StopName":"DiscoveryParkNorth",
+        "Address":"Discovery Park Road & Texas Way, Seattle, WA 98199",
+        "Latitude":47.664631,
+        "Longitude":-122.411063
+    },
+    {
+        "Route":"SeattleParks",
+        "StopName":"DiscoveryParkSouth",
+        "Address":"W Emerson St & Magnolia Blvd W, Seattle, WA 98199",
+        "Latitude":47.654152,
+        "Longitude":-122.412975
+    },
 ]
