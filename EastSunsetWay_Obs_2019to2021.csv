@@ -1,0 +1,800 @@
+speciesCode,comName,sciName,locId,locName,obsDt,howMany,lat,lng,obsValid,obsReviewed,locationPrivate,subId
+dowwoo,Downy Woodpecker,Dryobates pubescens,L10128988,Berntsen Park,2019-11-06 09:45,1.0,47.538439,-122.043281,True,False,False,S61278505
+norfli,Northern Flicker,Colaptes auratus,L10128988,Berntsen Park,2019-11-06 09:45,1.0,47.538439,-122.043281,True,False,False,S61278505
+amecro,American Crow,Corvus brachyrhynchos,L10128988,Berntsen Park,2019-11-06 09:45,2.0,47.538439,-122.043281,True,False,False,S61278505
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L10128988,Berntsen Park,2019-11-06 09:45,3.0,47.538439,-122.043281,True,False,False,S61278505
+ruckin,Ruby-crowned Kinglet,Corthylio calendula,L10128988,Berntsen Park,2019-11-06 09:45,1.0,47.538439,-122.043281,True,False,False,S61278505
+pacwre1,Pacific Wren,Troglodytes pacificus,L10128988,Berntsen Park,2019-11-06 09:45,1.0,47.538439,-122.043281,True,False,False,S61278505
+bewwre,Bewick's Wren,Thryomanes bewickii,L10128988,Berntsen Park,2019-11-06 09:45,1.0,47.538439,-122.043281,True,False,False,S61278505
+amerob,American Robin,Turdus migratorius,L10128988,Berntsen Park,2019-11-06 09:45,2.0,47.538439,-122.043281,True,False,False,S61278505
+daejun,Dark-eyed Junco,Junco hyemalis,L10128988,Berntsen Park,2019-11-06 09:45,3.0,47.538439,-122.043281,True,False,False,S61278505
+sonspa,Song Sparrow,Melospiza melodia,L10128988,Berntsen Park,2019-11-06 09:45,2.0,47.538439,-122.043281,True,False,False,S61278505
+baleag,Bald Eagle,Haliaeetus leucocephalus,L10129014,"Confluence Park, Issaquah",2019-03-28 08:52,2.0,47.536469,-122.039342,True,False,False,S54320534
+rebsap,Red-breasted Sapsucker,Sphyrapicus ruber,L10129014,"Confluence Park, Issaquah",2019-03-28 08:52,3.0,47.536469,-122.039342,True,False,False,S54320534
+gryjay,Canada Jay,Perisoreus canadensis,L10129014,"Confluence Park, Issaquah",2019-03-28 08:52,4.0,47.536469,-122.039342,True,False,False,S54320534
+stejay,Steller's Jay,Cyanocitta stelleri,L10129014,"Confluence Park, Issaquah",2019-03-28 08:52,2.0,47.536469,-122.039342,True,False,False,S54320534
+amecro,American Crow,Corvus brachyrhynchos,L10129014,"Confluence Park, Issaquah",2019-03-28 08:52,2.0,47.536469,-122.039342,True,False,False,S54320534
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L10129014,"Confluence Park, Issaquah",2019-03-28 08:52,3.0,47.536469,-122.039342,True,False,False,S54320534
+brncre,Brown Creeper,Certhia americana,L10129014,"Confluence Park, Issaquah",2019-03-28 08:52,1.0,47.536469,-122.039342,True,False,False,S54320534
+pacwre1,Pacific Wren,Troglodytes pacificus,L10129014,"Confluence Park, Issaquah",2019-03-28 08:52,6.0,47.536469,-122.039342,True,False,False,S54320534
+varthr,Varied Thrush,Ixoreus naevius,L10129014,"Confluence Park, Issaquah",2019-03-28 08:52,1.0,47.536469,-122.039342,True,False,False,S54320534
+amerob,American Robin,Turdus migratorius,L10129014,"Confluence Park, Issaquah",2019-03-28 08:52,3.0,47.536469,-122.039342,True,False,False,S54320534
+daejun,Dark-eyed Junco,Junco hyemalis,L10129014,"Confluence Park, Issaquah",2019-03-28 08:52,1.0,47.536469,-122.039342,True,False,False,S54320534
+mallar3,Mallard,Anas platyrhynchos,L10129014,"Confluence Park, Issaquah",2019-11-06 10:23,36.0,47.536469,-122.039342,True,False,False,S61278650
+glwgul,Glaucous-winged Gull,Larus glaucescens,L10129014,"Confluence Park, Issaquah",2019-11-06 10:23,1.0,47.536469,-122.039342,True,False,False,S61278650
+grbher3,Great Blue Heron,Ardea herodias,L10129014,"Confluence Park, Issaquah",2019-11-06 10:23,1.0,47.536469,-122.039342,True,False,False,S61278650
+amecro,American Crow,Corvus brachyrhynchos,L10129014,"Confluence Park, Issaquah",2019-11-06 10:23,1.0,47.536469,-122.039342,True,False,False,S61278650
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L10129014,"Confluence Park, Issaquah",2019-11-06 10:23,5.0,47.536469,-122.039342,True,False,False,S61278650
+ruckin,Ruby-crowned Kinglet,Corthylio calendula,L10129014,"Confluence Park, Issaquah",2019-11-06 10:23,1.0,47.536469,-122.039342,True,False,False,S61278650
+gockin,Golden-crowned Kinglet,Regulus satrapa,L10129014,"Confluence Park, Issaquah",2019-11-06 10:23,7.0,47.536469,-122.039342,True,False,False,S61278650
+pacwre1,Pacific Wren,Troglodytes pacificus,L10129014,"Confluence Park, Issaquah",2019-11-06 10:23,3.0,47.536469,-122.039342,True,False,False,S61278650
+bewwre,Bewick's Wren,Thryomanes bewickii,L10129014,"Confluence Park, Issaquah",2019-11-06 10:23,1.0,47.536469,-122.039342,True,False,False,S61278650
+varthr,Varied Thrush,Ixoreus naevius,L10129014,"Confluence Park, Issaquah",2019-11-06 10:23,1.0,47.536469,-122.039342,True,False,False,S61278650
+daejun,Dark-eyed Junco,Junco hyemalis,L10129014,"Confluence Park, Issaquah",2019-11-06 10:23,6.0,47.536469,-122.039342,True,False,False,S61278650
+sonspa,Song Sparrow,Melospiza melodia,L10129014,"Confluence Park, Issaquah",2019-11-06 10:23,2.0,47.536469,-122.039342,True,False,False,S61278650
+commer,Common Merganser,Mergus merganser,L10129014,"Confluence Park, Issaquah",2020-03-21 16:31,4.0,47.536469,-122.039342,True,False,False,S66065425
+mallar3,Mallard,Anas platyrhynchos,L10129014,"Confluence Park, Issaquah",2020-10-17 10:52,7.0,47.536469,-122.039342,True,False,False,S74966568
+stejay,Steller's Jay,Cyanocitta stelleri,L10129014,"Confluence Park, Issaquah",2020-10-17 10:52,1.0,47.536469,-122.039342,True,False,False,S74966568
+amecro,American Crow,Corvus brachyrhynchos,L10129014,"Confluence Park, Issaquah",2020-10-17 10:52,2.0,47.536469,-122.039342,True,False,False,S74966568
+amedip,American Dipper,Cinclus mexicanus,L10129014,"Confluence Park, Issaquah",2020-10-17 10:52,1.0,47.536469,-122.039342,True,False,False,S74966568
+amerob,American Robin,Turdus migratorius,L10129014,"Confluence Park, Issaquah",2020-10-17 10:52,2.0,47.536469,-122.039342,True,False,False,S74966568
+cedwax,Cedar Waxwing,Bombycilla cedrorum,L10129014,"Confluence Park, Issaquah",2020-10-17 10:52,2.0,47.536469,-122.039342,True,False,False,S74966568
+pinsis,Pine Siskin,Spinus pinus,L10129014,"Confluence Park, Issaquah",2020-10-17 10:52,35.0,47.536469,-122.039342,True,False,False,S74966568
+amegfi,American Goldfinch,Spinus tristis,L10129014,"Confluence Park, Issaquah",2020-10-17 10:52,2.0,47.536469,-122.039342,True,False,False,S74966568
+daejun,Dark-eyed Junco,Junco hyemalis,L10129014,"Confluence Park, Issaquah",2020-10-17 10:52,3.0,47.536469,-122.039342,True,False,False,S74966568
+sonspa,Song Sparrow,Melospiza melodia,L10129014,"Confluence Park, Issaquah",2020-10-17 10:52,1.0,47.536469,-122.039342,True,False,False,S74966568
+mallar3,Mallard,Anas platyrhynchos,L10129014,"Confluence Park, Issaquah",2020-12-04 09:03,25.0,47.536469,-122.039342,True,False,False,S77053245
+annhum,Anna's Hummingbird,Calypte anna,L10129014,"Confluence Park, Issaquah",2020-12-04 09:03,1.0,47.536469,-122.039342,True,False,False,S77053245
+glwgul,Glaucous-winged Gull,Larus glaucescens,L10129014,"Confluence Park, Issaquah",2020-12-04 09:03,2.0,47.536469,-122.039342,True,False,False,S77053245
+baleag,Bald Eagle,Haliaeetus leucocephalus,L10129014,"Confluence Park, Issaquah",2020-12-04 09:03,1.0,47.536469,-122.039342,True,False,False,S77053245
+norfli,Northern Flicker,Colaptes auratus,L10129014,"Confluence Park, Issaquah",2020-12-04 09:03,1.0,47.536469,-122.039342,True,False,False,S77053245
+stejay,Steller's Jay,Cyanocitta stelleri,L10129014,"Confluence Park, Issaquah",2020-12-04 09:03,3.0,47.536469,-122.039342,True,False,False,S77053245
+amecro,American Crow,Corvus brachyrhynchos,L10129014,"Confluence Park, Issaquah",2020-12-04 09:03,4.0,47.536469,-122.039342,True,False,False,S77053245
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L10129014,"Confluence Park, Issaquah",2020-12-04 09:03,6.0,47.536469,-122.039342,True,False,False,S77053245
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L10129014,"Confluence Park, Issaquah",2020-12-04 09:03,7.0,47.536469,-122.039342,True,False,False,S77053245
+ruckin,Ruby-crowned Kinglet,Corthylio calendula,L10129014,"Confluence Park, Issaquah",2020-12-04 09:03,1.0,47.536469,-122.039342,True,False,False,S77053245
+rebnut,Red-breasted Nuthatch,Sitta canadensis,L10129014,"Confluence Park, Issaquah",2020-12-04 09:03,1.0,47.536469,-122.039342,True,False,False,S77053245
+eursta,European Starling,Sturnus vulgaris,L10129014,"Confluence Park, Issaquah",2020-12-04 09:03,2.0,47.536469,-122.039342,True,False,False,S77053245
+amerob,American Robin,Turdus migratorius,L10129014,"Confluence Park, Issaquah",2020-12-04 09:03,12.0,47.536469,-122.039342,True,False,False,S77053245
+houfin,House Finch,Haemorhous mexicanus,L10129014,"Confluence Park, Issaquah",2020-12-04 09:03,1.0,47.536469,-122.039342,True,False,False,S77053245
+pinsis,Pine Siskin,Spinus pinus,L10129014,"Confluence Park, Issaquah",2020-12-04 09:03,10.0,47.536469,-122.039342,True,False,False,S77053245
+daejun,Dark-eyed Junco,Junco hyemalis,L10129014,"Confluence Park, Issaquah",2020-12-04 09:03,38.0,47.536469,-122.039342,True,False,False,S77053245
+mallar3,Mallard,Anas platyrhynchos,L10129014,"Confluence Park, Issaquah",2020-12-23 15:22,100.0,47.536469,-122.039342,True,False,False,S77904401
+glwgul,Glaucous-winged Gull,Larus glaucescens,L10129014,"Confluence Park, Issaquah",2020-12-23 15:22,3.0,47.536469,-122.039342,True,False,False,S77904401
+mallar3,Mallard,Anas platyrhynchos,L8102503,Issaquah Salmon Hatchery,2019-01-03 15:26,2.0,47.5295029,-122.039512,True,False,False,S51278518
+annhum,Anna's Hummingbird,Calypte anna,L8102503,Issaquah Salmon Hatchery,2019-01-03 15:26,2.0,47.5295029,-122.039512,True,False,False,S51278518
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L8102503,Issaquah Salmon Hatchery,2019-01-03 15:26,1.0,47.5295029,-122.039512,True,False,False,S51278518
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L8102503,Issaquah Salmon Hatchery,2019-01-03 15:26,1.0,47.5295029,-122.039512,True,False,False,S51278518
+daejun,Dark-eyed Junco,Junco hyemalis,L8102503,Issaquah Salmon Hatchery,2019-01-03 15:26,24.0,47.5295029,-122.039512,True,False,False,S51278518
+sonspa,Song Sparrow,Melospiza melodia,L8102503,Issaquah Salmon Hatchery,2019-01-03 15:26,1.0,47.5295029,-122.039512,True,False,False,S51278518
+spotow,Spotted Towhee,Pipilo maculatus,L8102503,Issaquah Salmon Hatchery,2019-01-03 15:26,5.0,47.5295029,-122.039512,True,False,False,S51278518
+rocpig,Rock Pigeon,Columba livia,L8102503,Issaquah Salmon Hatchery,2019-03-18 14:30,25.0,47.5295029,-122.039512,True,False,False,S54016265
+amecro,American Crow,Corvus brachyrhynchos,L8102503,Issaquah Salmon Hatchery,2019-03-18 14:30,1.0,47.5295029,-122.039512,True,False,False,S54016265
+amecro,American Crow,Corvus brachyrhynchos,L8102503,Issaquah Salmon Hatchery,2019-05-03 15:12,1.0,47.5295029,-122.039512,True,False,False,S55730245
+eursta,European Starling,Sturnus vulgaris,L8102503,Issaquah Salmon Hatchery,2019-05-03 15:12,2.0,47.5295029,-122.039512,True,False,False,S55730245
+houspa,House Sparrow,Passer domesticus,L8102503,Issaquah Salmon Hatchery,2019-05-03 15:12,2.0,47.5295029,-122.039512,True,False,False,S55730245
+whcspa,White-crowned Sparrow,Zonotrichia leucophrys,L8102503,Issaquah Salmon Hatchery,2019-05-03 15:12,1.0,47.5295029,-122.039512,True,False,False,S55730245
+mallar3,Mallard,Anas platyrhynchos,L8102503,Issaquah Salmon Hatchery,2019-05-11 11:53,1.0,47.5295029,-122.039512,True,False,False,S56135353
+commer,Common Merganser,Mergus merganser,L8102503,Issaquah Salmon Hatchery,2019-05-11 11:53,2.0,47.5295029,-122.039512,True,False,False,S56135353
+vigswa,Violet-green Swallow,Tachycineta thalassina,L8102503,Issaquah Salmon Hatchery,2019-05-11 11:53,2.0,47.5295029,-122.039512,True,False,False,S56135353
+houspa,House Sparrow,Passer domesticus,L8102503,Issaquah Salmon Hatchery,2019-05-11 11:53,1.0,47.5295029,-122.039512,True,False,False,S56135353
+amegfi,American Goldfinch,Spinus tristis,L8102503,Issaquah Salmon Hatchery,2019-05-11 11:53,1.0,47.5295029,-122.039512,True,False,False,S56135353
+daejun,Dark-eyed Junco,Junco hyemalis,L8102503,Issaquah Salmon Hatchery,2019-05-11 11:53,1.0,47.5295029,-122.039512,True,False,False,S56135353
+whcspa,White-crowned Sparrow,Zonotrichia leucophrys,L8102503,Issaquah Salmon Hatchery,2019-05-11 11:53,1.0,47.5295029,-122.039512,True,False,False,S56135353
+cangoo,Canada Goose,Branta canadensis,L8102503,Issaquah Salmon Hatchery,2019-09-06,,47.5295029,-122.039512,True,False,False,S59566206
+mallar3,Mallard,Anas platyrhynchos,L8102503,Issaquah Salmon Hatchery,2019-09-06,,47.5295029,-122.039512,True,False,False,S59566206
+glwgul,Glaucous-winged Gull,Larus glaucescens,L8102503,Issaquah Salmon Hatchery,2019-09-06,,47.5295029,-122.039512,True,False,False,S59566206
+amecro,American Crow,Corvus brachyrhynchos,L8102503,Issaquah Salmon Hatchery,2019-09-06,,47.5295029,-122.039512,True,False,False,S59566206
+cedwax,Cedar Waxwing,Bombycilla cedrorum,L8102503,Issaquah Salmon Hatchery,2019-09-06,,47.5295029,-122.039512,True,False,False,S59566206
+daejun,Dark-eyed Junco,Junco hyemalis,L8102503,Issaquah Salmon Hatchery,2019-09-06,,47.5295029,-122.039512,True,False,False,S59566206
+sonspa,Song Sparrow,Melospiza melodia,L8102503,Issaquah Salmon Hatchery,2019-09-06,,47.5295029,-122.039512,True,False,False,S59566206
+mewgul2,Short-billed Gull,Larus brachyrhynchus,L8102503,Issaquah Salmon Hatchery,2019-10-05 10:00,1.0,47.5295029,-122.039512,True,False,False,S60371615
+rebsap,Red-breasted Sapsucker,Sphyrapicus ruber,L8102503,Issaquah Salmon Hatchery,2019-10-05 10:00,1.0,47.5295029,-122.039512,True,False,False,S60371615
+stejay,Steller's Jay,Cyanocitta stelleri,L8102503,Issaquah Salmon Hatchery,2019-10-05 10:00,1.0,47.5295029,-122.039512,True,False,False,S60371615
+comrav,Common Raven,Corvus corax,L8102503,Issaquah Salmon Hatchery,2019-10-05 10:00,5.0,47.5295029,-122.039512,True,False,False,S60371615
+grnher,Green Heron,Butorides virescens,L8102503,Issaquah Salmon Hatchery,2019-10-08 16:22,1.0,47.5295029,-122.039512,True,False,False,S60466247
+amedip,American Dipper,Cinclus mexicanus,L8102503,Issaquah Salmon Hatchery,2020-10-11 14:27,1.0,47.5295029,-122.039512,True,False,False,S74709667
+mallar3,Mallard,Anas platyrhynchos,L8102503,Issaquah Salmon Hatchery,2020-10-17 09:22,8.0,47.5295029,-122.039512,True,False,False,S74961711
+commer,Common Merganser,Mergus merganser,L8102503,Issaquah Salmon Hatchery,2020-10-17 09:22,2.0,47.5295029,-122.039512,True,False,False,S74961711
+rocpig,Rock Pigeon,Columba livia,L8102503,Issaquah Salmon Hatchery,2020-10-17 09:22,29.0,47.5295029,-122.039512,True,False,False,S74961711
+amecro,American Crow,Corvus brachyrhynchos,L8102503,Issaquah Salmon Hatchery,2020-10-17 09:22,2.0,47.5295029,-122.039512,True,False,False,S74961711
+norsho,Northern Shoveler,Spatula clypeata,L3352189,"Maple Street ponds, Issaquah",2019-02-01 13:00,1.0,47.5430274,-122.0537147,True,False,False,S52274444
+mallar3,Mallard,Anas platyrhynchos,L3352189,"Maple Street ponds, Issaquah",2019-02-01 13:00,65.0,47.5430274,-122.0537147,True,False,False,S52274444
+rethaw,Red-tailed Hawk,Buteo jamaicensis,L3352189,"Maple Street ponds, Issaquah",2019-02-01 13:00,1.0,47.5430274,-122.0537147,True,False,False,S52274444
+belkin1,Belted Kingfisher,Megaceryle alcyon,L3352189,"Maple Street ponds, Issaquah",2019-02-01 13:00,1.0,47.5430274,-122.0537147,True,False,False,S52274444
+amecro,American Crow,Corvus brachyrhynchos,L3352189,"Maple Street ponds, Issaquah",2019-02-01 13:00,2.0,47.5430274,-122.0537147,True,False,False,S52274444
+cangoo,Canada Goose,Branta canadensis,L3352189,"Maple Street ponds, Issaquah",2019-02-06 08:00,30.0,47.5430274,-122.0537147,True,False,False,S52945448
+mallar3,Mallard,Anas platyrhynchos,L3352189,"Maple Street ponds, Issaquah",2019-02-06 08:00,30.0,47.5430274,-122.0537147,True,False,False,S52945448
+gnwtea,Green-winged Teal,Anas crecca,L3352189,"Maple Street ponds, Issaquah",2019-02-06 08:00,2.0,47.5430274,-122.0537147,True,False,False,S52945448
+hoomer,Hooded Merganser,Lophodytes cucullatus,L3352189,"Maple Street ponds, Issaquah",2019-02-06 08:00,4.0,47.5430274,-122.0537147,True,False,False,S52945448
+y00475,American Coot,Fulica americana,L3352189,"Maple Street ponds, Issaquah",2019-02-06 08:00,10.0,47.5430274,-122.0537147,True,False,False,S52945448
+killde,Killdeer,Charadrius vociferus,L3352189,"Maple Street ponds, Issaquah",2019-02-06 08:00,4.0,47.5430274,-122.0537147,True,False,False,S52945448
+doccor,Double-crested Cormorant,Nannopterum auritum,L3352189,"Maple Street ponds, Issaquah",2019-02-06 08:00,1.0,47.5430274,-122.0537147,True,False,False,S52945448
+norsho,Northern Shoveler,Spatula clypeata,L3352189,"Maple Street ponds, Issaquah",2019-03-23 12:30,4.0,47.5430274,-122.0537147,True,False,False,S54150883
+mallar3,Mallard,Anas platyrhynchos,L3352189,"Maple Street ponds, Issaquah",2019-03-23 12:30,25.0,47.5430274,-122.0537147,True,False,False,S54150883
+grbher3,Great Blue Heron,Ardea herodias,L3352189,"Maple Street ponds, Issaquah",2019-03-23 12:30,2.0,47.5430274,-122.0537147,True,False,False,S54150883
+amecro,American Crow,Corvus brachyrhynchos,L3352189,"Maple Street ponds, Issaquah",2019-03-23 12:30,9.0,47.5430274,-122.0537147,True,False,False,S54150883
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L3352189,"Maple Street ponds, Issaquah",2019-03-23 12:30,3.0,47.5430274,-122.0537147,True,False,False,S54150883
+rebnut,Red-breasted Nuthatch,Sitta canadensis,L3352189,"Maple Street ponds, Issaquah",2019-03-23 12:30,1.0,47.5430274,-122.0537147,True,False,False,S54150883
+amerob,American Robin,Turdus migratorius,L3352189,"Maple Street ponds, Issaquah",2019-03-23 12:30,5.0,47.5430274,-122.0537147,True,False,False,S54150883
+amegfi,American Goldfinch,Spinus tristis,L3352189,"Maple Street ponds, Issaquah",2019-03-23 12:30,1.0,47.5430274,-122.0537147,True,False,False,S54150883
+daejun,Dark-eyed Junco,Junco hyemalis,L3352189,"Maple Street ponds, Issaquah",2019-03-23 12:30,7.0,47.5430274,-122.0537147,True,False,False,S54150883
+sonspa,Song Sparrow,Melospiza melodia,L3352189,"Maple Street ponds, Issaquah",2019-03-23 12:30,4.0,47.5430274,-122.0537147,True,False,False,S54150883
+mallar3,Mallard,Anas platyrhynchos,L3352189,"Maple Street ponds, Issaquah",2019-04-24 13:00,3.0,47.5430274,-122.0537147,True,False,False,S55371705
+rocpig,Rock Pigeon,Columba livia,L3352189,"Maple Street ponds, Issaquah",2019-04-24 13:00,1.0,47.5430274,-122.0537147,True,False,False,S55371705
+grbher3,Great Blue Heron,Ardea herodias,L3352189,"Maple Street ponds, Issaquah",2019-04-24 13:00,1.0,47.5430274,-122.0537147,True,False,False,S55371705
+osprey,Osprey,Pandion haliaetus,L3352189,"Maple Street ponds, Issaquah",2019-04-24 13:00,1.0,47.5430274,-122.0537147,True,False,False,S55371705
+belkin1,Belted Kingfisher,Megaceryle alcyon,L3352189,"Maple Street ponds, Issaquah",2019-04-24 13:00,1.0,47.5430274,-122.0537147,True,False,False,S55371705
+amecro,American Crow,Corvus brachyrhynchos,L3352189,"Maple Street ponds, Issaquah",2019-04-24 13:00,3.0,47.5430274,-122.0537147,True,False,False,S55371705
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L3352189,"Maple Street ponds, Issaquah",2019-04-24 13:00,2.0,47.5430274,-122.0537147,True,False,False,S55371705
+amerob,American Robin,Turdus migratorius,L3352189,"Maple Street ponds, Issaquah",2019-04-24 13:00,4.0,47.5430274,-122.0537147,True,False,False,S55371705
+daejun,Dark-eyed Junco,Junco hyemalis,L3352189,"Maple Street ponds, Issaquah",2019-04-24 13:00,3.0,47.5430274,-122.0537147,True,False,False,S55371705
+whcspa,White-crowned Sparrow,Zonotrichia leucophrys,L3352189,"Maple Street ponds, Issaquah",2019-04-24 13:00,1.0,47.5430274,-122.0537147,True,False,False,S55371705
+sonspa,Song Sparrow,Melospiza melodia,L3352189,"Maple Street ponds, Issaquah",2019-04-24 13:00,4.0,47.5430274,-122.0537147,True,False,False,S55371705
+mallar3,Mallard,Anas platyrhynchos,L3352189,"Maple Street ponds, Issaquah",2020-01-06 14:15,4.0,47.5430274,-122.0537147,True,False,False,S63107998
+amecro,American Crow,Corvus brachyrhynchos,L3352189,"Maple Street ponds, Issaquah",2020-01-06 14:15,100.0,47.5430274,-122.0537147,True,False,False,S63107998
+cacgoo1,Cackling Goose,Branta hutchinsii,L4920968,Pickering Place Pond,2019-01-16 14:51,40.0,47.5481099,-122.0524621,True,False,False,S51748179
+norsho,Northern Shoveler,Spatula clypeata,L4920968,Pickering Place Pond,2019-01-16 14:51,4.0,47.5481099,-122.0524621,True,False,False,S51748179
+mallar3,Mallard,Anas platyrhynchos,L4920968,Pickering Place Pond,2019-01-16 14:51,35.0,47.5481099,-122.0524621,True,False,False,S51748179
+gresca,Greater Scaup,Aythya marila,L4920968,Pickering Place Pond,2019-01-16 14:51,3.0,47.5481099,-122.0524621,True,False,False,S51748179
+hoomer,Hooded Merganser,Lophodytes cucullatus,L4920968,Pickering Place Pond,2019-01-16 14:51,7.0,47.5481099,-122.0524621,True,False,False,S51748179
+pibgre,Pied-billed Grebe,Podilymbus podiceps,L4920968,Pickering Place Pond,2019-01-16 14:51,1.0,47.5481099,-122.0524621,True,False,False,S51748179
+hergul,Herring Gull,Larus argentatus,L4920968,Pickering Place Pond,2019-01-16 14:51,1.0,47.5481099,-122.0524621,True,False,False,S51748179
+glwgul,Glaucous-winged Gull,Larus glaucescens,L4920968,Pickering Place Pond,2019-01-16 14:51,1.0,47.5481099,-122.0524621,True,False,False,S51748179
+grnher,Green Heron,Butorides virescens,L4920968,Pickering Place Pond,2019-01-16 14:51,1.0,47.5481099,-122.0524621,True,False,False,S51748179
+ruckin,Ruby-crowned Kinglet,Corthylio calendula,L4920968,Pickering Place Pond,2019-01-16 14:51,1.0,47.5481099,-122.0524621,True,False,False,S51748179
+spotow,Spotted Towhee,Pipilo maculatus,L4920968,Pickering Place Pond,2019-01-16 14:51,1.0,47.5481099,-122.0524621,True,False,False,S51748179
+cangoo,Canada Goose,Branta canadensis,L4920968,Pickering Place Pond,2019-01-20 13:59,250.0,47.5481099,-122.0524621,True,False,False,S51916194
+amecro,American Crow,Corvus brachyrhynchos,L4920968,Pickering Place Pond,2019-01-20 13:59,2.0,47.5481099,-122.0524621,True,False,False,S51916194
+dowwoo,Downy Woodpecker,Dryobates pubescens,L4920968,Pickering Place Pond,2019-06-04 10:35,4.0,47.5481099,-122.0524621,True,False,False,S57082410
+batpig1,Band-tailed Pigeon,Patagioenas fasciata,L4920968,Pickering Place Pond,2019-06-04 10:17,1.0,47.5481099,-122.0524621,True,False,False,S57081848
+rethaw,Red-tailed Hawk,Buteo jamaicensis,L4920968,Pickering Place Pond,2019-06-04 10:17,1.0,47.5481099,-122.0524621,True,False,False,S57081848
+stejay,Steller's Jay,Cyanocitta stelleri,L4920968,Pickering Place Pond,2019-06-04 10:17,1.0,47.5481099,-122.0524621,True,False,False,S57081848
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L4920968,Pickering Place Pond,2019-06-04 10:17,1.0,47.5481099,-122.0524621,True,False,False,S57081848
+bushti,Bushtit,Psaltriparus minimus,L4920968,Pickering Place Pond,2019-06-04 10:17,8.0,47.5481099,-122.0524621,True,False,False,S57081848
+pacwre1,Pacific Wren,Troglodytes pacificus,L4920968,Pickering Place Pond,2019-06-04 10:17,1.0,47.5481099,-122.0524621,True,False,False,S57081848
+amerob,American Robin,Turdus migratorius,L4920968,Pickering Place Pond,2019-06-04 10:17,12.0,47.5481099,-122.0524621,True,False,False,S57081848
+amegfi,American Goldfinch,Spinus tristis,L4920968,Pickering Place Pond,2019-06-04 10:17,1.0,47.5481099,-122.0524621,True,False,False,S57081848
+whcspa,White-crowned Sparrow,Zonotrichia leucophrys,L4920968,Pickering Place Pond,2019-06-04 10:17,2.0,47.5481099,-122.0524621,True,False,False,S57081848
+spotow,Spotted Towhee,Pipilo maculatus,L4920968,Pickering Place Pond,2019-06-04 10:17,6.0,47.5481099,-122.0524621,True,False,False,S57081848
+amecro,American Crow,Corvus brachyrhynchos,L4920968,Pickering Place Pond,2019-06-04 08:53,1.0,47.5481099,-122.0524621,True,False,False,S57080752
+eursta,European Starling,Sturnus vulgaris,L4920968,Pickering Place Pond,2019-06-04 08:53,6.0,47.5481099,-122.0524621,True,False,False,S57080752
+daejun,Dark-eyed Junco,Junco hyemalis,L4920968,Pickering Place Pond,2019-06-04 08:53,1.0,47.5481099,-122.0524621,True,False,False,S57080752
+grnher,Green Heron,Butorides virescens,L4920968,Pickering Place Pond,2019-07-20 15:11,1.0,47.5481099,-122.0524621,True,False,False,S58327853
+mallar3,Mallard,Anas platyrhynchos,L4920968,Pickering Place Pond,2019-09-12 15:54,2.0,47.5481099,-122.0524621,True,False,False,S59719515
+annhum,Anna's Hummingbird,Calypte anna,L4920968,Pickering Place Pond,2019-09-12 15:54,2.0,47.5481099,-122.0524621,True,False,False,S59719515
+norfli,Northern Flicker,Colaptes auratus,L4920968,Pickering Place Pond,2019-09-12 15:54,3.0,47.5481099,-122.0524621,True,False,False,S59719515
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L4920968,Pickering Place Pond,2019-09-12 15:54,2.0,47.5481099,-122.0524621,True,False,False,S59719515
+amerob,American Robin,Turdus migratorius,L4920968,Pickering Place Pond,2019-09-12 15:54,1.0,47.5481099,-122.0524621,True,False,False,S59719515
+cedwax,Cedar Waxwing,Bombycilla cedrorum,L4920968,Pickering Place Pond,2019-09-12 15:54,4.0,47.5481099,-122.0524621,True,False,False,S59719515
+amegfi,American Goldfinch,Spinus tristis,L4920968,Pickering Place Pond,2019-09-12 15:54,2.0,47.5481099,-122.0524621,True,False,False,S59719515
+mallar3,Mallard,Anas platyrhynchos,L4920968,Pickering Place Pond,2019-11-06 09:05,3.0,47.5481099,-122.0524621,True,False,False,S61227509
+hoomer,Hooded Merganser,Lophodytes cucullatus,L4920968,Pickering Place Pond,2019-11-06 09:05,7.0,47.5481099,-122.0524621,True,False,False,S61227509
+glwgul,Glaucous-winged Gull,Larus glaucescens,L4920968,Pickering Place Pond,2019-11-06 09:05,1.0,47.5481099,-122.0524621,True,False,False,S61227509
+amecro,American Crow,Corvus brachyrhynchos,L4920968,Pickering Place Pond,2019-11-06 09:05,1.0,47.5481099,-122.0524621,True,False,False,S61227509
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L4920968,Pickering Place Pond,2019-11-06 09:05,4.0,47.5481099,-122.0524621,True,False,False,S61227509
+bushti,Bushtit,Psaltriparus minimus,L4920968,Pickering Place Pond,2019-11-06 09:05,11.0,47.5481099,-122.0524621,True,False,False,S61227509
+ruckin,Ruby-crowned Kinglet,Corthylio calendula,L4920968,Pickering Place Pond,2019-11-06 09:05,1.0,47.5481099,-122.0524621,True,False,False,S61227509
+eursta,European Starling,Sturnus vulgaris,L4920968,Pickering Place Pond,2019-11-06 09:05,2.0,47.5481099,-122.0524621,True,False,False,S61227509
+spotow,Spotted Towhee,Pipilo maculatus,L4920968,Pickering Place Pond,2019-11-06 09:05,2.0,47.5481099,-122.0524621,True,False,False,S61227509
+mallar3,Mallard,Anas platyrhynchos,L4920968,Pickering Place Pond,2019-12-26 13:28,2.0,47.5481099,-122.0524621,True,False,False,S62646323
+hoomer,Hooded Merganser,Lophodytes cucullatus,L4920968,Pickering Place Pond,2019-12-26 13:28,5.0,47.5481099,-122.0524621,True,False,False,S62646323
+commer,Common Merganser,Mergus merganser,L4920968,Pickering Place Pond,2019-12-26 13:28,2.0,47.5481099,-122.0524621,True,False,False,S62646323
+amecro,American Crow,Corvus brachyrhynchos,L4920968,Pickering Place Pond,2019-12-26 13:28,2.0,47.5481099,-122.0524621,True,False,False,S62646323
+cangoo,Canada Goose,Branta canadensis,L4920968,Pickering Place Pond,2020-04-05 16:07,2.0,47.5481099,-122.0524621,True,False,False,S66695528
+mallar3,Mallard,Anas platyrhynchos,L4920968,Pickering Place Pond,2020-04-05 16:07,3.0,47.5481099,-122.0524621,True,False,False,S66695528
+gresca,Greater Scaup,Aythya marila,L4920968,Pickering Place Pond,2020-04-05 16:07,1.0,47.5481099,-122.0524621,True,False,False,S66695528
+lessca,Lesser Scaup,Aythya affinis,L4920968,Pickering Place Pond,2020-04-05 16:07,4.0,47.5481099,-122.0524621,True,False,False,S66695528
+buffle,Bufflehead,Bucephala albeola,L4920968,Pickering Place Pond,2020-04-05 16:07,3.0,47.5481099,-122.0524621,True,False,False,S66695528
+annhum,Anna's Hummingbird,Calypte anna,L4920968,Pickering Place Pond,2020-04-05 16:07,1.0,47.5481099,-122.0524621,True,False,False,S66695528
+amecro,American Crow,Corvus brachyrhynchos,L4920968,Pickering Place Pond,2020-04-05 16:07,2.0,47.5481099,-122.0524621,True,False,False,S66695528
+comrav,Common Raven,Corvus corax,L4920968,Pickering Place Pond,2020-04-05 16:07,1.0,47.5481099,-122.0524621,True,False,False,S66695528
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L4920968,Pickering Place Pond,2020-04-05 16:07,1.0,47.5481099,-122.0524621,True,False,False,S66695528
+daejun,Dark-eyed Junco,Junco hyemalis,L4920968,Pickering Place Pond,2020-04-05 16:07,3.0,47.5481099,-122.0524621,True,False,False,S66695528
+rethaw,Red-tailed Hawk,Buteo jamaicensis,L4920968,Pickering Place Pond,2020-04-29 15:16,1.0,47.5481099,-122.0524621,True,False,False,S68074365
+amecro,American Crow,Corvus brachyrhynchos,L4920968,Pickering Place Pond,2020-04-29 15:16,7.0,47.5481099,-122.0524621,True,False,False,S68074365
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L4920968,Pickering Place Pond,2020-04-29 15:16,2.0,47.5481099,-122.0524621,True,False,False,S68074365
+bushti,Bushtit,Psaltriparus minimus,L4920968,Pickering Place Pond,2020-04-29 15:16,2.0,47.5481099,-122.0524621,True,False,False,S68074365
+sonspa,Song Sparrow,Melospiza melodia,L4920968,Pickering Place Pond,2020-04-29 15:16,1.0,47.5481099,-122.0524621,True,False,False,S68074365
+cangoo,Canada Goose,Branta canadensis,L4920968,Pickering Place Pond,2020-05-01 15:30,1.0,47.5481099,-122.0524621,True,False,False,S68221518
+buffle,Bufflehead,Bucephala albeola,L4920968,Pickering Place Pond,2020-05-01 15:30,4.0,47.5481099,-122.0524621,True,False,False,S68221518
+grnher,Green Heron,Butorides virescens,L4920968,Pickering Place Pond,2020-05-01 15:30,1.0,47.5481099,-122.0524621,True,False,False,S68221518
+daejun,Dark-eyed Junco,Junco hyemalis,L4920968,Pickering Place Pond,2020-05-01 15:30,2.0,47.5481099,-122.0524621,True,False,False,S68221518
+mallar3,Mallard,Anas platyrhynchos,L4920968,Pickering Place Pond,2020-05-09 14:58,5.0,47.5481099,-122.0524621,True,False,False,S68735324
+buffle,Bufflehead,Bucephala albeola,L4920968,Pickering Place Pond,2020-05-09 14:58,2.0,47.5481099,-122.0524621,True,False,False,S68735324
+amecro,American Crow,Corvus brachyrhynchos,L4920968,Pickering Place Pond,2020-05-09 14:58,1.0,47.5481099,-122.0524621,True,False,False,S68735324
+eursta,European Starling,Sturnus vulgaris,L4920968,Pickering Place Pond,2020-05-09 14:58,1.0,47.5481099,-122.0524621,True,False,False,S68735324
+amerob,American Robin,Turdus migratorius,L4920968,Pickering Place Pond,2020-05-09 14:58,2.0,47.5481099,-122.0524621,True,False,False,S68735324
+daejun,Dark-eyed Junco,Junco hyemalis,L4920968,Pickering Place Pond,2020-05-09 14:58,1.0,47.5481099,-122.0524621,True,False,False,S68735324
+sonspa,Song Sparrow,Melospiza melodia,L4920968,Pickering Place Pond,2020-05-09 14:58,2.0,47.5481099,-122.0524621,True,False,False,S68735324
+spotow,Spotted Towhee,Pipilo maculatus,L4920968,Pickering Place Pond,2020-05-09 14:58,1.0,47.5481099,-122.0524621,True,False,False,S68735324
+rewbla,Red-winged Blackbird,Agelaius phoeniceus,L4920968,Pickering Place Pond,2020-05-09 14:58,1.0,47.5481099,-122.0524621,True,False,False,S68735324
+grnher,Green Heron,Butorides virescens,L4920968,Pickering Place Pond,2020-08-02 11:11,1.0,47.5481099,-122.0524621,True,False,False,S72048229
+amecro,American Crow,Corvus brachyrhynchos,L4920968,Pickering Place Pond,2020-08-02 11:11,6.0,47.5481099,-122.0524621,True,False,False,S72048229
+daejun,Dark-eyed Junco,Junco hyemalis,L4920968,Pickering Place Pond,2020-08-02 11:11,5.0,47.5481099,-122.0524621,True,False,False,S72048229
+rewbla,Red-winged Blackbird,Agelaius phoeniceus,L4920968,Pickering Place Pond,2020-08-02 11:11,2.0,47.5481099,-122.0524621,True,False,False,S72048229
+belkin1,Belted Kingfisher,Megaceryle alcyon,L4920968,Pickering Place Pond,2020-08-02 10:14,4.0,47.5481099,-122.0524621,True,False,False,S72108428
+mallar3,Mallard,Anas platyrhynchos,L4920968,Pickering Place Pond,2020-08-22 09:30,7.0,47.5481099,-122.0524621,True,False,False,S72741980
+killde,Killdeer,Charadrius vociferus,L4920968,Pickering Place Pond,2020-08-22 09:30,1.0,47.5481099,-122.0524621,True,False,False,S72741980
+lobdow,Long-billed Dowitcher,Limnodromus scolopaceus,L4920968,Pickering Place Pond,2020-08-22 09:30,1.0,47.5481099,-122.0524621,True,False,False,S72741980
+grnher,Green Heron,Butorides virescens,L4920968,Pickering Place Pond,2020-08-22 09:30,3.0,47.5481099,-122.0524621,True,False,False,S72741980
+belkin1,Belted Kingfisher,Megaceryle alcyon,L4920968,Pickering Place Pond,2020-08-22 09:30,1.0,47.5481099,-122.0524621,True,False,False,S72741980
+daejun,Dark-eyed Junco,Junco hyemalis,L4920968,Pickering Place Pond,2020-08-22 09:30,2.0,47.5481099,-122.0524621,True,False,False,S72741980
+sonspa,Song Sparrow,Melospiza melodia,L4920968,Pickering Place Pond,2020-08-22 09:30,1.0,47.5481099,-122.0524621,True,False,False,S72741980
+mallar3,Mallard,Anas platyrhynchos,L4920968,Pickering Place Pond,2020-08-23 09:44,10.0,47.5481099,-122.0524621,True,False,False,S72734094
+hoomer,Hooded Merganser,Lophodytes cucullatus,L4920968,Pickering Place Pond,2020-08-23 09:44,1.0,47.5481099,-122.0524621,True,False,False,S72734094
+killde,Killdeer,Charadrius vociferus,L4920968,Pickering Place Pond,2020-08-23 09:44,1.0,47.5481099,-122.0524621,True,False,False,S72734094
+grnher,Green Heron,Butorides virescens,L4920968,Pickering Place Pond,2020-08-23 09:44,2.0,47.5481099,-122.0524621,True,False,False,S72734094
+belkin1,Belted Kingfisher,Megaceryle alcyon,L4920968,Pickering Place Pond,2020-08-23 09:44,1.0,47.5481099,-122.0524621,True,False,False,S72734094
+mallar3,Mallard,Anas platyrhynchos,L4920968,Pickering Place Pond,2020-12-19 09:00,3.0,47.5481099,-122.0524621,True,False,False,S77789196
+hoomer,Hooded Merganser,Lophodytes cucullatus,L4920968,Pickering Place Pond,2020-12-19 09:00,6.0,47.5481099,-122.0524621,True,False,False,S77789196
+annhum,Anna's Hummingbird,Calypte anna,L4920968,Pickering Place Pond,2020-12-19 09:00,1.0,47.5481099,-122.0524621,True,False,False,S77789196
+y00475,American Coot,Fulica americana,L4920968,Pickering Place Pond,2020-12-19 09:00,1.0,47.5481099,-122.0524621,True,False,False,S77789196
+grnher,Green Heron,Butorides virescens,L4920968,Pickering Place Pond,2020-12-19 09:00,1.0,47.5481099,-122.0524621,True,False,False,S77789196
+amecro,American Crow,Corvus brachyrhynchos,L4920968,Pickering Place Pond,2020-12-19 09:00,4.0,47.5481099,-122.0524621,True,False,False,S77789196
+gockin,Golden-crowned Kinglet,Regulus satrapa,L4920968,Pickering Place Pond,2020-12-19 09:00,1.0,47.5481099,-122.0524621,True,False,False,S77789196
+amerob,American Robin,Turdus migratorius,L4920968,Pickering Place Pond,2020-12-19 09:00,2.0,47.5481099,-122.0524621,True,False,False,S77789196
+daejun,Dark-eyed Junco,Junco hyemalis,L4920968,Pickering Place Pond,2020-12-19 09:00,4.0,47.5481099,-122.0524621,True,False,False,S77789196
+sonspa,Song Sparrow,Melospiza melodia,L4920968,Pickering Place Pond,2020-12-19 09:00,2.0,47.5481099,-122.0524621,True,False,False,S77789196
+cangoo,Canada Goose,Branta canadensis,L11570424,Pickering Place trails,2020-04-05 16:18,3.0,47.5501004,-122.0494397,True,False,False,S66698283
+mallar3,Mallard,Anas platyrhynchos,L11570424,Pickering Place trails,2020-04-05 16:18,2.0,47.5501004,-122.0494397,True,False,False,S66698283
+gnwtea,Green-winged Teal,Anas crecca,L11570424,Pickering Place trails,2020-04-05 16:18,4.0,47.5501004,-122.0494397,True,False,False,S66698283
+hoomer,Hooded Merganser,Lophodytes cucullatus,L11570424,Pickering Place trails,2020-04-05 16:18,3.0,47.5501004,-122.0494397,True,False,False,S66698283
+rocpig,Rock Pigeon,Columba livia,L11570424,Pickering Place trails,2020-04-05 16:18,5.0,47.5501004,-122.0494397,True,False,False,S66698283
+annhum,Anna's Hummingbird,Calypte anna,L11570424,Pickering Place trails,2020-04-05 16:18,2.0,47.5501004,-122.0494397,True,False,False,S66698283
+killde,Killdeer,Charadrius vociferus,L11570424,Pickering Place trails,2020-04-05 16:18,3.0,47.5501004,-122.0494397,True,False,False,S66698283
+glwgul,Glaucous-winged Gull,Larus glaucescens,L11570424,Pickering Place trails,2020-04-05 16:18,1.0,47.5501004,-122.0494397,True,False,False,S66698283
+baleag,Bald Eagle,Haliaeetus leucocephalus,L11570424,Pickering Place trails,2020-04-05 16:18,1.0,47.5501004,-122.0494397,True,False,False,S66698283
+belkin1,Belted Kingfisher,Megaceryle alcyon,L11570424,Pickering Place trails,2020-04-05 16:18,1.0,47.5501004,-122.0494397,True,False,False,S66698283
+rebsap,Red-breasted Sapsucker,Sphyrapicus ruber,L11570424,Pickering Place trails,2020-04-05 16:18,1.0,47.5501004,-122.0494397,True,False,False,S66698283
+dowwoo,Downy Woodpecker,Dryobates pubescens,L11570424,Pickering Place trails,2020-04-05 16:18,1.0,47.5501004,-122.0494397,True,False,False,S66698283
+pilwoo,Pileated Woodpecker,Dryocopus pileatus,L11570424,Pickering Place trails,2020-04-05 16:18,1.0,47.5501004,-122.0494397,True,False,False,S66698283
+norfli,Northern Flicker,Colaptes auratus,L11570424,Pickering Place trails,2020-04-05 16:18,1.0,47.5501004,-122.0494397,True,False,False,S66698283
+stejay,Steller's Jay,Cyanocitta stelleri,L11570424,Pickering Place trails,2020-04-05 16:18,2.0,47.5501004,-122.0494397,True,False,False,S66698283
+amecro,American Crow,Corvus brachyrhynchos,L11570424,Pickering Place trails,2020-04-05 16:18,15.0,47.5501004,-122.0494397,True,False,False,S66698283
+comrav,Common Raven,Corvus corax,L11570424,Pickering Place trails,2020-04-05 16:18,1.0,47.5501004,-122.0494397,True,False,False,S66698283
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L11570424,Pickering Place trails,2020-04-05 16:18,10.0,47.5501004,-122.0494397,True,False,False,S66698283
+vigswa,Violet-green Swallow,Tachycineta thalassina,L11570424,Pickering Place trails,2020-04-05 16:18,10.0,47.5501004,-122.0494397,True,False,False,S66698283
+bushti,Bushtit,Psaltriparus minimus,L11570424,Pickering Place trails,2020-04-05 16:18,8.0,47.5501004,-122.0494397,True,False,False,S66698283
+gockin,Golden-crowned Kinglet,Regulus satrapa,L11570424,Pickering Place trails,2020-04-05 16:18,2.0,47.5501004,-122.0494397,True,False,False,S66698283
+brncre,Brown Creeper,Certhia americana,L11570424,Pickering Place trails,2020-04-05 16:18,1.0,47.5501004,-122.0494397,True,False,False,S66698283
+bewwre,Bewick's Wren,Thryomanes bewickii,L11570424,Pickering Place trails,2020-04-05 16:18,2.0,47.5501004,-122.0494397,True,False,False,S66698283
+eursta,European Starling,Sturnus vulgaris,L11570424,Pickering Place trails,2020-04-05 16:18,20.0,47.5501004,-122.0494397,True,False,False,S66698283
+varthr,Varied Thrush,Ixoreus naevius,L11570424,Pickering Place trails,2020-04-05 16:18,2.0,47.5501004,-122.0494397,True,False,False,S66698283
+amerob,American Robin,Turdus migratorius,L11570424,Pickering Place trails,2020-04-05 16:18,10.0,47.5501004,-122.0494397,True,False,False,S66698283
+houspa,House Sparrow,Passer domesticus,L11570424,Pickering Place trails,2020-04-05 16:18,4.0,47.5501004,-122.0494397,True,False,False,S66698283
+houfin,House Finch,Haemorhous mexicanus,L11570424,Pickering Place trails,2020-04-05 16:18,2.0,47.5501004,-122.0494397,True,False,False,S66698283
+daejun,Dark-eyed Junco,Junco hyemalis,L11570424,Pickering Place trails,2020-04-05 16:18,5.0,47.5501004,-122.0494397,True,False,False,S66698283
+whcspa,White-crowned Sparrow,Zonotrichia leucophrys,L11570424,Pickering Place trails,2020-04-05 16:18,2.0,47.5501004,-122.0494397,True,False,False,S66698283
+sonspa,Song Sparrow,Melospiza melodia,L11570424,Pickering Place trails,2020-04-05 16:18,8.0,47.5501004,-122.0494397,True,False,False,S66698283
+spotow,Spotted Towhee,Pipilo maculatus,L11570424,Pickering Place trails,2020-04-05 16:18,1.0,47.5501004,-122.0494397,True,False,False,S66698283
+rewbla,Red-winged Blackbird,Agelaius phoeniceus,L11570424,Pickering Place trails,2020-04-05 16:18,20.0,47.5501004,-122.0494397,True,False,False,S66698283
+mallar3,Mallard,Anas platyrhynchos,L11570424,Pickering Place trails,2020-04-30 15:44,1.0,47.5501004,-122.0494397,True,False,False,S68148170
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L11570424,Pickering Place trails,2020-04-30 15:44,5.0,47.5501004,-122.0494397,True,False,False,S68148170
+amedip,American Dipper,Cinclus mexicanus,L11570424,Pickering Place trails,2020-04-30 15:44,4.0,47.5501004,-122.0494397,True,False,False,S68148170
+amerob,American Robin,Turdus migratorius,L11570424,Pickering Place trails,2020-04-30 15:44,4.0,47.5501004,-122.0494397,True,False,False,S68148170
+houfin,House Finch,Haemorhous mexicanus,L11570424,Pickering Place trails,2020-04-30 15:44,2.0,47.5501004,-122.0494397,True,False,False,S68148170
+daejun,Dark-eyed Junco,Junco hyemalis,L11570424,Pickering Place trails,2020-04-30 15:44,2.0,47.5501004,-122.0494397,True,False,False,S68148170
+whcspa,White-crowned Sparrow,Zonotrichia leucophrys,L11570424,Pickering Place trails,2020-04-30 15:44,5.0,47.5501004,-122.0494397,True,False,False,S68148170
+yelwar,Yellow Warbler,Setophaga petechia,L11570424,Pickering Place trails,2020-04-30 15:44,2.0,47.5501004,-122.0494397,True,False,False,S68148170
+belkin1,Belted Kingfisher,Megaceryle alcyon,L11570424,Pickering Place trails,2020-05-14 17:29,1.0,47.5501004,-122.0494397,True,False,False,S69060972
+dowwoo,Downy Woodpecker,Dryobates pubescens,L11570424,Pickering Place trails,2020-05-14 17:29,1.0,47.5501004,-122.0494397,True,False,False,S69060972
+amecro,American Crow,Corvus brachyrhynchos,L11570424,Pickering Place trails,2020-05-14 17:29,1.0,47.5501004,-122.0494397,True,False,False,S69060972
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L11570424,Pickering Place trails,2020-05-14 17:29,4.0,47.5501004,-122.0494397,True,False,False,S69060972
+amedip,American Dipper,Cinclus mexicanus,L11570424,Pickering Place trails,2020-05-14 17:29,1.0,47.5501004,-122.0494397,True,False,False,S69060972
+eursta,European Starling,Sturnus vulgaris,L11570424,Pickering Place trails,2020-05-14 17:29,5.0,47.5501004,-122.0494397,True,False,False,S69060972
+daejun,Dark-eyed Junco,Junco hyemalis,L11570424,Pickering Place trails,2020-05-14 17:29,2.0,47.5501004,-122.0494397,True,False,False,S69060972
+whcspa,White-crowned Sparrow,Zonotrichia leucophrys,L11570424,Pickering Place trails,2020-05-14 17:29,2.0,47.5501004,-122.0494397,True,False,False,S69060972
+sonspa,Song Sparrow,Melospiza melodia,L11570424,Pickering Place trails,2020-05-14 17:29,1.0,47.5501004,-122.0494397,True,False,False,S69060972
+btywar,Black-throated Gray Warbler,Setophaga nigrescens,L11570424,Pickering Place trails,2020-05-14 17:29,1.0,47.5501004,-122.0494397,True,False,False,S69060972
+bkhgro,Black-headed Grosbeak,Pheucticus melanocephalus,L11570424,Pickering Place trails,2020-05-14 17:29,1.0,47.5501004,-122.0494397,True,False,False,S69060972
+amecro,American Crow,Corvus brachyrhynchos,L11570424,Pickering Place trails,2020-05-27 08:00,1.0,47.5501004,-122.0494397,True,False,False,S69813829
+commer,Common Merganser,Mergus merganser,L11570424,Pickering Place trails,2020-05-28 14:09,2.0,47.5501004,-122.0494397,True,False,False,S69765171
+amecro,American Crow,Corvus brachyrhynchos,L11570424,Pickering Place trails,2020-05-28 14:09,5.0,47.5501004,-122.0494397,True,False,False,S69765171
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L11570424,Pickering Place trails,2020-05-28 14:09,2.0,47.5501004,-122.0494397,True,False,False,S69765171
+amedip,American Dipper,Cinclus mexicanus,L11570424,Pickering Place trails,2020-05-28 14:09,2.0,47.5501004,-122.0494397,True,False,False,S69765171
+eursta,European Starling,Sturnus vulgaris,L11570424,Pickering Place trails,2020-05-28 14:09,3.0,47.5501004,-122.0494397,True,False,False,S69765171
+btywar,Black-throated Gray Warbler,Setophaga nigrescens,L11570424,Pickering Place trails,2020-05-28 14:09,1.0,47.5501004,-122.0494397,True,False,False,S69765171
+amecro,American Crow,Corvus brachyrhynchos,L11570424,Pickering Place trails,2020-05-29 08:00,1.0,47.5501004,-122.0494397,True,False,False,S69815419
+daejun,Dark-eyed Junco,Junco hyemalis,L11570424,Pickering Place trails,2020-05-29 08:00,1.0,47.5501004,-122.0494397,True,False,False,S69815419
+rewbla,Red-winged Blackbird,Agelaius phoeniceus,L11570424,Pickering Place trails,2020-06-03 20:46,1.0,47.5501004,-122.0494397,True,False,False,S70032478
+rocpig,Rock Pigeon,Columba livia,L11570424,Pickering Place trails,2020-07-05 17:42,3.0,47.5501004,-122.0494397,True,False,False,S71177866
+wilfly,Willow Flycatcher,Empidonax traillii,L11570424,Pickering Place trails,2020-07-05 17:42,1.0,47.5501004,-122.0494397,True,False,False,S71177866
+amecro,American Crow,Corvus brachyrhynchos,L11570424,Pickering Place trails,2020-07-05 17:42,2.0,47.5501004,-122.0494397,True,False,False,S71177866
+houspa,House Sparrow,Passer domesticus,L11570424,Pickering Place trails,2020-07-05 17:42,2.0,47.5501004,-122.0494397,True,False,False,S71177866
+daejun,Dark-eyed Junco,Junco hyemalis,L11570424,Pickering Place trails,2020-07-05 17:42,5.0,47.5501004,-122.0494397,True,False,False,S71177866
+whcspa,White-crowned Sparrow,Zonotrichia leucophrys,L11570424,Pickering Place trails,2020-07-05 17:42,3.0,47.5501004,-122.0494397,True,False,False,S71177866
+mallar3,Mallard,Anas platyrhynchos,L11570424,Pickering Place trails,2020-08-12 17:14,3.0,47.5501004,-122.0494397,True,False,False,S72355974
+pasfly,Pacific-slope Flycatcher,Empidonax difficilis,L11570424,Pickering Place trails,2020-08-12 17:14,7.0,47.5501004,-122.0494397,True,False,False,S72355974
+amedip,American Dipper,Cinclus mexicanus,L11570424,Pickering Place trails,2020-08-12 17:14,1.0,47.5501004,-122.0494397,True,False,False,S72355974
+cedwax,Cedar Waxwing,Bombycilla cedrorum,L11570424,Pickering Place trails,2020-08-12 17:14,7.0,47.5501004,-122.0494397,True,False,False,S72355974
+btywar,Black-throated Gray Warbler,Setophaga nigrescens,L11570424,Pickering Place trails,2020-08-12 17:14,1.0,47.5501004,-122.0494397,True,False,False,S72355974
+annhum,Anna's Hummingbird,Calypte anna,L10129002,Salmon Run Nature Park,2019-11-06 09:57,1.0,47.539272,-122.043434,True,False,False,S61278596
+glwgul,Glaucous-winged Gull,Larus glaucescens,L10129002,Salmon Run Nature Park,2019-11-06 09:57,2.0,47.539272,-122.043434,True,False,False,S61278596
+amecro,American Crow,Corvus brachyrhynchos,L10129002,Salmon Run Nature Park,2019-11-06 09:57,3.0,47.539272,-122.043434,True,False,False,S61278596
+amerob,American Robin,Turdus migratorius,L10129002,Salmon Run Nature Park,2019-11-06 09:57,1.0,47.539272,-122.043434,True,False,False,S61278596
+daejun,Dark-eyed Junco,Junco hyemalis,L10129002,Salmon Run Nature Park,2019-11-06 09:57,1.0,47.539272,-122.043434,True,False,False,S61278596
+mallar3,Mallard,Anas platyrhynchos,L1167737,Tibbets Valley Park,2019-03-31 06:24,6.0,47.5393396,-122.0610656,True,False,False,S54402774
+amecro,American Crow,Corvus brachyrhynchos,L1167737,Tibbets Valley Park,2019-03-31 06:24,2.0,47.5393396,-122.0610656,True,False,False,S54402774
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L1167737,Tibbets Valley Park,2019-03-31 06:24,2.0,47.5393396,-122.0610656,True,False,False,S54402774
+amerob,American Robin,Turdus migratorius,L1167737,Tibbets Valley Park,2019-03-31 06:24,1.0,47.5393396,-122.0610656,True,False,False,S54402774
+whcspa,White-crowned Sparrow,Zonotrichia leucophrys,L1167737,Tibbets Valley Park,2019-03-31 06:24,2.0,47.5393396,-122.0610656,True,False,False,S54402774
+sonspa,Song Sparrow,Melospiza melodia,L1167737,Tibbets Valley Park,2019-03-31 06:24,2.0,47.5393396,-122.0610656,True,False,False,S54402774
+rewbla,Red-winged Blackbird,Agelaius phoeniceus,L1167737,Tibbets Valley Park,2019-03-31 06:24,1.0,47.5393396,-122.0610656,True,False,False,S54402774
+annhum,Anna's Hummingbird,Calypte anna,L1167737,Tibbets Valley Park,2019-04-02 18:20,1.0,47.5393396,-122.0610656,True,False,False,S54502601
+bushti,Bushtit,Psaltriparus minimus,L1167737,Tibbets Valley Park,2019-04-02 18:20,4.0,47.5393396,-122.0610656,True,False,False,S54502601
+mallar3,Mallard,Anas platyrhynchos,L1167737,Tibbets Valley Park,2019-04-03 13:06,1.0,47.5393396,-122.0610656,True,False,False,S54531617
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L1167737,Tibbets Valley Park,2019-04-03 13:06,2.0,47.5393396,-122.0610656,True,False,False,S54531617
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L1167737,Tibbets Valley Park,2019-04-03 13:06,1.0,47.5393396,-122.0610656,True,False,False,S54531617
+treswa,Tree Swallow,Tachycineta bicolor,L1167737,Tibbets Valley Park,2019-04-03 13:06,4.0,47.5393396,-122.0610656,True,False,False,S54531617
+bushti,Bushtit,Psaltriparus minimus,L1167737,Tibbets Valley Park,2019-04-03 13:06,1.0,47.5393396,-122.0610656,True,False,False,S54531617
+ruckin,Ruby-crowned Kinglet,Corthylio calendula,L1167737,Tibbets Valley Park,2019-04-03 13:06,1.0,47.5393396,-122.0610656,True,False,False,S54531617
+eursta,European Starling,Sturnus vulgaris,L1167737,Tibbets Valley Park,2019-04-03 13:06,8.0,47.5393396,-122.0610656,True,False,False,S54531617
+amerob,American Robin,Turdus migratorius,L1167737,Tibbets Valley Park,2019-04-03 13:06,47.0,47.5393396,-122.0610656,True,False,False,S54531617
+houfin,House Finch,Haemorhous mexicanus,L1167737,Tibbets Valley Park,2019-04-03 13:06,1.0,47.5393396,-122.0610656,True,False,False,S54531617
+daejun,Dark-eyed Junco,Junco hyemalis,L1167737,Tibbets Valley Park,2019-04-03 13:06,3.0,47.5393396,-122.0610656,True,False,False,S54531617
+daejun,Dark-eyed Junco,Junco hyemalis,L1167737,Tibbets Valley Park,2019-04-03 13:06,8.0,47.5393396,-122.0610656,True,False,False,S54531617
+daejun,Dark-eyed Junco,Junco hyemalis,L1167737,Tibbets Valley Park,2019-04-03 13:06,1.0,47.5393396,-122.0610656,True,False,False,S54531617
+sonspa,Song Sparrow,Melospiza melodia,L1167737,Tibbets Valley Park,2019-04-03 13:06,2.0,47.5393396,-122.0610656,True,False,False,S54531617
+grbher3,Great Blue Heron,Ardea herodias,L1167737,Tibbets Valley Park,2019-04-04 18:31,1.0,47.5393396,-122.0610656,True,False,False,S54569355
+norfli,Northern Flicker,Colaptes auratus,L1167737,Tibbets Valley Park,2019-04-04 18:31,2.0,47.5393396,-122.0610656,True,False,False,S54569355
+houfin,House Finch,Haemorhous mexicanus,L1167737,Tibbets Valley Park,2019-04-04 18:31,2.0,47.5393396,-122.0610656,True,False,False,S54569355
+rewbla,Red-winged Blackbird,Agelaius phoeniceus,L1167737,Tibbets Valley Park,2019-04-04 18:31,3.0,47.5393396,-122.0610656,True,False,False,S54569355
+osprey,Osprey,Pandion haliaetus,L1167737,Tibbets Valley Park,2019-04-16 15:28,1.0,47.5393396,-122.0610656,True,False,False,S55032633
+mallar3,Mallard,Anas platyrhynchos,L1167737,Tibbets Valley Park,2019-04-24 13:55,3.0,47.5393396,-122.0610656,True,False,False,S55372005
+annhum,Anna's Hummingbird,Calypte anna,L1167737,Tibbets Valley Park,2019-04-24 13:55,1.0,47.5393396,-122.0610656,True,False,False,S55372005
+osprey,Osprey,Pandion haliaetus,L1167737,Tibbets Valley Park,2019-04-24 13:55,2.0,47.5393396,-122.0610656,True,False,False,S55372005
+amecro,American Crow,Corvus brachyrhynchos,L1167737,Tibbets Valley Park,2019-04-24 13:55,1.0,47.5393396,-122.0610656,True,False,False,S55372005
+vigswa,Violet-green Swallow,Tachycineta thalassina,L1167737,Tibbets Valley Park,2019-04-24 13:55,4.0,47.5393396,-122.0610656,True,False,False,S55372005
+amerob,American Robin,Turdus migratorius,L1167737,Tibbets Valley Park,2019-04-24 13:55,4.0,47.5393396,-122.0610656,True,False,False,S55372005
+whcspa,White-crowned Sparrow,Zonotrichia leucophrys,L1167737,Tibbets Valley Park,2019-04-24 13:55,1.0,47.5393396,-122.0610656,True,False,False,S55372005
+sonspa,Song Sparrow,Melospiza melodia,L1167737,Tibbets Valley Park,2019-04-24 13:55,1.0,47.5393396,-122.0610656,True,False,False,S55372005
+rewbla,Red-winged Blackbird,Agelaius phoeniceus,L1167737,Tibbets Valley Park,2019-04-24 13:55,1.0,47.5393396,-122.0610656,True,False,False,S55372005
+grnher,Green Heron,Butorides virescens,L1167737,Tibbets Valley Park,2019-06-07 15:36,1.0,47.5393396,-122.0610656,True,False,False,S57177872
+amecro,American Crow,Corvus brachyrhynchos,L1167737,Tibbets Valley Park,2019-06-21 05:37,8.0,47.5393396,-122.0610656,True,False,False,S57555291
+amerob,American Robin,Turdus migratorius,L1167737,Tibbets Valley Park,2019-06-21 05:37,1.0,47.5393396,-122.0610656,True,False,False,S57555291
+daejun,Dark-eyed Junco,Junco hyemalis,L1167737,Tibbets Valley Park,2019-06-21 05:37,2.0,47.5393396,-122.0610656,True,False,False,S57555291
+whcspa,White-crowned Sparrow,Zonotrichia leucophrys,L1167737,Tibbets Valley Park,2019-06-21 05:37,1.0,47.5393396,-122.0610656,True,False,False,S57555291
+sonspa,Song Sparrow,Melospiza melodia,L1167737,Tibbets Valley Park,2019-06-21 05:37,4.0,47.5393396,-122.0610656,True,False,False,S57555291
+spotow,Spotted Towhee,Pipilo maculatus,L1167737,Tibbets Valley Park,2019-06-21 05:37,1.0,47.5393396,-122.0610656,True,False,False,S57555291
+rewbla,Red-winged Blackbird,Agelaius phoeniceus,L1167737,Tibbets Valley Park,2019-06-21 05:37,2.0,47.5393396,-122.0610656,True,False,False,S57555291
+mallar3,Mallard,Anas platyrhynchos,L1167737,Tibbets Valley Park,2019-07-13 05:56,9.0,47.5393396,-122.0610656,True,False,False,S58159269
+osprey,Osprey,Pandion haliaetus,L1167737,Tibbets Valley Park,2019-07-13 05:56,3.0,47.5393396,-122.0610656,True,False,False,S58159269
+amecro,American Crow,Corvus brachyrhynchos,L1167737,Tibbets Valley Park,2019-07-13 05:56,1.0,47.5393396,-122.0610656,True,False,False,S58159269
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L1167737,Tibbets Valley Park,2019-07-13 05:56,1.0,47.5393396,-122.0610656,True,False,False,S58159269
+cedwax,Cedar Waxwing,Bombycilla cedrorum,L1167737,Tibbets Valley Park,2019-07-13 05:56,1.0,47.5393396,-122.0610656,True,False,False,S58159269
+whcspa,White-crowned Sparrow,Zonotrichia leucophrys,L1167737,Tibbets Valley Park,2019-07-13 05:56,3.0,47.5393396,-122.0610656,True,False,False,S58159269
+sonspa,Song Sparrow,Melospiza melodia,L1167737,Tibbets Valley Park,2019-07-13 05:56,1.0,47.5393396,-122.0610656,True,False,False,S58159269
+annhum,Anna's Hummingbird,Calypte anna,L1167737,Tibbets Valley Park,2019-12-04 11:30,4.0,47.5393396,-122.0610656,True,False,False,S61987669
+rebsap,Red-breasted Sapsucker,Sphyrapicus ruber,L1167737,Tibbets Valley Park,2019-12-04 11:30,1.0,47.5393396,-122.0610656,True,False,False,S61987669
+amecro,American Crow,Corvus brachyrhynchos,L1167737,Tibbets Valley Park,2019-12-04 11:30,5.0,47.5393396,-122.0610656,True,False,False,S61987669
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L1167737,Tibbets Valley Park,2019-12-04 11:30,2.0,47.5393396,-122.0610656,True,False,False,S61987669
+bushti,Bushtit,Psaltriparus minimus,L1167737,Tibbets Valley Park,2019-12-04 11:30,10.0,47.5393396,-122.0610656,True,False,False,S61987669
+ruckin,Ruby-crowned Kinglet,Corthylio calendula,L1167737,Tibbets Valley Park,2019-12-04 11:30,1.0,47.5393396,-122.0610656,True,False,False,S61987669
+gockin,Golden-crowned Kinglet,Regulus satrapa,L1167737,Tibbets Valley Park,2019-12-04 11:30,1.0,47.5393396,-122.0610656,True,False,False,S61987669
+bewwre,Bewick's Wren,Thryomanes bewickii,L1167737,Tibbets Valley Park,2019-12-04 11:30,2.0,47.5393396,-122.0610656,True,False,False,S61987669
+sonspa,Song Sparrow,Melospiza melodia,L1167737,Tibbets Valley Park,2019-12-04 11:30,1.0,47.5393396,-122.0610656,True,False,False,S61987669
+osprey,Osprey,Pandion haliaetus,L1167737,Tibbets Valley Park,2020-04-24 13:30,2.0,47.5393396,-122.0610656,True,False,False,S67738856
+annhum,Anna's Hummingbird,Calypte anna,L1167737,Tibbets Valley Park,2020-05-18 18:54,1.0,47.5393396,-122.0610656,True,False,False,S69296418
+rufhum,Rufous Hummingbird,Selasphorus rufus,L1167737,Tibbets Valley Park,2020-05-18 13:30,1.0,47.5393396,-122.0610656,True,False,False,S69282273
+treswa,Tree Swallow,Tachycineta bicolor,L1167737,Tibbets Valley Park,2020-05-18 13:30,1.0,47.5393396,-122.0610656,True,False,False,S69282273
+daejun,Dark-eyed Junco,Junco hyemalis,L1167737,Tibbets Valley Park,2020-05-18 13:30,2.0,47.5393396,-122.0610656,True,False,False,S69282273
+annhum,Anna's Hummingbird,Calypte anna,L1167737,Tibbets Valley Park,2020-06-28 17:15,,47.5393396,-122.0610656,True,False,False,S70944452
+osprey,Osprey,Pandion haliaetus,L1167737,Tibbets Valley Park,2020-06-28 17:15,,47.5393396,-122.0610656,True,False,False,S70944452
+amecro,American Crow,Corvus brachyrhynchos,L1167737,Tibbets Valley Park,2020-06-28 17:15,,47.5393396,-122.0610656,True,False,False,S70944452
+treswa,Tree Swallow,Tachycineta bicolor,L1167737,Tibbets Valley Park,2020-06-28 17:15,,47.5393396,-122.0610656,True,False,False,S70944452
+barswa,Barn Swallow,Hirundo rustica,L1167737,Tibbets Valley Park,2020-06-28 17:15,,47.5393396,-122.0610656,True,False,False,S70944452
+eursta,European Starling,Sturnus vulgaris,L1167737,Tibbets Valley Park,2020-06-28 17:15,,47.5393396,-122.0610656,True,False,False,S70944452
+amerob,American Robin,Turdus migratorius,L1167737,Tibbets Valley Park,2020-06-28 17:15,,47.5393396,-122.0610656,True,False,False,S70944452
+houfin,House Finch,Haemorhous mexicanus,L1167737,Tibbets Valley Park,2020-06-28 17:15,,47.5393396,-122.0610656,True,False,False,S70944452
+daejun,Dark-eyed Junco,Junco hyemalis,L1167737,Tibbets Valley Park,2020-06-28 17:15,,47.5393396,-122.0610656,True,False,False,S70944452
+sonspa,Song Sparrow,Melospiza melodia,L1167737,Tibbets Valley Park,2020-06-28 17:15,,47.5393396,-122.0610656,True,False,False,S70944452
+spotow,Spotted Towhee,Pipilo maculatus,L1167737,Tibbets Valley Park,2020-06-28 17:15,,47.5393396,-122.0610656,True,False,False,S70944452
+rewbla,Red-winged Blackbird,Agelaius phoeniceus,L1167737,Tibbets Valley Park,2020-06-28 17:15,,47.5393396,-122.0610656,True,False,False,S70944452
+osprey,Osprey,Pandion haliaetus,L1167737,Tibbets Valley Park,2020-08-09 15:42,1.0,47.5393396,-122.0610656,True,False,False,S72262944
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L1167737,Tibbets Valley Park,2020-08-12 18:06,2.0,47.5393396,-122.0610656,True,False,False,S72357169
+annhum,Anna's Hummingbird,Calypte anna,L1167737,Tibbets Valley Park,2020-12-04 10:09,1.0,47.5393396,-122.0610656,True,False,False,S77055036
+glwgul,Glaucous-winged Gull,Larus glaucescens,L1167737,Tibbets Valley Park,2020-12-04 10:09,2.0,47.5393396,-122.0610656,True,False,False,S77055036
+amecro,American Crow,Corvus brachyrhynchos,L1167737,Tibbets Valley Park,2020-12-04 10:09,3.0,47.5393396,-122.0610656,True,False,False,S77055036
+eursta,European Starling,Sturnus vulgaris,L1167737,Tibbets Valley Park,2020-12-04 10:09,1.0,47.5393396,-122.0610656,True,False,False,S77055036
+amerob,American Robin,Turdus migratorius,L1167737,Tibbets Valley Park,2020-12-04 10:09,30.0,47.5393396,-122.0610656,True,False,False,S77055036
+pinsis,Pine Siskin,Spinus pinus,L1167737,Tibbets Valley Park,2020-12-04 10:09,30.0,47.5393396,-122.0610656,True,False,False,S77055036
+amegfi,American Goldfinch,Spinus tristis,L1167737,Tibbets Valley Park,2020-12-04 10:09,1.0,47.5393396,-122.0610656,True,False,False,S77055036
+daejun,Dark-eyed Junco,Junco hyemalis,L1167737,Tibbets Valley Park,2020-12-04 10:09,6.0,47.5393396,-122.0610656,True,False,False,S77055036
+sonspa,Song Sparrow,Melospiza melodia,L1167737,Tibbets Valley Park,2020-12-04 10:09,1.0,47.5393396,-122.0610656,True,False,False,S77055036
+batpig1,Band-tailed Pigeon,Patagioenas fasciata,L424117,Tradition Plateau,2019-06-11 20:27,2.0,47.5294956,-121.9962054,True,False,False,S57305386
+grbher3,Great Blue Heron,Ardea herodias,L424117,Tradition Plateau,2019-06-11 20:27,2.0,47.5294956,-121.9962054,True,False,False,S57305386
+vigswa,Violet-green Swallow,Tachycineta thalassina,L424117,Tradition Plateau,2019-06-11 20:27,20.0,47.5294956,-121.9962054,True,False,False,S57305386
+eursta,European Starling,Sturnus vulgaris,L424117,Tradition Plateau,2019-06-11 20:27,1.0,47.5294956,-121.9962054,True,False,False,S57305386
+amerob,American Robin,Turdus migratorius,L424117,Tradition Plateau,2019-06-11 20:27,3.0,47.5294956,-121.9962054,True,False,False,S57305386
+daejun,Dark-eyed Junco,Junco hyemalis,L424117,Tradition Plateau,2019-06-11 20:27,2.0,47.5294956,-121.9962054,True,False,False,S57305386
+whcspa,White-crowned Sparrow,Zonotrichia leucophrys,L424117,Tradition Plateau,2019-06-11 20:27,1.0,47.5294956,-121.9962054,True,False,False,S57305386
+sonspa,Song Sparrow,Melospiza melodia,L424117,Tradition Plateau,2019-06-11 20:27,1.0,47.5294956,-121.9962054,True,False,False,S57305386
+haiwoo,Hairy Woodpecker,Dryobates villosus,L424117,Tradition Plateau,2019-08-11 13:41,1.0,47.5294956,-121.9962054,True,False,False,S58926785
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L424117,Tradition Plateau,2019-08-11 13:41,15.0,47.5294956,-121.9962054,True,False,False,S58926785
+gockin,Golden-crowned Kinglet,Regulus satrapa,L424117,Tradition Plateau,2019-08-11 13:41,4.0,47.5294956,-121.9962054,True,False,False,S58926785
+rebnut,Red-breasted Nuthatch,Sitta canadensis,L424117,Tradition Plateau,2019-08-11 13:41,1.0,47.5294956,-121.9962054,True,False,False,S58926785
+brncre,Brown Creeper,Certhia americana,L424117,Tradition Plateau,2019-08-11 13:41,7.0,47.5294956,-121.9962054,True,False,False,S58926785
+pacwre1,Pacific Wren,Troglodytes pacificus,L424117,Tradition Plateau,2019-08-11 13:41,1.0,47.5294956,-121.9962054,True,False,False,S58926785
+cedwax,Cedar Waxwing,Bombycilla cedrorum,L424117,Tradition Plateau,2019-08-11 13:41,2.0,47.5294956,-121.9962054,True,False,False,S58926785
+daejun,Dark-eyed Junco,Junco hyemalis,L424117,Tradition Plateau,2019-08-11 13:41,12.0,47.5294956,-121.9962054,True,False,False,S58926785
+mallar3,Mallard,Anas platyrhynchos,L424117,Tradition Plateau,2019-08-12 15:00,11.0,47.5294956,-121.9962054,True,False,False,S58953809
+pibgre,Pied-billed Grebe,Podilymbus podiceps,L424117,Tradition Plateau,2019-08-12 15:00,2.0,47.5294956,-121.9962054,True,False,False,S58953809
+annhum,Anna's Hummingbird,Calypte anna,L424117,Tradition Plateau,2019-08-12 15:00,1.0,47.5294956,-121.9962054,True,False,False,S58953809
+turvul,Turkey Vulture,Cathartes aura,L424117,Tradition Plateau,2019-08-12 15:00,2.0,47.5294956,-121.9962054,True,False,False,S58953809
+belkin1,Belted Kingfisher,Megaceryle alcyon,L424117,Tradition Plateau,2019-08-12 15:00,1.0,47.5294956,-121.9962054,True,False,False,S58953809
+dowwoo,Downy Woodpecker,Dryobates pubescens,L424117,Tradition Plateau,2019-08-12 15:00,1.0,47.5294956,-121.9962054,True,False,False,S58953809
+pilwoo,Pileated Woodpecker,Dryocopus pileatus,L424117,Tradition Plateau,2019-08-12 15:00,1.0,47.5294956,-121.9962054,True,False,False,S58953809
+hamfly,Hammond's Flycatcher,Empidonax hammondii,L424117,Tradition Plateau,2019-08-12 15:00,1.0,47.5294956,-121.9962054,True,False,False,S58953809
+hutvir,Hutton's Vireo,Vireo huttoni,L424117,Tradition Plateau,2019-08-12 15:00,2.0,47.5294956,-121.9962054,True,False,False,S58953809
+casvir,Cassin's Vireo,Vireo cassinii,L424117,Tradition Plateau,2019-08-12 15:00,1.0,47.5294956,-121.9962054,True,False,False,S58953809
+warvir,Warbling Vireo,Vireo gilvus,L424117,Tradition Plateau,2019-08-12 15:00,1.0,47.5294956,-121.9962054,True,False,False,S58953809
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L424117,Tradition Plateau,2019-08-12 15:00,1.0,47.5294956,-121.9962054,True,False,False,S58953809
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L424117,Tradition Plateau,2019-08-12 15:00,25.0,47.5294956,-121.9962054,True,False,False,S58953809
+bushti,Bushtit,Psaltriparus minimus,L424117,Tradition Plateau,2019-08-12 15:00,2.0,47.5294956,-121.9962054,True,False,False,S58953809
+gockin,Golden-crowned Kinglet,Regulus satrapa,L424117,Tradition Plateau,2019-08-12 15:00,1.0,47.5294956,-121.9962054,True,False,False,S58953809
+rebnut,Red-breasted Nuthatch,Sitta canadensis,L424117,Tradition Plateau,2019-08-12 15:00,2.0,47.5294956,-121.9962054,True,False,False,S58953809
+brncre,Brown Creeper,Certhia americana,L424117,Tradition Plateau,2019-08-12 15:00,2.0,47.5294956,-121.9962054,True,False,False,S58953809
+bewwre,Bewick's Wren,Thryomanes bewickii,L424117,Tradition Plateau,2019-08-12 15:00,1.0,47.5294956,-121.9962054,True,False,False,S58953809
+cedwax,Cedar Waxwing,Bombycilla cedrorum,L424117,Tradition Plateau,2019-08-12 15:00,3.0,47.5294956,-121.9962054,True,False,False,S58953809
+houfin,House Finch,Haemorhous mexicanus,L424117,Tradition Plateau,2019-08-12 15:00,1.0,47.5294956,-121.9962054,True,False,False,S58953809
+amegfi,American Goldfinch,Spinus tristis,L424117,Tradition Plateau,2019-08-12 15:00,1.0,47.5294956,-121.9962054,True,False,False,S58953809
+whcspa,White-crowned Sparrow,Zonotrichia leucophrys,L424117,Tradition Plateau,2019-08-12 15:00,1.0,47.5294956,-121.9962054,True,False,False,S58953809
+spotow,Spotted Towhee,Pipilo maculatus,L424117,Tradition Plateau,2019-08-12 15:00,1.0,47.5294956,-121.9962054,True,False,False,S58953809
+wlswar,Wilson's Warbler,Cardellina pusilla,L424117,Tradition Plateau,2019-08-12 15:00,2.0,47.5294956,-121.9962054,True,False,False,S58953809
+westan,Western Tanager,Piranga ludoviciana,L424117,Tradition Plateau,2019-08-12 15:00,2.0,47.5294956,-121.9962054,True,False,False,S58953809
+coohaw,Cooper's Hawk,Accipiter cooperii,L424117,Tradition Plateau,2019-10-01 12:00,1.0,47.5294956,-121.9962054,True,False,False,S60271263
+rebsap,Red-breasted Sapsucker,Sphyrapicus ruber,L424117,Tradition Plateau,2019-10-01 12:00,1.0,47.5294956,-121.9962054,True,False,False,S60271263
+pilwoo,Pileated Woodpecker,Dryocopus pileatus,L424117,Tradition Plateau,2019-10-21 13:32,1.0,47.5294956,-121.9962054,True,False,False,S60826414
+gockin,Golden-crowned Kinglet,Regulus satrapa,L424117,Tradition Plateau,2019-10-21 13:32,2.0,47.5294956,-121.9962054,True,False,False,S60826414
+brncre,Brown Creeper,Certhia americana,L424117,Tradition Plateau,2019-10-21 13:32,1.0,47.5294956,-121.9962054,True,False,False,S60826414
+sonspa,Song Sparrow,Melospiza melodia,L424117,Tradition Plateau,2019-10-21 13:32,1.0,47.5294956,-121.9962054,True,False,False,S60826414
+gadwal,Gadwall,Mareca strepera,L424117,Tradition Plateau,2019-11-04 09:33,2.0,47.5294956,-121.9962054,True,False,False,S61180437
+buffle,Bufflehead,Bucephala albeola,L424117,Tradition Plateau,2019-11-04 09:33,11.0,47.5294956,-121.9962054,True,False,False,S61180437
+hoomer,Hooded Merganser,Lophodytes cucullatus,L424117,Tradition Plateau,2019-11-04 09:33,2.0,47.5294956,-121.9962054,True,False,False,S61180437
+grbher3,Great Blue Heron,Ardea herodias,L424117,Tradition Plateau,2019-11-04 09:33,1.0,47.5294956,-121.9962054,True,False,False,S61180437
+shshaw,Sharp-shinned Hawk,Accipiter striatus,L424117,Tradition Plateau,2019-11-04 09:33,1.0,47.5294956,-121.9962054,True,False,False,S61180437
+amecro,American Crow,Corvus brachyrhynchos,L424117,Tradition Plateau,2019-11-04 09:33,2.0,47.5294956,-121.9962054,True,False,False,S61180437
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L424117,Tradition Plateau,2019-11-04 09:33,12.0,47.5294956,-121.9962054,True,False,False,S61180437
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L424117,Tradition Plateau,2019-11-04 09:33,4.0,47.5294956,-121.9962054,True,False,False,S61180437
+ruckin,Ruby-crowned Kinglet,Corthylio calendula,L424117,Tradition Plateau,2019-11-04 09:33,1.0,47.5294956,-121.9962054,True,False,False,S61180437
+gockin,Golden-crowned Kinglet,Regulus satrapa,L424117,Tradition Plateau,2019-11-04 09:33,7.0,47.5294956,-121.9962054,True,False,False,S61180437
+brncre,Brown Creeper,Certhia americana,L424117,Tradition Plateau,2019-11-04 09:33,1.0,47.5294956,-121.9962054,True,False,False,S61180437
+pacwre1,Pacific Wren,Troglodytes pacificus,L424117,Tradition Plateau,2019-11-04 09:33,8.0,47.5294956,-121.9962054,True,False,False,S61180437
+daejun,Dark-eyed Junco,Junco hyemalis,L424117,Tradition Plateau,2019-11-04 09:33,1.0,47.5294956,-121.9962054,True,False,False,S61180437
+sonspa,Song Sparrow,Melospiza melodia,L424117,Tradition Plateau,2019-11-04 09:33,2.0,47.5294956,-121.9962054,True,False,False,S61180437
+stejay,Steller's Jay,Cyanocitta stelleri,L424117,Tradition Plateau,2019-12-06 09:13,1.0,47.5294956,-121.9962054,True,False,False,S62092421
+comrav,Common Raven,Corvus corax,L424117,Tradition Plateau,2019-12-06 09:13,1.0,47.5294956,-121.9962054,True,False,False,S62092421
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L424117,Tradition Plateau,2019-12-06 09:13,9.0,47.5294956,-121.9962054,True,False,False,S62092421
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L424117,Tradition Plateau,2019-12-06 09:13,7.0,47.5294956,-121.9962054,True,False,False,S62092421
+gockin,Golden-crowned Kinglet,Regulus satrapa,L424117,Tradition Plateau,2019-12-06 09:13,7.0,47.5294956,-121.9962054,True,False,False,S62092421
+pacwre1,Pacific Wren,Troglodytes pacificus,L424117,Tradition Plateau,2019-12-06 09:13,5.0,47.5294956,-121.9962054,True,False,False,S62092421
+amerob,American Robin,Turdus migratorius,L424117,Tradition Plateau,2019-12-06 09:13,3.0,47.5294956,-121.9962054,True,False,False,S62092421
+sonspa,Song Sparrow,Melospiza melodia,L424117,Tradition Plateau,2019-12-06 09:13,2.0,47.5294956,-121.9962054,True,False,False,S62092421
+hoomer,Hooded Merganser,Lophodytes cucullatus,L424117,Tradition Plateau,2019-12-14 09:04,2.0,47.5294956,-121.9962054,True,False,False,S62297289
+commer,Common Merganser,Mergus merganser,L424117,Tradition Plateau,2019-12-14 09:04,2.0,47.5294956,-121.9962054,True,False,False,S62297289
+grbher3,Great Blue Heron,Ardea herodias,L424117,Tradition Plateau,2019-12-14 09:04,1.0,47.5294956,-121.9962054,True,False,False,S62297289
+baleag,Bald Eagle,Haliaeetus leucocephalus,L424117,Tradition Plateau,2019-12-14 09:04,1.0,47.5294956,-121.9962054,True,False,False,S62297289
+haiwoo,Hairy Woodpecker,Dryobates villosus,L424117,Tradition Plateau,2019-12-14 09:04,1.0,47.5294956,-121.9962054,True,False,False,S62297289
+amecro,American Crow,Corvus brachyrhynchos,L424117,Tradition Plateau,2019-12-14 09:04,1.0,47.5294956,-121.9962054,True,False,False,S62297289
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L424117,Tradition Plateau,2019-12-14 09:04,2.0,47.5294956,-121.9962054,True,False,False,S62297289
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L424117,Tradition Plateau,2019-12-14 09:04,1.0,47.5294956,-121.9962054,True,False,False,S62297289
+ruckin,Ruby-crowned Kinglet,Corthylio calendula,L424117,Tradition Plateau,2019-12-14 09:04,1.0,47.5294956,-121.9962054,True,False,False,S62297289
+gockin,Golden-crowned Kinglet,Regulus satrapa,L424117,Tradition Plateau,2019-12-14 09:04,12.0,47.5294956,-121.9962054,True,False,False,S62297289
+brncre,Brown Creeper,Certhia americana,L424117,Tradition Plateau,2019-12-14 09:04,1.0,47.5294956,-121.9962054,True,False,False,S62297289
+sonspa,Song Sparrow,Melospiza melodia,L424117,Tradition Plateau,2019-12-14 09:04,1.0,47.5294956,-121.9962054,True,False,False,S62297289
+cangoo,Canada Goose,Branta canadensis,L424117,Tradition Plateau,2019-12-14 06:29,2.0,47.5294956,-121.9962054,True,False,False,S62292503
+mallar3,Mallard,Anas platyrhynchos,L424117,Tradition Plateau,2019-12-14 06:29,2.0,47.5294956,-121.9962054,True,False,False,S62292503
+pacwre1,Pacific Wren,Troglodytes pacificus,L424117,Tradition Plateau,2019-12-14 06:29,2.0,47.5294956,-121.9962054,True,False,False,S62292503
+pilwoo,Pileated Woodpecker,Dryocopus pileatus,L424117,Tradition Plateau,2019-12-25 09:12,1.0,47.5294956,-121.9962054,True,False,False,S62618989
+gryjay,Canada Jay,Perisoreus canadensis,L424117,Tradition Plateau,2019-12-25 09:12,3.0,47.5294956,-121.9962054,True,False,False,S62618989
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L424117,Tradition Plateau,2019-12-25 09:12,1.0,47.5294956,-121.9962054,True,False,False,S62618989
+gockin,Golden-crowned Kinglet,Regulus satrapa,L424117,Tradition Plateau,2019-12-25 09:12,2.0,47.5294956,-121.9962054,True,False,False,S62618989
+sonspa,Song Sparrow,Melospiza melodia,L424117,Tradition Plateau,2019-12-25 09:12,1.0,47.5294956,-121.9962054,True,False,False,S62618989
+spotow,Spotted Towhee,Pipilo maculatus,L424117,Tradition Plateau,2019-12-25 09:12,2.0,47.5294956,-121.9962054,True,False,False,S62618989
+rinduc,Ring-necked Duck,Aythya collaris,L424117,Tradition Plateau,2020-01-21 09:33,4.0,47.5294956,-121.9962054,True,False,False,S63636810
+buffle,Bufflehead,Bucephala albeola,L424117,Tradition Plateau,2020-01-21 09:33,3.0,47.5294956,-121.9962054,True,False,False,S63636810
+hoomer,Hooded Merganser,Lophodytes cucullatus,L424117,Tradition Plateau,2020-01-21 09:33,6.0,47.5294956,-121.9962054,True,False,False,S63636810
+commer,Common Merganser,Mergus merganser,L424117,Tradition Plateau,2020-01-21 09:33,7.0,47.5294956,-121.9962054,True,False,False,S63636810
+baleag,Bald Eagle,Haliaeetus leucocephalus,L424117,Tradition Plateau,2020-01-21 09:33,1.0,47.5294956,-121.9962054,True,False,False,S63636810
+rebsap,Red-breasted Sapsucker,Sphyrapicus ruber,L424117,Tradition Plateau,2020-01-21 09:33,1.0,47.5294956,-121.9962054,True,False,False,S63636810
+dowwoo,Downy Woodpecker,Dryobates pubescens,L424117,Tradition Plateau,2020-01-21 09:33,3.0,47.5294956,-121.9962054,True,False,False,S63636810
+haiwoo,Hairy Woodpecker,Dryobates villosus,L424117,Tradition Plateau,2020-01-21 09:33,2.0,47.5294956,-121.9962054,True,False,False,S63636810
+pilwoo,Pileated Woodpecker,Dryocopus pileatus,L424117,Tradition Plateau,2020-01-21 09:33,1.0,47.5294956,-121.9962054,True,False,False,S63636810
+norfli,Northern Flicker,Colaptes auratus,L424117,Tradition Plateau,2020-01-21 09:33,1.0,47.5294956,-121.9962054,True,False,False,S63636810
+stejay,Steller's Jay,Cyanocitta stelleri,L424117,Tradition Plateau,2020-01-21 09:33,1.0,47.5294956,-121.9962054,True,False,False,S63636810
+comrav,Common Raven,Corvus corax,L424117,Tradition Plateau,2020-01-21 09:33,2.0,47.5294956,-121.9962054,True,False,False,S63636810
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L424117,Tradition Plateau,2020-01-21 09:33,5.0,47.5294956,-121.9962054,True,False,False,S63636810
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L424117,Tradition Plateau,2020-01-21 09:33,2.0,47.5294956,-121.9962054,True,False,False,S63636810
+gockin,Golden-crowned Kinglet,Regulus satrapa,L424117,Tradition Plateau,2020-01-21 09:33,16.0,47.5294956,-121.9962054,True,False,False,S63636810
+brncre,Brown Creeper,Certhia americana,L424117,Tradition Plateau,2020-01-21 09:33,4.0,47.5294956,-121.9962054,True,False,False,S63636810
+pacwre1,Pacific Wren,Troglodytes pacificus,L424117,Tradition Plateau,2020-01-21 09:33,10.0,47.5294956,-121.9962054,True,False,False,S63636810
+rinduc,Ring-necked Duck,Aythya collaris,L424117,Tradition Plateau,2020-02-18 09:09,6.0,47.5294956,-121.9962054,True,False,False,S64841063
+lessca,Lesser Scaup,Aythya affinis,L424117,Tradition Plateau,2020-02-18 09:09,1.0,47.5294956,-121.9962054,True,False,False,S64841063
+hoomer,Hooded Merganser,Lophodytes cucullatus,L424117,Tradition Plateau,2020-02-18 09:09,2.0,47.5294956,-121.9962054,True,False,False,S64841063
+commer,Common Merganser,Mergus merganser,L424117,Tradition Plateau,2020-02-18 09:09,6.0,47.5294956,-121.9962054,True,False,False,S64841063
+baleag,Bald Eagle,Haliaeetus leucocephalus,L424117,Tradition Plateau,2020-02-18 09:09,2.0,47.5294956,-121.9962054,True,False,False,S64841063
+haiwoo,Hairy Woodpecker,Dryobates villosus,L424117,Tradition Plateau,2020-02-18 09:09,1.0,47.5294956,-121.9962054,True,False,False,S64841063
+pilwoo,Pileated Woodpecker,Dryocopus pileatus,L424117,Tradition Plateau,2020-02-18 09:09,1.0,47.5294956,-121.9962054,True,False,False,S64841063
+norfli,Northern Flicker,Colaptes auratus,L424117,Tradition Plateau,2020-02-18 09:09,2.0,47.5294956,-121.9962054,True,False,False,S64841063
+comrav,Common Raven,Corvus corax,L424117,Tradition Plateau,2020-02-18 09:09,2.0,47.5294956,-121.9962054,True,False,False,S64841063
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L424117,Tradition Plateau,2020-02-18 09:09,5.0,47.5294956,-121.9962054,True,False,False,S64841063
+ruckin,Ruby-crowned Kinglet,Corthylio calendula,L424117,Tradition Plateau,2020-02-18 09:09,1.0,47.5294956,-121.9962054,True,False,False,S64841063
+gockin,Golden-crowned Kinglet,Regulus satrapa,L424117,Tradition Plateau,2020-02-18 09:09,10.0,47.5294956,-121.9962054,True,False,False,S64841063
+brncre,Brown Creeper,Certhia americana,L424117,Tradition Plateau,2020-02-18 09:09,2.0,47.5294956,-121.9962054,True,False,False,S64841063
+pacwre1,Pacific Wren,Troglodytes pacificus,L424117,Tradition Plateau,2020-02-18 09:09,5.0,47.5294956,-121.9962054,True,False,False,S64841063
+amerob,American Robin,Turdus migratorius,L424117,Tradition Plateau,2020-02-18 09:09,5.0,47.5294956,-121.9962054,True,False,False,S64841063
+daejun,Dark-eyed Junco,Junco hyemalis,L424117,Tradition Plateau,2020-02-18 09:09,4.0,47.5294956,-121.9962054,True,False,False,S64841063
+sonspa,Song Sparrow,Melospiza melodia,L424117,Tradition Plateau,2020-02-18 09:09,1.0,47.5294956,-121.9962054,True,False,False,S64841063
+annhum,Anna's Hummingbird,Calypte anna,L424117,Tradition Plateau,2020-05-28 06:39,2.0,47.5294956,-121.9962054,True,False,False,S69821417
+rufhum,Rufous Hummingbird,Selasphorus rufus,L424117,Tradition Plateau,2020-05-28 06:39,2.0,47.5294956,-121.9962054,True,False,False,S69821417
+baleag,Bald Eagle,Haliaeetus leucocephalus,L424117,Tradition Plateau,2020-05-28 06:39,1.0,47.5294956,-121.9962054,True,False,False,S69821417
+rebsap,Red-breasted Sapsucker,Sphyrapicus ruber,L424117,Tradition Plateau,2020-05-28 06:39,1.0,47.5294956,-121.9962054,True,False,False,S69821417
+haiwoo,Hairy Woodpecker,Dryobates villosus,L424117,Tradition Plateau,2020-05-28 06:39,2.0,47.5294956,-121.9962054,True,False,False,S69821417
+pilwoo,Pileated Woodpecker,Dryocopus pileatus,L424117,Tradition Plateau,2020-05-28 06:39,1.0,47.5294956,-121.9962054,True,False,False,S69821417
+norfli,Northern Flicker,Colaptes auratus,L424117,Tradition Plateau,2020-05-28 06:39,2.0,47.5294956,-121.9962054,True,False,False,S69821417
+wilfly,Willow Flycatcher,Empidonax traillii,L424117,Tradition Plateau,2020-05-28 06:39,1.0,47.5294956,-121.9962054,True,False,False,S69821417
+hamfly,Hammond's Flycatcher,Empidonax hammondii,L424117,Tradition Plateau,2020-05-28 06:39,1.0,47.5294956,-121.9962054,True,False,False,S69821417
+pasfly,Pacific-slope Flycatcher,Empidonax difficilis,L424117,Tradition Plateau,2020-05-28 06:39,9.0,47.5294956,-121.9962054,True,False,False,S69821417
+hutvir,Hutton's Vireo,Vireo huttoni,L424117,Tradition Plateau,2020-05-28 06:39,1.0,47.5294956,-121.9962054,True,False,False,S69821417
+warvir,Warbling Vireo,Vireo gilvus,L424117,Tradition Plateau,2020-05-28 06:39,3.0,47.5294956,-121.9962054,True,False,False,S69821417
+comrav,Common Raven,Corvus corax,L424117,Tradition Plateau,2020-05-28 06:39,1.0,47.5294956,-121.9962054,True,False,False,S69821417
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L424117,Tradition Plateau,2020-05-28 06:39,3.0,47.5294956,-121.9962054,True,False,False,S69821417
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L424117,Tradition Plateau,2020-05-28 06:39,2.0,47.5294956,-121.9962054,True,False,False,S69821417
+bushti,Bushtit,Psaltriparus minimus,L424117,Tradition Plateau,2020-05-28 06:39,4.0,47.5294956,-121.9962054,True,False,False,S69821417
+rebnut,Red-breasted Nuthatch,Sitta canadensis,L424117,Tradition Plateau,2020-05-28 06:39,3.0,47.5294956,-121.9962054,True,False,False,S69821417
+pacwre1,Pacific Wren,Troglodytes pacificus,L424117,Tradition Plateau,2020-05-28 06:39,7.0,47.5294956,-121.9962054,True,False,False,S69821417
+swathr,Swainson's Thrush,Catharus ustulatus,L424117,Tradition Plateau,2020-05-28 06:39,6.0,47.5294956,-121.9962054,True,False,False,S69821417
+amerob,American Robin,Turdus migratorius,L424117,Tradition Plateau,2020-05-28 06:39,10.0,47.5294956,-121.9962054,True,False,False,S69821417
+daejun,Dark-eyed Junco,Junco hyemalis,L424117,Tradition Plateau,2020-05-28 06:39,3.0,47.5294956,-121.9962054,True,False,False,S69821417
+whcspa,White-crowned Sparrow,Zonotrichia leucophrys,L424117,Tradition Plateau,2020-05-28 06:39,1.0,47.5294956,-121.9962054,True,False,False,S69821417
+sonspa,Song Sparrow,Melospiza melodia,L424117,Tradition Plateau,2020-05-28 06:39,6.0,47.5294956,-121.9962054,True,False,False,S69821417
+spotow,Spotted Towhee,Pipilo maculatus,L424117,Tradition Plateau,2020-05-28 06:39,11.0,47.5294956,-121.9962054,True,False,False,S69821417
+macwar,MacGillivray's Warbler,Geothlypis tolmiei,L424117,Tradition Plateau,2020-05-28 06:39,4.0,47.5294956,-121.9962054,True,False,False,S69821417
+btywar,Black-throated Gray Warbler,Setophaga nigrescens,L424117,Tradition Plateau,2020-05-28 06:39,4.0,47.5294956,-121.9962054,True,False,False,S69821417
+wlswar,Wilson's Warbler,Cardellina pusilla,L424117,Tradition Plateau,2020-05-28 06:39,9.0,47.5294956,-121.9962054,True,False,False,S69821417
+westan,Western Tanager,Piranga ludoviciana,L424117,Tradition Plateau,2020-05-28 06:39,2.0,47.5294956,-121.9962054,True,False,False,S69821417
+bkhgro,Black-headed Grosbeak,Pheucticus melanocephalus,L424117,Tradition Plateau,2020-05-28 06:39,5.0,47.5294956,-121.9962054,True,False,False,S69821417
+rufhum,Rufous Hummingbird,Selasphorus rufus,L424117,Tradition Plateau,2020-05-29 14:43,1.0,47.5294956,-121.9962054,True,False,False,S69818759
+haiwoo,Hairy Woodpecker,Dryobates villosus,L424117,Tradition Plateau,2020-05-29 14:43,3.0,47.5294956,-121.9962054,True,False,False,S69818759
+haiwoo,Hairy Woodpecker,Dryobates villosus,L424117,Tradition Plateau,2020-05-29 14:43,6.0,47.5294956,-121.9962054,True,False,False,S69818759
+pilwoo,Pileated Woodpecker,Dryocopus pileatus,L424117,Tradition Plateau,2020-05-29 14:43,1.0,47.5294956,-121.9962054,True,False,False,S69818759
+olsfly,Olive-sided Flycatcher,Contopus cooperi,L424117,Tradition Plateau,2020-05-29 14:43,1.0,47.5294956,-121.9962054,True,False,False,S69818759
+pasfly,Pacific-slope Flycatcher,Empidonax difficilis,L424117,Tradition Plateau,2020-05-29 14:43,8.0,47.5294956,-121.9962054,True,False,False,S69818759
+warvir,Warbling Vireo,Vireo gilvus,L424117,Tradition Plateau,2020-05-29 14:43,1.0,47.5294956,-121.9962054,True,False,False,S69818759
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L424117,Tradition Plateau,2020-05-29 14:43,3.0,47.5294956,-121.9962054,True,False,False,S69818759
+brncre,Brown Creeper,Certhia americana,L424117,Tradition Plateau,2020-05-29 14:43,4.0,47.5294956,-121.9962054,True,False,False,S69818759
+pacwre1,Pacific Wren,Troglodytes pacificus,L424117,Tradition Plateau,2020-05-29 14:43,3.0,47.5294956,-121.9962054,True,False,False,S69818759
+swathr,Swainson's Thrush,Catharus ustulatus,L424117,Tradition Plateau,2020-05-29 14:43,9.0,47.5294956,-121.9962054,True,False,False,S69818759
+amerob,American Robin,Turdus migratorius,L424117,Tradition Plateau,2020-05-29 14:43,4.0,47.5294956,-121.9962054,True,False,False,S69818759
+evegro,Evening Grosbeak,Coccothraustes vespertinus,L424117,Tradition Plateau,2020-05-29 14:43,3.0,47.5294956,-121.9962054,True,False,False,S69818759
+daejun,Dark-eyed Junco,Junco hyemalis,L424117,Tradition Plateau,2020-05-29 14:43,5.0,47.5294956,-121.9962054,True,False,False,S69818759
+daejun,Dark-eyed Junco,Junco hyemalis,L424117,Tradition Plateau,2020-05-29 14:43,2.0,47.5294956,-121.9962054,True,False,False,S69818759
+sonspa,Song Sparrow,Melospiza melodia,L424117,Tradition Plateau,2020-05-29 14:43,3.0,47.5294956,-121.9962054,True,False,False,S69818759
+spotow,Spotted Towhee,Pipilo maculatus,L424117,Tradition Plateau,2020-05-29 14:43,1.0,47.5294956,-121.9962054,True,False,False,S69818759
+spotow,Spotted Towhee,Pipilo maculatus,L424117,Tradition Plateau,2020-05-29 14:43,1.0,47.5294956,-121.9962054,True,False,False,S69818759
+btywar,Black-throated Gray Warbler,Setophaga nigrescens,L424117,Tradition Plateau,2020-05-29 14:43,6.0,47.5294956,-121.9962054,True,False,False,S69818759
+towwar,Townsend's Warbler,Setophaga townsendi,L424117,Tradition Plateau,2020-05-29 14:43,1.0,47.5294956,-121.9962054,True,False,False,S69818759
+wlswar,Wilson's Warbler,Cardellina pusilla,L424117,Tradition Plateau,2020-05-29 14:43,8.0,47.5294956,-121.9962054,True,False,False,S69818759
+westan,Western Tanager,Piranga ludoviciana,L424117,Tradition Plateau,2020-05-29 14:43,3.0,47.5294956,-121.9962054,True,False,False,S69818759
+bkhgro,Black-headed Grosbeak,Pheucticus melanocephalus,L424117,Tradition Plateau,2020-05-29 14:43,8.0,47.5294956,-121.9962054,True,False,False,S69818759
+cedwax,Cedar Waxwing,Bombycilla cedrorum,L424117,Tradition Plateau,2020-06-18 12:05,3.0,47.5294956,-121.9962054,True,False,False,S70721052
+mallar3,Mallard,Anas platyrhynchos,L424117,Tradition Plateau,2020-06-23 06:39,3.0,47.5294956,-121.9962054,True,False,False,S70763248
+rufhum,Rufous Hummingbird,Selasphorus rufus,L424117,Tradition Plateau,2020-06-23 06:39,4.0,47.5294956,-121.9962054,True,False,False,S70763248
+rebsap,Red-breasted Sapsucker,Sphyrapicus ruber,L424117,Tradition Plateau,2020-06-23 06:39,1.0,47.5294956,-121.9962054,True,False,False,S70763248
+wilfly,Willow Flycatcher,Empidonax traillii,L424117,Tradition Plateau,2020-06-23 06:39,4.0,47.5294956,-121.9962054,True,False,False,S70763248
+pasfly,Pacific-slope Flycatcher,Empidonax difficilis,L424117,Tradition Plateau,2020-06-23 06:39,7.0,47.5294956,-121.9962054,True,False,False,S70763248
+warvir,Warbling Vireo,Vireo gilvus,L424117,Tradition Plateau,2020-06-23 06:39,1.0,47.5294956,-121.9962054,True,False,False,S70763248
+reevir1,Red-eyed Vireo,Vireo olivaceus,L424117,Tradition Plateau,2020-06-23 06:39,1.0,47.5294956,-121.9962054,True,False,False,S70763248
+comrav,Common Raven,Corvus corax,L424117,Tradition Plateau,2020-06-23 06:39,1.0,47.5294956,-121.9962054,True,False,False,S70763248
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L424117,Tradition Plateau,2020-06-23 06:39,12.0,47.5294956,-121.9962054,True,False,False,S70763248
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L424117,Tradition Plateau,2020-06-23 06:39,12.0,47.5294956,-121.9962054,True,False,False,S70763248
+bushti,Bushtit,Psaltriparus minimus,L424117,Tradition Plateau,2020-06-23 06:39,4.0,47.5294956,-121.9962054,True,False,False,S70763248
+rebnut,Red-breasted Nuthatch,Sitta canadensis,L424117,Tradition Plateau,2020-06-23 06:39,9.0,47.5294956,-121.9962054,True,False,False,S70763248
+brncre,Brown Creeper,Certhia americana,L424117,Tradition Plateau,2020-06-23 06:39,6.0,47.5294956,-121.9962054,True,False,False,S70763248
+pacwre1,Pacific Wren,Troglodytes pacificus,L424117,Tradition Plateau,2020-06-23 06:39,7.0,47.5294956,-121.9962054,True,False,False,S70763248
+swathr,Swainson's Thrush,Catharus ustulatus,L424117,Tradition Plateau,2020-06-23 06:39,8.0,47.5294956,-121.9962054,True,False,False,S70763248
+amerob,American Robin,Turdus migratorius,L424117,Tradition Plateau,2020-06-23 06:39,8.0,47.5294956,-121.9962054,True,False,False,S70763248
+purfin,Purple Finch,Haemorhous purpureus,L424117,Tradition Plateau,2020-06-23 06:39,1.0,47.5294956,-121.9962054,True,False,False,S70763248
+daejun,Dark-eyed Junco,Junco hyemalis,L424117,Tradition Plateau,2020-06-23 06:39,2.0,47.5294956,-121.9962054,True,False,False,S70763248
+whcspa,White-crowned Sparrow,Zonotrichia leucophrys,L424117,Tradition Plateau,2020-06-23 06:39,1.0,47.5294956,-121.9962054,True,False,False,S70763248
+sonspa,Song Sparrow,Melospiza melodia,L424117,Tradition Plateau,2020-06-23 06:39,5.0,47.5294956,-121.9962054,True,False,False,S70763248
+spotow,Spotted Towhee,Pipilo maculatus,L424117,Tradition Plateau,2020-06-23 06:39,8.0,47.5294956,-121.9962054,True,False,False,S70763248
+macwar,MacGillivray's Warbler,Geothlypis tolmiei,L424117,Tradition Plateau,2020-06-23 06:39,2.0,47.5294956,-121.9962054,True,False,False,S70763248
+btywar,Black-throated Gray Warbler,Setophaga nigrescens,L424117,Tradition Plateau,2020-06-23 06:39,7.0,47.5294956,-121.9962054,True,False,False,S70763248
+wlswar,Wilson's Warbler,Cardellina pusilla,L424117,Tradition Plateau,2020-06-23 06:39,7.0,47.5294956,-121.9962054,True,False,False,S70763248
+westan,Western Tanager,Piranga ludoviciana,L424117,Tradition Plateau,2020-06-23 06:39,1.0,47.5294956,-121.9962054,True,False,False,S70763248
+bkhgro,Black-headed Grosbeak,Pheucticus melanocephalus,L424117,Tradition Plateau,2020-06-23 06:39,2.0,47.5294956,-121.9962054,True,False,False,S70763248
+mallar3,Mallard,Anas platyrhynchos,L424117,Tradition Plateau,2020-07-10 06:32,3.0,47.5294956,-121.9962054,True,False,False,S71435179
+hoomer,Hooded Merganser,Lophodytes cucullatus,L424117,Tradition Plateau,2020-07-10 06:32,4.0,47.5294956,-121.9962054,True,False,False,S71435179
+batpig1,Band-tailed Pigeon,Patagioenas fasciata,L424117,Tradition Plateau,2020-07-10 06:32,1.0,47.5294956,-121.9962054,True,False,False,S71435179
+haiwoo,Hairy Woodpecker,Dryobates villosus,L424117,Tradition Plateau,2020-07-10 06:32,1.0,47.5294956,-121.9962054,True,False,False,S71435179
+pilwoo,Pileated Woodpecker,Dryocopus pileatus,L424117,Tradition Plateau,2020-07-10 06:32,1.0,47.5294956,-121.9962054,True,False,False,S71435179
+wilfly,Willow Flycatcher,Empidonax traillii,L424117,Tradition Plateau,2020-07-10 06:32,1.0,47.5294956,-121.9962054,True,False,False,S71435179
+pasfly,Pacific-slope Flycatcher,Empidonax difficilis,L424117,Tradition Plateau,2020-07-10 06:32,3.0,47.5294956,-121.9962054,True,False,False,S71435179
+reevir1,Red-eyed Vireo,Vireo olivaceus,L424117,Tradition Plateau,2020-07-10 06:32,1.0,47.5294956,-121.9962054,True,False,False,S71435179
+stejay,Steller's Jay,Cyanocitta stelleri,L424117,Tradition Plateau,2020-07-10 06:32,1.0,47.5294956,-121.9962054,True,False,False,S71435179
+comrav,Common Raven,Corvus corax,L424117,Tradition Plateau,2020-07-10 06:32,2.0,47.5294956,-121.9962054,True,False,False,S71435179
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L424117,Tradition Plateau,2020-07-10 06:32,15.0,47.5294956,-121.9962054,True,False,False,S71435179
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L424117,Tradition Plateau,2020-07-10 06:32,4.0,47.5294956,-121.9962054,True,False,False,S71435179
+bushti,Bushtit,Psaltriparus minimus,L424117,Tradition Plateau,2020-07-10 06:32,4.0,47.5294956,-121.9962054,True,False,False,S71435179
+gockin,Golden-crowned Kinglet,Regulus satrapa,L424117,Tradition Plateau,2020-07-10 06:32,1.0,47.5294956,-121.9962054,True,False,False,S71435179
+rebnut,Red-breasted Nuthatch,Sitta canadensis,L424117,Tradition Plateau,2020-07-10 06:32,6.0,47.5294956,-121.9962054,True,False,False,S71435179
+pacwre1,Pacific Wren,Troglodytes pacificus,L424117,Tradition Plateau,2020-07-10 06:32,9.0,47.5294956,-121.9962054,True,False,False,S71435179
+bewwre,Bewick's Wren,Thryomanes bewickii,L424117,Tradition Plateau,2020-07-10 06:32,2.0,47.5294956,-121.9962054,True,False,False,S71435179
+swathr,Swainson's Thrush,Catharus ustulatus,L424117,Tradition Plateau,2020-07-10 06:32,10.0,47.5294956,-121.9962054,True,False,False,S71435179
+amerob,American Robin,Turdus migratorius,L424117,Tradition Plateau,2020-07-10 06:32,19.0,47.5294956,-121.9962054,True,False,False,S71435179
+redcro,Red Crossbill,Loxia curvirostra,L424117,Tradition Plateau,2020-07-10 06:32,1.0,47.5294956,-121.9962054,True,False,False,S71435179
+daejun,Dark-eyed Junco,Junco hyemalis,L424117,Tradition Plateau,2020-07-10 06:32,9.0,47.5294956,-121.9962054,True,False,False,S71435179
+whcspa,White-crowned Sparrow,Zonotrichia leucophrys,L424117,Tradition Plateau,2020-07-10 06:32,1.0,47.5294956,-121.9962054,True,False,False,S71435179
+sonspa,Song Sparrow,Melospiza melodia,L424117,Tradition Plateau,2020-07-10 06:32,5.0,47.5294956,-121.9962054,True,False,False,S71435179
+spotow,Spotted Towhee,Pipilo maculatus,L424117,Tradition Plateau,2020-07-10 06:32,11.0,47.5294956,-121.9962054,True,False,False,S71435179
+bnhcow,Brown-headed Cowbird,Molothrus ater,L424117,Tradition Plateau,2020-07-10 06:32,1.0,47.5294956,-121.9962054,True,False,False,S71435179
+macwar,MacGillivray's Warbler,Geothlypis tolmiei,L424117,Tradition Plateau,2020-07-10 06:32,3.0,47.5294956,-121.9962054,True,False,False,S71435179
+btywar,Black-throated Gray Warbler,Setophaga nigrescens,L424117,Tradition Plateau,2020-07-10 06:32,2.0,47.5294956,-121.9962054,True,False,False,S71435179
+wlswar,Wilson's Warbler,Cardellina pusilla,L424117,Tradition Plateau,2020-07-10 06:32,3.0,47.5294956,-121.9962054,True,False,False,S71435179
+westan,Western Tanager,Piranga ludoviciana,L424117,Tradition Plateau,2020-07-10 06:32,2.0,47.5294956,-121.9962054,True,False,False,S71435179
+bkhgro,Black-headed Grosbeak,Pheucticus melanocephalus,L424117,Tradition Plateau,2020-07-10 06:32,1.0,47.5294956,-121.9962054,True,False,False,S71435179
+turvul,Turkey Vulture,Cathartes aura,L424117,Tradition Plateau,2020-07-25 18:48,1.0,47.5294956,-121.9962054,True,False,False,S71839620
+haiwoo,Hairy Woodpecker,Dryobates villosus,L424117,Tradition Plateau,2020-07-25 18:48,1.0,47.5294956,-121.9962054,True,False,False,S71839620
+amerob,American Robin,Turdus migratorius,L424117,Tradition Plateau,2020-07-25 18:48,4.0,47.5294956,-121.9962054,True,False,False,S71839620
+spotow,Spotted Towhee,Pipilo maculatus,L424117,Tradition Plateau,2020-07-25 18:48,1.0,47.5294956,-121.9962054,True,False,False,S71839620
+mallar3,Mallard,Anas platyrhynchos,L424117,Tradition Plateau,2020-08-13 07:06,6.0,47.5294956,-121.9962054,True,False,False,S72383548
+annhum,Anna's Hummingbird,Calypte anna,L424117,Tradition Plateau,2020-08-13 07:06,1.0,47.5294956,-121.9962054,True,False,False,S72383548
+dowwoo,Downy Woodpecker,Dryobates pubescens,L424117,Tradition Plateau,2020-08-13 07:06,3.0,47.5294956,-121.9962054,True,False,False,S72383548
+haiwoo,Hairy Woodpecker,Dryobates villosus,L424117,Tradition Plateau,2020-08-13 07:06,1.0,47.5294956,-121.9962054,True,False,False,S72383548
+pilwoo,Pileated Woodpecker,Dryocopus pileatus,L424117,Tradition Plateau,2020-08-13 07:06,3.0,47.5294956,-121.9962054,True,False,False,S72383548
+pasfly,Pacific-slope Flycatcher,Empidonax difficilis,L424117,Tradition Plateau,2020-08-13 07:06,2.0,47.5294956,-121.9962054,True,False,False,S72383548
+stejay,Steller's Jay,Cyanocitta stelleri,L424117,Tradition Plateau,2020-08-13 07:06,2.0,47.5294956,-121.9962054,True,False,False,S72383548
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L424117,Tradition Plateau,2020-08-13 07:06,18.0,47.5294956,-121.9962054,True,False,False,S72383548
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L424117,Tradition Plateau,2020-08-13 07:06,7.0,47.5294956,-121.9962054,True,False,False,S72383548
+bushti,Bushtit,Psaltriparus minimus,L424117,Tradition Plateau,2020-08-13 07:06,16.0,47.5294956,-121.9962054,True,False,False,S72383548
+rebnut,Red-breasted Nuthatch,Sitta canadensis,L424117,Tradition Plateau,2020-08-13 07:06,6.0,47.5294956,-121.9962054,True,False,False,S72383548
+pacwre1,Pacific Wren,Troglodytes pacificus,L424117,Tradition Plateau,2020-08-13 07:06,3.0,47.5294956,-121.9962054,True,False,False,S72383548
+bewwre,Bewick's Wren,Thryomanes bewickii,L424117,Tradition Plateau,2020-08-13 07:06,1.0,47.5294956,-121.9962054,True,False,False,S72383548
+swathr,Swainson's Thrush,Catharus ustulatus,L424117,Tradition Plateau,2020-08-13 07:06,2.0,47.5294956,-121.9962054,True,False,False,S72383548
+cedwax,Cedar Waxwing,Bombycilla cedrorum,L424117,Tradition Plateau,2020-08-13 07:06,10.0,47.5294956,-121.9962054,True,False,False,S72383548
+redcro,Red Crossbill,Loxia curvirostra,L424117,Tradition Plateau,2020-08-13 07:06,3.0,47.5294956,-121.9962054,True,False,False,S72383548
+daejun,Dark-eyed Junco,Junco hyemalis,L424117,Tradition Plateau,2020-08-13 07:06,2.0,47.5294956,-121.9962054,True,False,False,S72383548
+sonspa,Song Sparrow,Melospiza melodia,L424117,Tradition Plateau,2020-08-13 07:06,1.0,47.5294956,-121.9962054,True,False,False,S72383548
+spotow,Spotted Towhee,Pipilo maculatus,L424117,Tradition Plateau,2020-08-13 07:06,8.0,47.5294956,-121.9962054,True,False,False,S72383548
+macwar,MacGillivray's Warbler,Geothlypis tolmiei,L424117,Tradition Plateau,2020-08-13 07:06,2.0,47.5294956,-121.9962054,True,False,False,S72383548
+btywar,Black-throated Gray Warbler,Setophaga nigrescens,L424117,Tradition Plateau,2020-08-13 07:06,3.0,47.5294956,-121.9962054,True,False,False,S72383548
+wlswar,Wilson's Warbler,Cardellina pusilla,L424117,Tradition Plateau,2020-08-13 07:06,2.0,47.5294956,-121.9962054,True,False,False,S72383548
+cangoo,Canada Goose,Branta canadensis,L424117,Tradition Plateau,2020-09-06 13:14,7.0,47.5294956,-121.9962054,True,False,False,S73331151
+mallar3,Mallard,Anas platyrhynchos,L424117,Tradition Plateau,2020-09-06 13:14,17.0,47.5294956,-121.9962054,True,False,False,S73331151
+commer,Common Merganser,Mergus merganser,L424117,Tradition Plateau,2020-09-06 13:14,1.0,47.5294956,-121.9962054,True,False,False,S73331151
+calgul,California Gull,Larus californicus,L424117,Tradition Plateau,2020-09-06 13:14,3.0,47.5294956,-121.9962054,True,False,False,S73331151
+glwgul,Glaucous-winged Gull,Larus glaucescens,L424117,Tradition Plateau,2020-09-06 13:14,6.0,47.5294956,-121.9962054,True,False,False,S73331151
+grbher3,Great Blue Heron,Ardea herodias,L424117,Tradition Plateau,2020-09-06 13:14,1.0,47.5294956,-121.9962054,True,False,False,S73331151
+osprey,Osprey,Pandion haliaetus,L424117,Tradition Plateau,2020-09-06 13:14,7.0,47.5294956,-121.9962054,True,False,False,S73331151
+baleag,Bald Eagle,Haliaeetus leucocephalus,L424117,Tradition Plateau,2020-09-06 13:14,2.0,47.5294956,-121.9962054,True,False,False,S73331151
+belkin1,Belted Kingfisher,Megaceryle alcyon,L424117,Tradition Plateau,2020-09-06 13:14,3.0,47.5294956,-121.9962054,True,False,False,S73331151
+stejay,Steller's Jay,Cyanocitta stelleri,L424117,Tradition Plateau,2020-09-06 13:14,2.0,47.5294956,-121.9962054,True,False,False,S73331151
+amecro,American Crow,Corvus brachyrhynchos,L424117,Tradition Plateau,2020-09-06 13:14,4.0,47.5294956,-121.9962054,True,False,False,S73331151
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L424117,Tradition Plateau,2020-09-06 13:14,7.0,47.5294956,-121.9962054,True,False,False,S73331151
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L424117,Tradition Plateau,2020-09-06 13:14,5.0,47.5294956,-121.9962054,True,False,False,S73331151
+foxspa,Fox Sparrow,Passerella iliaca,L424117,Tradition Plateau,2020-09-06 13:14,2.0,47.5294956,-121.9962054,True,False,False,S73331151
+daejun,Dark-eyed Junco,Junco hyemalis,L424117,Tradition Plateau,2020-09-06 13:14,7.0,47.5294956,-121.9962054,True,False,False,S73331151
+mallar3,Mallard,Anas platyrhynchos,L424117,Tradition Plateau,2020-09-22 11:17,6.0,47.5294956,-121.9962054,True,False,False,S73947334
+pilwoo,Pileated Woodpecker,Dryocopus pileatus,L424117,Tradition Plateau,2020-09-22 11:17,1.0,47.5294956,-121.9962054,True,False,False,S73947334
+norfli,Northern Flicker,Colaptes auratus,L424117,Tradition Plateau,2020-09-22 11:17,1.0,47.5294956,-121.9962054,True,False,False,S73947334
+stejay,Steller's Jay,Cyanocitta stelleri,L424117,Tradition Plateau,2020-09-22 11:17,3.0,47.5294956,-121.9962054,True,False,False,S73947334
+comrav,Common Raven,Corvus corax,L424117,Tradition Plateau,2020-09-22 11:17,3.0,47.5294956,-121.9962054,True,False,False,S73947334
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L424117,Tradition Plateau,2020-09-22 11:17,13.0,47.5294956,-121.9962054,True,False,False,S73947334
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L424117,Tradition Plateau,2020-09-22 11:17,10.0,47.5294956,-121.9962054,True,False,False,S73947334
+bushti,Bushtit,Psaltriparus minimus,L424117,Tradition Plateau,2020-09-22 11:17,6.0,47.5294956,-121.9962054,True,False,False,S73947334
+gockin,Golden-crowned Kinglet,Regulus satrapa,L424117,Tradition Plateau,2020-09-22 11:17,2.0,47.5294956,-121.9962054,True,False,False,S73947334
+rebnut,Red-breasted Nuthatch,Sitta canadensis,L424117,Tradition Plateau,2020-09-22 11:17,10.0,47.5294956,-121.9962054,True,False,False,S73947334
+pacwre1,Pacific Wren,Troglodytes pacificus,L424117,Tradition Plateau,2020-09-22 11:17,4.0,47.5294956,-121.9962054,True,False,False,S73947334
+bewwre,Bewick's Wren,Thryomanes bewickii,L424117,Tradition Plateau,2020-09-22 11:17,1.0,47.5294956,-121.9962054,True,False,False,S73947334
+amegfi,American Goldfinch,Spinus tristis,L424117,Tradition Plateau,2020-09-22 11:17,1.0,47.5294956,-121.9962054,True,False,False,S73947334
+daejun,Dark-eyed Junco,Junco hyemalis,L424117,Tradition Plateau,2020-09-22 11:17,12.0,47.5294956,-121.9962054,True,False,False,S73947334
+whcspa,White-crowned Sparrow,Zonotrichia leucophrys,L424117,Tradition Plateau,2020-09-22 11:17,1.0,47.5294956,-121.9962054,True,False,False,S73947334
+sonspa,Song Sparrow,Melospiza melodia,L424117,Tradition Plateau,2020-09-22 11:17,5.0,47.5294956,-121.9962054,True,False,False,S73947334
+spotow,Spotted Towhee,Pipilo maculatus,L424117,Tradition Plateau,2020-09-22 11:17,8.0,47.5294956,-121.9962054,True,False,False,S73947334
+wooduc,Wood Duck,Aix sponsa,L424117,Tradition Plateau,2020-10-03 12:20,4.0,47.5294956,-121.9962054,True,False,False,S74372578
+mallar3,Mallard,Anas platyrhynchos,L424117,Tradition Plateau,2020-10-03 12:20,,47.5294956,-121.9962054,True,False,False,S74372578
+hoomer,Hooded Merganser,Lophodytes cucullatus,L424117,Tradition Plateau,2020-10-03 12:20,1.0,47.5294956,-121.9962054,True,False,False,S74372578
+belkin1,Belted Kingfisher,Megaceryle alcyon,L424117,Tradition Plateau,2020-10-03 12:20,2.0,47.5294956,-121.9962054,True,False,False,S74372578
+merlin,Merlin,Falco columbarius,L424117,Tradition Plateau,2020-10-03 12:20,1.0,47.5294956,-121.9962054,True,False,False,S74372578
+rebnut,Red-breasted Nuthatch,Sitta canadensis,L424117,Tradition Plateau,2020-10-03 12:20,,47.5294956,-121.9962054,True,False,False,S74372578
+sonspa,Song Sparrow,Melospiza melodia,L424117,Tradition Plateau,2020-10-03 12:20,,47.5294956,-121.9962054,True,False,False,S74372578
+cangoo,Canada Goose,Branta canadensis,L424117,Tradition Plateau,2020-10-16 07:22,38.0,47.5294956,-121.9962054,True,False,False,S75452649
+wooduc,Wood Duck,Aix sponsa,L424117,Tradition Plateau,2020-10-16 07:22,2.0,47.5294956,-121.9962054,True,False,False,S75452649
+mallar3,Mallard,Anas platyrhynchos,L424117,Tradition Plateau,2020-10-16 07:22,8.0,47.5294956,-121.9962054,True,False,False,S75452649
+pibgre,Pied-billed Grebe,Podilymbus podiceps,L424117,Tradition Plateau,2020-10-16 07:22,2.0,47.5294956,-121.9962054,True,False,False,S75452649
+norfli,Northern Flicker,Colaptes auratus,L424117,Tradition Plateau,2020-10-16 07:22,1.0,47.5294956,-121.9962054,True,False,False,S75452649
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L424117,Tradition Plateau,2020-10-16 07:22,20.0,47.5294956,-121.9962054,True,False,False,S75452649
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L424117,Tradition Plateau,2020-10-16 07:22,2.0,47.5294956,-121.9962054,True,False,False,S75452649
+ruckin,Ruby-crowned Kinglet,Corthylio calendula,L424117,Tradition Plateau,2020-10-16 07:22,5.0,47.5294956,-121.9962054,True,False,False,S75452649
+gockin,Golden-crowned Kinglet,Regulus satrapa,L424117,Tradition Plateau,2020-10-16 07:22,7.0,47.5294956,-121.9962054,True,False,False,S75452649
+rebnut,Red-breasted Nuthatch,Sitta canadensis,L424117,Tradition Plateau,2020-10-16 07:22,8.0,47.5294956,-121.9962054,True,False,False,S75452649
+brncre,Brown Creeper,Certhia americana,L424117,Tradition Plateau,2020-10-16 07:22,1.0,47.5294956,-121.9962054,True,False,False,S75452649
+pacwre1,Pacific Wren,Troglodytes pacificus,L424117,Tradition Plateau,2020-10-16 07:22,9.0,47.5294956,-121.9962054,True,False,False,S75452649
+varthr,Varied Thrush,Ixoreus naevius,L424117,Tradition Plateau,2020-10-16 07:22,3.0,47.5294956,-121.9962054,True,False,False,S75452649
+amerob,American Robin,Turdus migratorius,L424117,Tradition Plateau,2020-10-16 07:22,1.0,47.5294956,-121.9962054,True,False,False,S75452649
+sonspa,Song Sparrow,Melospiza melodia,L424117,Tradition Plateau,2020-10-16 07:22,6.0,47.5294956,-121.9962054,True,False,False,S75452649
+spotow,Spotted Towhee,Pipilo maculatus,L424117,Tradition Plateau,2020-10-16 07:22,4.0,47.5294956,-121.9962054,True,False,False,S75452649
+rebsap,Red-breasted Sapsucker,Sphyrapicus ruber,L424117,Tradition Plateau,2020-11-01 11:52,1.0,47.5294956,-121.9962054,True,False,False,S75752756
+norfli,Northern Flicker,Colaptes auratus,L424117,Tradition Plateau,2020-11-01 11:52,1.0,47.5294956,-121.9962054,True,False,False,S75752756
+amecro,American Crow,Corvus brachyrhynchos,L424117,Tradition Plateau,2020-11-01 11:52,1.0,47.5294956,-121.9962054,True,False,False,S75752756
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L424117,Tradition Plateau,2020-11-01 11:52,2.0,47.5294956,-121.9962054,True,False,False,S75752756
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L424117,Tradition Plateau,2020-11-01 11:52,2.0,47.5294956,-121.9962054,True,False,False,S75752756
+ruckin,Ruby-crowned Kinglet,Corthylio calendula,L424117,Tradition Plateau,2020-11-01 11:52,1.0,47.5294956,-121.9962054,True,False,False,S75752756
+gockin,Golden-crowned Kinglet,Regulus satrapa,L424117,Tradition Plateau,2020-11-01 11:52,2.0,47.5294956,-121.9962054,True,False,False,S75752756
+rebnut,Red-breasted Nuthatch,Sitta canadensis,L424117,Tradition Plateau,2020-11-01 11:52,3.0,47.5294956,-121.9962054,True,False,False,S75752756
+brncre,Brown Creeper,Certhia americana,L424117,Tradition Plateau,2020-11-01 11:52,2.0,47.5294956,-121.9962054,True,False,False,S75752756
+pacwre1,Pacific Wren,Troglodytes pacificus,L424117,Tradition Plateau,2020-11-01 11:52,2.0,47.5294956,-121.9962054,True,False,False,S75752756
+amerob,American Robin,Turdus migratorius,L424117,Tradition Plateau,2020-11-01 11:52,1.0,47.5294956,-121.9962054,True,False,False,S75752756
+daejun,Dark-eyed Junco,Junco hyemalis,L424117,Tradition Plateau,2020-11-01 11:52,3.0,47.5294956,-121.9962054,True,False,False,S75752756
+spotow,Spotted Towhee,Pipilo maculatus,L424117,Tradition Plateau,2020-11-01 11:52,1.0,47.5294956,-121.9962054,True,False,False,S75752756
+lessca,Lesser Scaup,Aythya affinis,L424117,Tradition Plateau,2020-11-01 10:31,1.0,47.5294956,-121.9962054,True,False,False,S75701067
+buffle,Bufflehead,Bucephala albeola,L424117,Tradition Plateau,2020-11-01 10:31,11.0,47.5294956,-121.9962054,True,False,False,S75701067
+pibgre,Pied-billed Grebe,Podilymbus podiceps,L424117,Tradition Plateau,2020-11-01 10:31,4.0,47.5294956,-121.9962054,True,False,False,S75701067
+annhum,Anna's Hummingbird,Calypte anna,L424117,Tradition Plateau,2020-11-01 10:31,4.0,47.5294956,-121.9962054,True,False,False,S75701067
+y00475,American Coot,Fulica americana,L424117,Tradition Plateau,2020-11-01 10:31,2.0,47.5294956,-121.9962054,True,False,False,S75701067
+cangoo,Canada Goose,Branta canadensis,L424117,Tradition Plateau,2020-11-27 07:00,50.0,47.5294956,-121.9962054,True,False,False,S76783389
+truswa,Trumpeter Swan,Cygnus buccinator,L424117,Tradition Plateau,2020-11-27 07:00,6.0,47.5294956,-121.9962054,True,False,False,S76783389
+gadwal,Gadwall,Mareca strepera,L424117,Tradition Plateau,2020-11-27 07:00,7.0,47.5294956,-121.9962054,True,False,False,S76783389
+mallar3,Mallard,Anas platyrhynchos,L424117,Tradition Plateau,2020-11-27 07:00,21.0,47.5294956,-121.9962054,True,False,False,S76783389
+buffle,Bufflehead,Bucephala albeola,L424117,Tradition Plateau,2020-11-27 07:00,8.0,47.5294956,-121.9962054,True,False,False,S76783389
+belkin1,Belted Kingfisher,Megaceryle alcyon,L424117,Tradition Plateau,2020-11-27 07:00,1.0,47.5294956,-121.9962054,True,False,False,S76783389
+pilwoo,Pileated Woodpecker,Dryocopus pileatus,L424117,Tradition Plateau,2020-11-27 07:00,1.0,47.5294956,-121.9962054,True,False,False,S76783389
+amecro,American Crow,Corvus brachyrhynchos,L424117,Tradition Plateau,2020-11-27 07:00,1.0,47.5294956,-121.9962054,True,False,False,S76783389
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L424117,Tradition Plateau,2020-11-27 07:00,16.0,47.5294956,-121.9962054,True,False,False,S76783389
+gockin,Golden-crowned Kinglet,Regulus satrapa,L424117,Tradition Plateau,2020-11-27 07:00,14.0,47.5294956,-121.9962054,True,False,False,S76783389
+pacwre1,Pacific Wren,Troglodytes pacificus,L424117,Tradition Plateau,2020-11-27 07:00,13.0,47.5294956,-121.9962054,True,False,False,S76783389
+varthr,Varied Thrush,Ixoreus naevius,L424117,Tradition Plateau,2020-11-27 07:00,1.0,47.5294956,-121.9962054,True,False,False,S76783389
+foxspa,Fox Sparrow,Passerella iliaca,L424117,Tradition Plateau,2020-11-27 07:00,1.0,47.5294956,-121.9962054,True,False,False,S76783389
+sonspa,Song Sparrow,Melospiza melodia,L424117,Tradition Plateau,2020-11-27 07:00,6.0,47.5294956,-121.9962054,True,False,False,S76783389
+spotow,Spotted Towhee,Pipilo maculatus,L424117,Tradition Plateau,2020-11-27 07:00,1.0,47.5294956,-121.9962054,True,False,False,S76783389
+nswowl,Northern Saw-whet Owl,Aegolius acadicus,L424117,Tradition Plateau,2020-11-27 06:18,1.0,47.5294956,-121.9962054,True,False,False,S77459554
+cacgoo1,Cackling Goose,Branta hutchinsii,L424117,Tradition Plateau,2020-12-18 10:30,11.0,47.5294956,-121.9962054,True,False,False,S77644154
+mallar3,Mallard,Anas platyrhynchos,L424117,Tradition Plateau,2020-12-18 10:30,11.0,47.5294956,-121.9962054,True,False,False,S77644154
+rinduc,Ring-necked Duck,Aythya collaris,L424117,Tradition Plateau,2020-12-18 10:30,5.0,47.5294956,-121.9962054,True,False,False,S77644154
+buffle,Bufflehead,Bucephala albeola,L424117,Tradition Plateau,2020-12-18 10:30,4.0,47.5294956,-121.9962054,True,False,False,S77644154
+hoomer,Hooded Merganser,Lophodytes cucullatus,L424117,Tradition Plateau,2020-12-18 10:30,3.0,47.5294956,-121.9962054,True,False,False,S77644154
+commer,Common Merganser,Mergus merganser,L424117,Tradition Plateau,2020-12-18 10:30,7.0,47.5294956,-121.9962054,True,False,False,S77644154
+pibgre,Pied-billed Grebe,Podilymbus podiceps,L424117,Tradition Plateau,2020-12-18 10:30,1.0,47.5294956,-121.9962054,True,False,False,S77644154
+baleag,Bald Eagle,Haliaeetus leucocephalus,L424117,Tradition Plateau,2020-12-18 10:30,1.0,47.5294956,-121.9962054,True,False,False,S77644154
+belkin1,Belted Kingfisher,Megaceryle alcyon,L424117,Tradition Plateau,2020-12-18 10:30,1.0,47.5294956,-121.9962054,True,False,False,S77644154
+amekes,American Kestrel,Falco sparverius,L424117,Tradition Plateau,2020-12-18 10:30,1.0,47.5294956,-121.9962054,True,False,False,S77644154
+stejay,Steller's Jay,Cyanocitta stelleri,L424117,Tradition Plateau,2020-12-18 10:30,1.0,47.5294956,-121.9962054,True,False,False,S77644154
+comrav,Common Raven,Corvus corax,L424117,Tradition Plateau,2020-12-18 10:30,1.0,47.5294956,-121.9962054,True,False,False,S77644154
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L424117,Tradition Plateau,2020-12-18 10:30,5.0,47.5294956,-121.9962054,True,False,False,S77644154
+ruckin,Ruby-crowned Kinglet,Corthylio calendula,L424117,Tradition Plateau,2020-12-18 10:30,3.0,47.5294956,-121.9962054,True,False,False,S77644154
+gockin,Golden-crowned Kinglet,Regulus satrapa,L424117,Tradition Plateau,2020-12-18 10:30,17.0,47.5294956,-121.9962054,True,False,False,S77644154
+rebnut,Red-breasted Nuthatch,Sitta canadensis,L424117,Tradition Plateau,2020-12-18 10:30,4.0,47.5294956,-121.9962054,True,False,False,S77644154
+brncre,Brown Creeper,Certhia americana,L424117,Tradition Plateau,2020-12-18 10:30,1.0,47.5294956,-121.9962054,True,False,False,S77644154
+pacwre1,Pacific Wren,Troglodytes pacificus,L424117,Tradition Plateau,2020-12-18 10:30,2.0,47.5294956,-121.9962054,True,False,False,S77644154
+bewwre,Bewick's Wren,Thryomanes bewickii,L424117,Tradition Plateau,2020-12-18 10:30,1.0,47.5294956,-121.9962054,True,False,False,S77644154
+redcro,Red Crossbill,Loxia curvirostra,L424117,Tradition Plateau,2020-12-18 10:30,1.0,47.5294956,-121.9962054,True,False,False,S77644154
+sonspa,Song Sparrow,Melospiza melodia,L424117,Tradition Plateau,2020-12-18 10:30,3.0,47.5294956,-121.9962054,True,False,False,S77644154
+nswowl,Northern Saw-whet Owl,Aegolius acadicus,L424117,Tradition Plateau,2020-12-23 05:16,2.0,47.5294956,-121.9962054,True,False,False,S77873382
+mallar3,Mallard,Anas platyrhynchos,L424117,Tradition Plateau,2020-12-24 11:28,15.0,47.5294956,-121.9962054,True,False,False,S77930902
+rinduc,Ring-necked Duck,Aythya collaris,L424117,Tradition Plateau,2020-12-24 11:28,2.0,47.5294956,-121.9962054,True,False,False,S77930902
+buffle,Bufflehead,Bucephala albeola,L424117,Tradition Plateau,2020-12-24 11:28,4.0,47.5294956,-121.9962054,True,False,False,S77930902
+hoomer,Hooded Merganser,Lophodytes cucullatus,L424117,Tradition Plateau,2020-12-24 11:28,1.0,47.5294956,-121.9962054,True,False,False,S77930902
+haiwoo,Hairy Woodpecker,Dryobates villosus,L424117,Tradition Plateau,2020-12-24 11:28,1.0,47.5294956,-121.9962054,True,False,False,S77930902
+stejay,Steller's Jay,Cyanocitta stelleri,L424117,Tradition Plateau,2020-12-24 11:28,1.0,47.5294956,-121.9962054,True,False,False,S77930902
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L424117,Tradition Plateau,2020-12-24 11:28,20.0,47.5294956,-121.9962054,True,False,False,S77930902
+pacwre1,Pacific Wren,Troglodytes pacificus,L424117,Tradition Plateau,2020-12-24 11:28,3.0,47.5294956,-121.9962054,True,False,False,S77930902
+bewwre,Bewick's Wren,Thryomanes bewickii,L424117,Tradition Plateau,2020-12-24 11:28,1.0,47.5294956,-121.9962054,True,False,False,S77930902
+amerob,American Robin,Turdus migratorius,L424117,Tradition Plateau,2020-12-24 11:28,1.0,47.5294956,-121.9962054,True,False,False,S77930902
+pinsis,Pine Siskin,Spinus pinus,L424117,Tradition Plateau,2020-12-24 11:28,20.0,47.5294956,-121.9962054,True,False,False,S77930902
+sonspa,Song Sparrow,Melospiza melodia,L424117,Tradition Plateau,2020-12-24 11:28,2.0,47.5294956,-121.9962054,True,False,False,S77930902
+hoomer,Hooded Merganser,Lophodytes cucullatus,L424117,Tradition Plateau,2020-12-25 12:48,2.0,47.5294956,-121.9962054,True,False,False,S77975587
+dowwoo,Downy Woodpecker,Dryobates pubescens,L424117,Tradition Plateau,2020-12-25 12:48,1.0,47.5294956,-121.9962054,True,False,False,S77975587
+stejay,Steller's Jay,Cyanocitta stelleri,L424117,Tradition Plateau,2020-12-25 12:48,3.0,47.5294956,-121.9962054,True,False,False,S77975587
+comrav,Common Raven,Corvus corax,L424117,Tradition Plateau,2020-12-25 12:48,1.0,47.5294956,-121.9962054,True,False,False,S77975587
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L424117,Tradition Plateau,2020-12-25 12:48,4.0,47.5294956,-121.9962054,True,False,False,S77975587
+ruckin,Ruby-crowned Kinglet,Corthylio calendula,L424117,Tradition Plateau,2020-12-25 12:48,2.0,47.5294956,-121.9962054,True,False,False,S77975587
+gockin,Golden-crowned Kinglet,Regulus satrapa,L424117,Tradition Plateau,2020-12-25 12:48,45.0,47.5294956,-121.9962054,True,False,False,S77975587
+rebnut,Red-breasted Nuthatch,Sitta canadensis,L424117,Tradition Plateau,2020-12-25 12:48,4.0,47.5294956,-121.9962054,True,False,False,S77975587
+brncre,Brown Creeper,Certhia americana,L424117,Tradition Plateau,2020-12-25 12:48,1.0,47.5294956,-121.9962054,True,False,False,S77975587
+pacwre1,Pacific Wren,Troglodytes pacificus,L424117,Tradition Plateau,2020-12-25 12:48,8.0,47.5294956,-121.9962054,True,False,False,S77975587
+amerob,American Robin,Turdus migratorius,L424117,Tradition Plateau,2020-12-25 12:48,2.0,47.5294956,-121.9962054,True,False,False,S77975587
+sonspa,Song Sparrow,Melospiza melodia,L424117,Tradition Plateau,2020-12-25 12:48,1.0,47.5294956,-121.9962054,True,False,False,S77975587
+spotow,Spotted Towhee,Pipilo maculatus,L424117,Tradition Plateau,2020-12-25 12:48,1.0,47.5294956,-121.9962054,True,False,False,S77975587
+nswowl,Northern Saw-whet Owl,Aegolius acadicus,L424117,Tradition Plateau,2020-12-30 05:13,1.0,47.5294956,-121.9962054,True,False,False,S78248880
