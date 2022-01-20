@@ -29,6 +29,13 @@
     },
     {
         "Route":"IssaquahAlps",
+        "StopName":"NullMountain",
+        "Address":"",
+        "Latitude":47,
+        "Longitude":1
+    },
+    {
+        "Route":"IssaquahAlps",
         "StopName":"MargaretsWay",
         "Address":"190th Ave SE, Issaquah, WA 98027",
         "Latitude":47.506620,
