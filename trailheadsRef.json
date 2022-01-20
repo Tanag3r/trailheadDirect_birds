@@ -31,8 +31,8 @@
         "Route":"IssaquahAlps",
         "StopName":"NullMountain",
         "Address":"",
-        "Latitude":47,
-        "Longitude":1
+        "Latitude":"",
+        "Longitude":""
     },
     {
         "Route":"IssaquahAlps",
