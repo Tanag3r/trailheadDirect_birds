@@ -30,7 +30,7 @@
     {
         "Route":"IssaquahAlps",
         "StopName":"NullMountain",
-        "Address":"",
+        "Address":null,
         "Latitude":null,
         "Longitude":null
     },
@@ -44,7 +44,7 @@
     {
         "Route":"MountSi",
         "StopName":"MountSi",
-        "Address":"King County, WA 98104",
+        "Address":"",
         "Latitude":47.488966,
         "Longitude":-122.723044
     },
@@ -68,6 +68,13 @@
         "Address":"Discovery Park Road & Texas Way, Seattle, WA 98199",
         "Latitude":47.664631,
         "Longitude":-122.411063
+    },
+    {
+        "Route":"SeattleParks",
+        "StopName":"DiscoveryParkBeach",
+        "Address":"Fort Lawton Beach, Seattle, WA 98199",
+        "Latitude":null,
+        "Longitude":null
     },
     {
         "Route":"SeattleParks",
