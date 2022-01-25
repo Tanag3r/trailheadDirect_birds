@@ -1,0 +1,44 @@
+[
+    {
+        "Code":"TMP00",
+        "descShort":"template",
+        "Impact":"template",
+        "Remedy":"template",
+        "Type":"Warning/Failure"
+    },
+    {
+        "Code":"GEO10",
+        "descShort":"Trailhead GPS coordinates are missing.",
+        "Impact":"Trailhead GPS coordinates are the primary means of fetching nearby eBird hotspots. A USPS-complete mailing address can be substituted for GPS coordinates.",
+        "Remedy":"Add GPS coordinate value(s) to trailhead source table for this trailhead.",
+        "Type":"Warning"
+    },
+    {
+        "Code":"GEO11",
+        "descShort":"Trailhead GPS coordinates are incomplete or inadequate.",
+        "Impact":"Trailhead GPS coordinates are the primary means of fetching nearby eBird hotspots. A USPS-complete mailing address can be substituted for GPS coordinates.",
+        "Remedy":"Update GPS coordinate value(s) in trailhead source table for this trailhead.",
+        "Type":"Warning"
+    },
+    {
+        "Code":"GEO20",
+        "descShort":"Trailhead address value is missing, incomplete or inadequate.",
+        "Impact":"A USPS-accurate address of each trailhead is used as a means of cross-checking and fetching GPS coordinates.",
+        "Remedy":"Update address value in trailhead source table.",
+        "Type":"Warning"
+    },
+    {
+        "Code":"GEO30",
+        "descShort":"Trailhead GPS coordinates and address are missing, incomplete or inadequate",
+        "Impact":"No information can be fetched for this trailhead. GPS coordinates OR a USPS-accurate address are required for each trailhead in order to obtain a list of eBird hotspots.",
+        "Remedy":"Update the trailhead source table with accurate GPS coordinates OR a USPS-accurate address for this trailhead.",
+        "Type":"Failure"
+    },
+    {
+        "Code":"GEO31",
+        "descShort":"Trailhead address does not return GPS coordinates.",
+        "Impact":"No information can be fetched for this trailhead. GPS coordinates OR a USPS-accurate address are required for each trailhead in order to obtain a list of eBird hotspots.",
+        "Remedy":"Update the trailhead source table with accurate GPS coordinates OR a USPS-accurate address for this trailhead.",
+        "Type":"Failure"
+    }
+]
