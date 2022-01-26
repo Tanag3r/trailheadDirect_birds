@@ -1,0 +1,10 @@
+speciesCode,comName,sciName,locId,locName,obsDt,howMany,lat,lng,obsValid,obsReviewed,locationPrivate,subId
+commer,Common Merganser,Mergus merganser,L4381196,Cedar Grove Natual Area,2020-04-26 13:30,1,47.4629732,-122.0809364,True,False,False,S67866709
+baleag,Bald Eagle,Haliaeetus leucocephalus,L4381196,Cedar Grove Natual Area,2020-04-26 13:30,2,47.4629732,-122.0809364,True,False,False,S67866709
+rebsap,Red-breasted Sapsucker,Sphyrapicus ruber,L4381196,Cedar Grove Natual Area,2020-04-26 13:30,2,47.4629732,-122.0809364,True,False,False,S67866709
+amerob,American Robin,Turdus migratorius,L4381196,Cedar Grove Natual Area,2020-04-26 13:30,2,47.4629732,-122.0809364,True,False,False,S67866709
+rocpig,Rock Pigeon,Columba livia,L4381196,Cedar Grove Natual Area,2020-04-28 12:18,3,47.4629732,-122.0809364,True,False,False,S70289791
+amecro,American Crow,Corvus brachyrhynchos,L4381196,Cedar Grove Natual Area,2020-04-28 12:18,1,47.4629732,-122.0809364,True,False,False,S70289791
+whcspa,White-crowned Sparrow,Zonotrichia leucophrys,L4381196,Cedar Grove Natual Area,2020-04-28 12:18,1,47.4629732,-122.0809364,True,False,False,S70289791
+sonspa,Song Sparrow,Melospiza melodia,L4381196,Cedar Grove Natual Area,2020-04-28 12:18,1,47.4629732,-122.0809364,True,False,False,S70289791
+bkhgro,Black-headed Grosbeak,Pheucticus melanocephalus,L4381196,Cedar Grove Natual Area,2020-04-28 12:18,1,47.4629732,-122.0809364,True,False,False,S70289791
