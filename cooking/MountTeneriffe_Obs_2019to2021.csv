@@ -1,0 +1,337 @@
+speciesCode,comName,sciName,locId,locName,obsDt,howMany,lat,lng,obsValid,obsReviewed,locationPrivate,subId
+merlin,Merlin,Falco columbarius,L1034830,Lake Flora Road (Kitsap Co.),2019-12-22 11:11,1,47.4739392,-122.688961,True,False,False,S62534982
+comrav,Common Raven,Corvus corax,L1034830,Lake Flora Road (Kitsap Co.),2019-12-22 11:11,2,47.4739392,-122.688961,True,False,False,S62534982
+buffle,Bufflehead,Bucephala albeola,L6448904,McCormick Woods Trail,2019-01-07 10:30,10,47.502272,-122.6935959,True,False,False,S51803204
+belkin1,Belted Kingfisher,Megaceryle alcyon,L6448904,McCormick Woods Trail,2019-01-07 10:30,1,47.502272,-122.6935959,True,False,False,S51803204
+rinduc,Ring-necked Duck,Aythya collaris,L6448904,McCormick Woods Trail,2020-04-12 14:58,9,47.502272,-122.6935959,True,False,False,S67109214
+buffle,Bufflehead,Bucephala albeola,L6448904,McCormick Woods Trail,2020-04-12 14:58,24,47.502272,-122.6935959,True,False,False,S67109214
+hoomer,Hooded Merganser,Lophodytes cucullatus,L6448904,McCormick Woods Trail,2020-04-12 14:58,2,47.502272,-122.6935959,True,False,False,S67109214
+norfli,Northern Flicker,Colaptes auratus,L6448904,McCormick Woods Trail,2020-04-12 14:58,1,47.502272,-122.6935959,True,False,False,S67109214
+treswa,Tree Swallow,Tachycineta bicolor,L6448904,McCormick Woods Trail,2020-04-12 14:58,3,47.502272,-122.6935959,True,False,False,S67109214
+vigswa,Violet-green Swallow,Tachycineta thalassina,L6448904,McCormick Woods Trail,2020-04-12 14:58,12,47.502272,-122.6935959,True,False,False,S67109214
+pacwre1,Pacific Wren,Troglodytes pacificus,L6448904,McCormick Woods Trail,2020-04-12 14:58,2,47.502272,-122.6935959,True,False,False,S67109214
+amerob,American Robin,Turdus migratorius,L6448904,McCormick Woods Trail,2020-04-12 14:58,1,47.502272,-122.6935959,True,False,False,S67109214
+daejun,Dark-eyed Junco,Junco hyemalis,L6448904,McCormick Woods Trail,2020-04-12 14:58,2,47.502272,-122.6935959,True,False,False,S67109214
+spotow,Spotted Towhee,Pipilo maculatus,L6448904,McCormick Woods Trail,2020-04-12 14:58,1,47.502272,-122.6935959,True,False,False,S67109214
+cangoo,Canada Goose,Branta canadensis,L6448904,McCormick Woods Trail,2020-04-16 15:26,1,47.502272,-122.6935959,True,False,False,S67331427
+wooduc,Wood Duck,Aix sponsa,L6448904,McCormick Woods Trail,2020-04-16 15:26,4,47.502272,-122.6935959,True,False,False,S67331427
+rinduc,Ring-necked Duck,Aythya collaris,L6448904,McCormick Woods Trail,2020-04-16 15:26,4,47.502272,-122.6935959,True,False,False,S67331427
+buffle,Bufflehead,Bucephala albeola,L6448904,McCormick Woods Trail,2020-04-16 15:26,17,47.502272,-122.6935959,True,False,False,S67331427
+hoomer,Hooded Merganser,Lophodytes cucullatus,L6448904,McCormick Woods Trail,2020-04-16 15:26,2,47.502272,-122.6935959,True,False,False,S67331427
+annhum,Anna's Hummingbird,Calypte anna,L6448904,McCormick Woods Trail,2020-04-16 15:26,1,47.502272,-122.6935959,True,False,False,S67331427
+baleag,Bald Eagle,Haliaeetus leucocephalus,L6448904,McCormick Woods Trail,2020-04-16 15:26,1,47.502272,-122.6935959,True,False,False,S67331427
+belkin1,Belted Kingfisher,Megaceryle alcyon,L6448904,McCormick Woods Trail,2020-04-16 15:26,1,47.502272,-122.6935959,True,False,False,S67331427
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L6448904,McCormick Woods Trail,2020-04-16 15:26,1,47.502272,-122.6935959,True,False,False,S67331427
+rebnut,Red-breasted Nuthatch,Sitta canadensis,L6448904,McCormick Woods Trail,2020-04-16 15:26,1,47.502272,-122.6935959,True,False,False,S67331427
+amerob,American Robin,Turdus migratorius,L6448904,McCormick Woods Trail,2020-04-16 15:26,1,47.502272,-122.6935959,True,False,False,S67331427
+daejun,Dark-eyed Junco,Junco hyemalis,L6448904,McCormick Woods Trail,2020-04-16 15:26,7,47.502272,-122.6935959,True,False,False,S67331427
+spotow,Spotted Towhee,Pipilo maculatus,L6448904,McCormick Woods Trail,2020-04-16 15:26,2,47.502272,-122.6935959,True,False,False,S67331427
+comyel,Common Yellowthroat,Geothlypis trichas,L6448904,McCormick Woods Trail,2020-04-16 15:26,2,47.502272,-122.6935959,True,False,False,S67331427
+wooduc,Wood Duck,Aix sponsa,L6448904,McCormick Woods Trail,2020-04-24 16:47,2,47.502272,-122.6935959,True,False,False,S67754296
+batpig1,Band-tailed Pigeon,Patagioenas fasciata,L6448904,McCormick Woods Trail,2020-04-24 16:47,1,47.502272,-122.6935959,True,False,False,S67754296
+annhum,Anna's Hummingbird,Calypte anna,L6448904,McCormick Woods Trail,2020-04-24 16:47,1,47.502272,-122.6935959,True,False,False,S67754296
+osprey,Osprey,Pandion haliaetus,L6448904,McCormick Woods Trail,2020-04-24 16:47,2,47.502272,-122.6935959,True,False,False,S67754296
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L6448904,McCormick Woods Trail,2020-04-24 16:47,4,47.502272,-122.6935959,True,False,False,S67754296
+pacwre1,Pacific Wren,Troglodytes pacificus,L6448904,McCormick Woods Trail,2020-04-24 16:47,1,47.502272,-122.6935959,True,False,False,S67754296
+amerob,American Robin,Turdus migratorius,L6448904,McCormick Woods Trail,2020-04-24 16:47,9,47.502272,-122.6935959,True,False,False,S67754296
+daejun,Dark-eyed Junco,Junco hyemalis,L6448904,McCormick Woods Trail,2020-04-24 16:47,8,47.502272,-122.6935959,True,False,False,S67754296
+spotow,Spotted Towhee,Pipilo maculatus,L6448904,McCormick Woods Trail,2020-04-24 16:47,1,47.502272,-122.6935959,True,False,False,S67754296
+batpig1,Band-tailed Pigeon,Patagioenas fasciata,L6448904,McCormick Woods Trail,2020-07-16 10:00,5,47.502272,-122.6935959,True,False,False,S71637144
+annhum,Anna's Hummingbird,Calypte anna,L6448904,McCormick Woods Trail,2020-07-16 10:00,2,47.502272,-122.6935959,True,False,False,S71637144
+rufhum,Rufous Hummingbird,Selasphorus rufus,L6448904,McCormick Woods Trail,2020-07-16 10:00,2,47.502272,-122.6935959,True,False,False,S71637144
+pilwoo,Pileated Woodpecker,Dryocopus pileatus,L6448904,McCormick Woods Trail,2020-07-16 10:00,1,47.502272,-122.6935959,True,False,False,S71637144
+stejay,Steller's Jay,Cyanocitta stelleri,L6448904,McCormick Woods Trail,2020-07-16 10:00,2,47.502272,-122.6935959,True,False,False,S71637144
+daejun,Dark-eyed Junco,Junco hyemalis,L6448904,McCormick Woods Trail,2020-07-16 10:00,4,47.502272,-122.6935959,True,False,False,S71637144
+mallar3,Mallard,Anas platyrhynchos,L4703260,Square Lake State Park,2019-05-18 13:41,24,47.4802697,-122.6844388,True,False,False,S56463431
+killde,Killdeer,Charadrius vociferus,L4703260,Square Lake State Park,2019-05-18 13:41,5,47.4802697,-122.6844388,True,False,False,S56463431
+grbher3,Great Blue Heron,Ardea herodias,L4703260,Square Lake State Park,2019-05-18 13:41,1,47.4802697,-122.6844388,True,False,False,S56463431
+vigswa,Violet-green Swallow,Tachycineta thalassina,L4703260,Square Lake State Park,2019-05-18 13:41,4,47.4802697,-122.6844388,True,False,False,S56463431
+rebnut,Red-breasted Nuthatch,Sitta canadensis,L4703260,Square Lake State Park,2019-05-18 13:41,2,47.4802697,-122.6844388,True,False,False,S56463431
+amerob,American Robin,Turdus migratorius,L4703260,Square Lake State Park,2019-05-18 13:41,1,47.4802697,-122.6844388,True,False,False,S56463431
+purfin,Purple Finch,Haemorhous purpureus,L4703260,Square Lake State Park,2019-05-18 13:41,1,47.4802697,-122.6844388,True,False,False,S56463431
+daejun,Dark-eyed Junco,Junco hyemalis,L4703260,Square Lake State Park,2019-05-18 13:41,2,47.4802697,-122.6844388,True,False,False,S56463431
+sonspa,Song Sparrow,Melospiza melodia,L4703260,Square Lake State Park,2019-05-18 13:41,2,47.4802697,-122.6844388,True,False,False,S56463431
+mallar3,Mallard,Anas platyrhynchos,L4703260,Square Lake State Park,2019-11-12 11:33,50,47.4802697,-122.6844388,True,False,False,S61400066
+gnwtea,Green-winged Teal,Anas crecca,L4703260,Square Lake State Park,2019-11-12 11:33,41,47.4802697,-122.6844388,True,False,False,S61400066
+rinduc,Ring-necked Duck,Aythya collaris,L4703260,Square Lake State Park,2019-11-12 11:33,3,47.4802697,-122.6844388,True,False,False,S61400066
+buffle,Bufflehead,Bucephala albeola,L4703260,Square Lake State Park,2019-11-12 11:33,5,47.4802697,-122.6844388,True,False,False,S61400066
+pibgre,Pied-billed Grebe,Podilymbus podiceps,L4703260,Square Lake State Park,2019-11-12 11:33,1,47.4802697,-122.6844388,True,False,False,S61400066
+killde,Killdeer,Charadrius vociferus,L4703260,Square Lake State Park,2019-11-12 11:33,21,47.4802697,-122.6844388,True,False,False,S61400066
+wilsni1,Wilson's Snipe,Gallinago delicata,L4703260,Square Lake State Park,2019-11-12 11:33,55,47.4802697,-122.6844388,True,True,False,S61400066
+grbher3,Great Blue Heron,Ardea herodias,L4703260,Square Lake State Park,2019-11-12 11:33,1,47.4802697,-122.6844388,True,False,False,S61400066
+belkin1,Belted Kingfisher,Megaceryle alcyon,L4703260,Square Lake State Park,2019-11-12 11:33,1,47.4802697,-122.6844388,True,False,False,S61400066
+norfli,Northern Flicker,Colaptes auratus,L4703260,Square Lake State Park,2019-11-12 11:33,1,47.4802697,-122.6844388,True,False,False,S61400066
+amecro,American Crow,Corvus brachyrhynchos,L4703260,Square Lake State Park,2019-11-12 11:33,1,47.4802697,-122.6844388,True,False,False,S61400066
+pacwre1,Pacific Wren,Troglodytes pacificus,L4703260,Square Lake State Park,2019-11-12 11:33,1,47.4802697,-122.6844388,True,False,False,S61400066
+bewwre,Bewick's Wren,Thryomanes bewickii,L4703260,Square Lake State Park,2019-11-12 11:33,1,47.4802697,-122.6844388,True,False,False,S61400066
+varthr,Varied Thrush,Ixoreus naevius,L4703260,Square Lake State Park,2019-11-12 11:33,1,47.4802697,-122.6844388,True,False,False,S61400066
+foxspa,Fox Sparrow,Passerella iliaca,L4703260,Square Lake State Park,2019-11-12 11:33,1,47.4802697,-122.6844388,True,False,False,S61400066
+sonspa,Song Sparrow,Melospiza melodia,L4703260,Square Lake State Park,2019-11-12 11:33,1,47.4802697,-122.6844388,True,False,False,S61400066
+cangoo,Canada Goose,Branta canadensis,L4703260,Square Lake State Park,2019-12-22 09:22,97,47.4802697,-122.6844388,True,False,False,S62534733
+mallar3,Mallard,Anas platyrhynchos,L4703260,Square Lake State Park,2019-12-22 09:22,38,47.4802697,-122.6844388,True,False,False,S62534733
+norpin,Northern Pintail,Anas acuta,L4703260,Square Lake State Park,2019-12-22 09:22,1,47.4802697,-122.6844388,True,False,False,S62534733
+gnwtea,Green-winged Teal,Anas crecca,L4703260,Square Lake State Park,2019-12-22 09:22,46,47.4802697,-122.6844388,True,False,False,S62534733
+buffle,Bufflehead,Bucephala albeola,L4703260,Square Lake State Park,2019-12-22 09:22,11,47.4802697,-122.6844388,True,False,False,S62534733
+commer,Common Merganser,Mergus merganser,L4703260,Square Lake State Park,2019-12-22 09:22,10,47.4802697,-122.6844388,True,False,False,S62534733
+wilsni1,Wilson's Snipe,Gallinago delicata,L4703260,Square Lake State Park,2019-12-22 09:22,4,47.4802697,-122.6844388,True,False,False,S62534733
+belkin1,Belted Kingfisher,Megaceryle alcyon,L4703260,Square Lake State Park,2019-12-22 09:22,1,47.4802697,-122.6844388,True,False,False,S62534733
+hutvir,Hutton's Vireo,Vireo huttoni,L4703260,Square Lake State Park,2019-12-22 09:22,1,47.4802697,-122.6844388,True,False,False,S62534733
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L4703260,Square Lake State Park,2019-12-22 09:22,6,47.4802697,-122.6844388,True,False,False,S62534733
+gockin,Golden-crowned Kinglet,Regulus satrapa,L4703260,Square Lake State Park,2019-12-22 09:22,4,47.4802697,-122.6844388,True,False,False,S62534733
+pacwre1,Pacific Wren,Troglodytes pacificus,L4703260,Square Lake State Park,2019-12-22 09:22,7,47.4802697,-122.6844388,True,False,False,S62534733
+foxspa,Fox Sparrow,Passerella iliaca,L4703260,Square Lake State Park,2019-12-22 09:22,1,47.4802697,-122.6844388,True,False,False,S62534733
+sonspa,Song Sparrow,Melospiza melodia,L4703260,Square Lake State Park,2019-12-22 09:22,3,47.4802697,-122.6844388,True,False,False,S62534733
+spotow,Spotted Towhee,Pipilo maculatus,L4703260,Square Lake State Park,2019-12-22 09:22,8,47.4802697,-122.6844388,True,False,False,S62534733
+mallar3,Mallard,Anas platyrhynchos,L4703260,Square Lake State Park,2020-01-11 14:32,8,47.4802697,-122.6844388,True,False,False,S63297514
+buffle,Bufflehead,Bucephala albeola,L4703260,Square Lake State Park,2020-01-11 14:32,3,47.4802697,-122.6844388,True,False,False,S63297514
+hoomer,Hooded Merganser,Lophodytes cucullatus,L4703260,Square Lake State Park,2020-01-11 14:32,1,47.4802697,-122.6844388,True,False,False,S63297514
+commer,Common Merganser,Mergus merganser,L4703260,Square Lake State Park,2020-01-11 14:32,1,47.4802697,-122.6844388,True,False,False,S63297514
+comrav,Common Raven,Corvus corax,L4703260,Square Lake State Park,2020-01-11 14:32,1,47.4802697,-122.6844388,True,False,False,S63297514
+gockin,Golden-crowned Kinglet,Regulus satrapa,L4703260,Square Lake State Park,2020-01-11 14:32,15,47.4802697,-122.6844388,True,False,False,S63297514
+pacwre1,Pacific Wren,Troglodytes pacificus,L4703260,Square Lake State Park,2020-01-11 14:32,1,47.4802697,-122.6844388,True,False,False,S63297514
+bewwre,Bewick's Wren,Thryomanes bewickii,L4703260,Square Lake State Park,2020-01-11 14:32,1,47.4802697,-122.6844388,True,False,False,S63297514
+foxspa,Fox Sparrow,Passerella iliaca,L4703260,Square Lake State Park,2020-01-11 14:32,1,47.4802697,-122.6844388,True,False,False,S63297514
+cangoo,Canada Goose,Branta canadensis,L4703260,Square Lake State Park,2020-04-07 09:20,6,47.4802697,-122.6844388,True,False,False,S66785398
+mallar3,Mallard,Anas platyrhynchos,L4703260,Square Lake State Park,2020-04-07 09:20,5,47.4802697,-122.6844388,True,False,False,S66785398
+gnwtea,Green-winged Teal,Anas crecca,L4703260,Square Lake State Park,2020-04-07 09:20,4,47.4802697,-122.6844388,True,False,False,S66785398
+rinduc,Ring-necked Duck,Aythya collaris,L4703260,Square Lake State Park,2020-04-07 09:20,2,47.4802697,-122.6844388,True,False,False,S66785398
+buffle,Bufflehead,Bucephala albeola,L4703260,Square Lake State Park,2020-04-07 09:20,8,47.4802697,-122.6844388,True,False,False,S66785398
+killde,Killdeer,Charadrius vociferus,L4703260,Square Lake State Park,2020-04-07 09:20,4,47.4802697,-122.6844388,True,False,False,S66785398
+norfli,Northern Flicker,Colaptes auratus,L4703260,Square Lake State Park,2020-04-07 09:20,2,47.4802697,-122.6844388,True,False,False,S66785398
+amecro,American Crow,Corvus brachyrhynchos,L4703260,Square Lake State Park,2020-04-07 09:20,2,47.4802697,-122.6844388,True,False,False,S66785398
+vigswa,Violet-green Swallow,Tachycineta thalassina,L4703260,Square Lake State Park,2020-04-07 09:20,6,47.4802697,-122.6844388,True,False,False,S66785398
+pacwre1,Pacific Wren,Troglodytes pacificus,L4703260,Square Lake State Park,2020-04-07 09:20,2,47.4802697,-122.6844388,True,False,False,S66785398
+bewwre,Bewick's Wren,Thryomanes bewickii,L4703260,Square Lake State Park,2020-04-07 09:20,1,47.4802697,-122.6844388,True,False,False,S66785398
+varthr,Varied Thrush,Ixoreus naevius,L4703260,Square Lake State Park,2020-04-07 09:20,1,47.4802697,-122.6844388,True,False,False,S66785398
+amerob,American Robin,Turdus migratorius,L4703260,Square Lake State Park,2020-04-07 09:20,3,47.4802697,-122.6844388,True,False,False,S66785398
+purfin,Purple Finch,Haemorhous purpureus,L4703260,Square Lake State Park,2020-04-07 09:20,2,47.4802697,-122.6844388,True,False,False,S66785398
+daejun,Dark-eyed Junco,Junco hyemalis,L4703260,Square Lake State Park,2020-04-07 09:20,1,47.4802697,-122.6844388,True,False,False,S66785398
+sonspa,Song Sparrow,Melospiza melodia,L4703260,Square Lake State Park,2020-04-07 09:20,3,47.4802697,-122.6844388,True,False,False,S66785398
+spotow,Spotted Towhee,Pipilo maculatus,L4703260,Square Lake State Park,2020-04-07 09:20,11,47.4802697,-122.6844388,True,False,False,S66785398
+cangoo,Canada Goose,Branta canadensis,L4703260,Square Lake State Park,2020-05-19 11:45,7,47.4802697,-122.6844388,True,False,False,S69330139
+mallar3,Mallard,Anas platyrhynchos,L4703260,Square Lake State Park,2020-05-19 11:45,9,47.4802697,-122.6844388,True,False,False,S69330139
+killde,Killdeer,Charadrius vociferus,L4703260,Square Lake State Park,2020-05-19 11:45,3,47.4802697,-122.6844388,True,False,False,S69330139
+sposan,Spotted Sandpiper,Actitis macularius,L4703260,Square Lake State Park,2020-05-19 11:45,1,47.4802697,-122.6844388,True,False,False,S69330139
+pasfly,Pacific-slope Flycatcher,Empidonax difficilis,L4703260,Square Lake State Park,2020-05-19 11:45,2,47.4802697,-122.6844388,True,False,False,S69330139
+stejay,Steller's Jay,Cyanocitta stelleri,L4703260,Square Lake State Park,2020-05-19 11:45,2,47.4802697,-122.6844388,True,False,False,S69330139
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L4703260,Square Lake State Park,2020-05-19 11:45,1,47.4802697,-122.6844388,True,False,False,S69330139
+vigswa,Violet-green Swallow,Tachycineta thalassina,L4703260,Square Lake State Park,2020-05-19 11:45,9,47.4802697,-122.6844388,True,False,False,S69330139
+barswa,Barn Swallow,Hirundo rustica,L4703260,Square Lake State Park,2020-05-19 11:45,3,47.4802697,-122.6844388,True,False,False,S69330139
+gockin,Golden-crowned Kinglet,Regulus satrapa,L4703260,Square Lake State Park,2020-05-19 11:45,2,47.4802697,-122.6844388,True,False,False,S69330139
+rebnut,Red-breasted Nuthatch,Sitta canadensis,L4703260,Square Lake State Park,2020-05-19 11:45,2,47.4802697,-122.6844388,True,False,False,S69330139
+amerob,American Robin,Turdus migratorius,L4703260,Square Lake State Park,2020-05-19 11:45,3,47.4802697,-122.6844388,True,False,False,S69330139
+pinsis,Pine Siskin,Spinus pinus,L4703260,Square Lake State Park,2020-05-19 11:45,4,47.4802697,-122.6844388,True,False,False,S69330139
+daejun,Dark-eyed Junco,Junco hyemalis,L4703260,Square Lake State Park,2020-05-19 11:45,3,47.4802697,-122.6844388,True,False,False,S69330139
+sonspa,Song Sparrow,Melospiza melodia,L4703260,Square Lake State Park,2020-05-19 11:45,5,47.4802697,-122.6844388,True,False,False,S69330139
+spotow,Spotted Towhee,Pipilo maculatus,L4703260,Square Lake State Park,2020-05-19 11:45,2,47.4802697,-122.6844388,True,False,False,S69330139
+orcwar,Orange-crowned Warbler,Leiothlypis celata,L4703260,Square Lake State Park,2020-05-19 11:45,2,47.4802697,-122.6844388,True,False,False,S69330139
+comyel,Common Yellowthroat,Geothlypis trichas,L4703260,Square Lake State Park,2020-05-19 11:45,2,47.4802697,-122.6844388,True,False,False,S69330139
+yerwar,Yellow-rumped Warbler,Setophaga coronata,L4703260,Square Lake State Park,2020-05-19 11:45,1,47.4802697,-122.6844388,True,False,False,S69330139
+towwar,Townsend's Warbler,Setophaga townsendi,L4703260,Square Lake State Park,2020-05-19 11:45,1,47.4802697,-122.6844388,True,False,False,S69330139
+wlswar,Wilson's Warbler,Cardellina pusilla,L4703260,Square Lake State Park,2020-05-19 11:45,3,47.4802697,-122.6844388,True,False,False,S69330139
+cangoo,Canada Goose,Branta canadensis,L4703260,Square Lake State Park,2020-06-13 15:05,3,47.4802697,-122.6844388,True,False,False,S70401972
+mallar3,Mallard,Anas platyrhynchos,L4703260,Square Lake State Park,2020-06-13 15:05,6,47.4802697,-122.6844388,True,False,False,S70401972
+pasfly,Pacific-slope Flycatcher,Empidonax difficilis,L4703260,Square Lake State Park,2020-06-13 15:05,1,47.4802697,-122.6844388,True,False,False,S70401972
+bushti,Bushtit,Psaltriparus minimus,L4703260,Square Lake State Park,2020-06-13 15:05,1,47.4802697,-122.6844388,True,False,False,S70401972
+sonspa,Song Sparrow,Melospiza melodia,L4703260,Square Lake State Park,2020-06-13 15:05,1,47.4802697,-122.6844388,True,False,False,S70401972
+spotow,Spotted Towhee,Pipilo maculatus,L4703260,Square Lake State Park,2020-06-13 15:05,4,47.4802697,-122.6844388,True,False,False,S70401972
+btywar,Black-throated Gray Warbler,Setophaga nigrescens,L4703260,Square Lake State Park,2020-06-13 15:05,2,47.4802697,-122.6844388,True,False,False,S70401972
+wlswar,Wilson's Warbler,Cardellina pusilla,L4703260,Square Lake State Park,2020-06-13 15:05,2,47.4802697,-122.6844388,True,False,False,S70401972
+cangoo,Canada Goose,Branta canadensis,L4703260,Square Lake State Park,2020-06-22 08:41,3,47.4802697,-122.6844388,True,False,False,S70709722
+mallar3,Mallard,Anas platyrhynchos,L4703260,Square Lake State Park,2020-06-22 08:41,1,47.4802697,-122.6844388,True,False,False,S70709722
+killde,Killdeer,Charadrius vociferus,L4703260,Square Lake State Park,2020-06-22 08:41,3,47.4802697,-122.6844388,True,False,False,S70709722
+sposan,Spotted Sandpiper,Actitis macularius,L4703260,Square Lake State Park,2020-06-22 08:41,2,47.4802697,-122.6844388,True,False,False,S70709722
+pasfly,Pacific-slope Flycatcher,Empidonax difficilis,L4703260,Square Lake State Park,2020-06-22 08:41,3,47.4802697,-122.6844388,True,False,False,S70709722
+hutvir,Hutton's Vireo,Vireo huttoni,L4703260,Square Lake State Park,2020-06-22 08:41,3,47.4802697,-122.6844388,True,False,False,S70709722
+casvir,Cassin's Vireo,Vireo cassinii,L4703260,Square Lake State Park,2020-06-22 08:41,1,47.4802697,-122.6844388,True,False,False,S70709722
+amecro,American Crow,Corvus brachyrhynchos,L4703260,Square Lake State Park,2020-06-22 08:41,3,47.4802697,-122.6844388,True,False,False,S70709722
+bkcchi,Black-capped Chickadee,Poecile atricapillus,L4703260,Square Lake State Park,2020-06-22 08:41,2,47.4802697,-122.6844388,True,False,False,S70709722
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L4703260,Square Lake State Park,2020-06-22 08:41,6,47.4802697,-122.6844388,True,False,False,S70709722
+treswa,Tree Swallow,Tachycineta bicolor,L4703260,Square Lake State Park,2020-06-22 08:41,3,47.4802697,-122.6844388,True,False,False,S70709722
+vigswa,Violet-green Swallow,Tachycineta thalassina,L4703260,Square Lake State Park,2020-06-22 08:41,8,47.4802697,-122.6844388,True,False,False,S70709722
+barswa,Barn Swallow,Hirundo rustica,L4703260,Square Lake State Park,2020-06-22 08:41,1,47.4802697,-122.6844388,True,False,False,S70709722
+gockin,Golden-crowned Kinglet,Regulus satrapa,L4703260,Square Lake State Park,2020-06-22 08:41,1,47.4802697,-122.6844388,True,False,False,S70709722
+rebnut,Red-breasted Nuthatch,Sitta canadensis,L4703260,Square Lake State Park,2020-06-22 08:41,4,47.4802697,-122.6844388,True,False,False,S70709722
+bewwre,Bewick's Wren,Thryomanes bewickii,L4703260,Square Lake State Park,2020-06-22 08:41,4,47.4802697,-122.6844388,True,False,False,S70709722
+swathr,Swainson's Thrush,Catharus ustulatus,L4703260,Square Lake State Park,2020-06-22 08:41,5,47.4802697,-122.6844388,True,False,False,S70709722
+amerob,American Robin,Turdus migratorius,L4703260,Square Lake State Park,2020-06-22 08:41,4,47.4802697,-122.6844388,True,False,False,S70709722
+cedwax,Cedar Waxwing,Bombycilla cedrorum,L4703260,Square Lake State Park,2020-06-22 08:41,1,47.4802697,-122.6844388,True,False,False,S70709722
+purfin,Purple Finch,Haemorhous purpureus,L4703260,Square Lake State Park,2020-06-22 08:41,4,47.4802697,-122.6844388,True,False,False,S70709722
+daejun,Dark-eyed Junco,Junco hyemalis,L4703260,Square Lake State Park,2020-06-22 08:41,2,47.4802697,-122.6844388,True,False,False,S70709722
+sonspa,Song Sparrow,Melospiza melodia,L4703260,Square Lake State Park,2020-06-22 08:41,4,47.4802697,-122.6844388,True,False,False,S70709722
+spotow,Spotted Towhee,Pipilo maculatus,L4703260,Square Lake State Park,2020-06-22 08:41,7,47.4802697,-122.6844388,True,False,False,S70709722
+orcwar,Orange-crowned Warbler,Leiothlypis celata,L4703260,Square Lake State Park,2020-06-22 08:41,2,47.4802697,-122.6844388,True,False,False,S70709722
+wlswar,Wilson's Warbler,Cardellina pusilla,L4703260,Square Lake State Park,2020-06-22 08:41,3,47.4802697,-122.6844388,True,False,False,S70709722
+wooduc,Wood Duck,Aix sponsa,L4703260,Square Lake State Park,2020-09-03 14:52,2,47.4802697,-122.6844388,True,False,False,S73181611
+mallar3,Mallard,Anas platyrhynchos,L4703260,Square Lake State Park,2020-09-03 14:52,19,47.4802697,-122.6844388,True,False,False,S73181611
+buffle,Bufflehead,Bucephala albeola,L4703260,Square Lake State Park,2020-09-03 14:52,1,47.4802697,-122.6844388,True,False,False,S73181611
+killde,Killdeer,Charadrius vociferus,L4703260,Square Lake State Park,2020-09-03 14:52,3,47.4802697,-122.6844388,True,False,False,S73181611
+grbher3,Great Blue Heron,Ardea herodias,L4703260,Square Lake State Park,2020-09-03 14:52,1,47.4802697,-122.6844388,True,False,False,S73181611
+comrav,Common Raven,Corvus corax,L4703260,Square Lake State Park,2020-09-03 14:52,1,47.4802697,-122.6844388,True,False,False,S73181611
+wooduc,Wood Duck,Aix sponsa,L4703260,Square Lake State Park,2020-09-17 10:38,19,47.4802697,-122.6844388,True,False,False,S73711365
+mallar3,Mallard,Anas platyrhynchos,L4703260,Square Lake State Park,2020-09-17 10:38,19,47.4802697,-122.6844388,True,False,False,S73711365
+gnwtea,Green-winged Teal,Anas crecca,L4703260,Square Lake State Park,2020-09-17 10:38,6,47.4802697,-122.6844388,True,False,False,S73711365
+annhum,Anna's Hummingbird,Calypte anna,L4703260,Square Lake State Park,2020-09-17 10:38,1,47.4802697,-122.6844388,True,False,False,S73711365
+killde,Killdeer,Charadrius vociferus,L4703260,Square Lake State Park,2020-09-17 10:38,6,47.4802697,-122.6844388,True,False,False,S73711365
+pecsan,Pectoral Sandpiper,Calidris melanotos,L4703260,Square Lake State Park,2020-09-17 10:38,4,47.4802697,-122.6844388,True,False,False,S73711365
+wilsni1,Wilson's Snipe,Gallinago delicata,L4703260,Square Lake State Park,2020-09-17 10:38,14,47.4802697,-122.6844388,True,False,False,S73711365
+grbher3,Great Blue Heron,Ardea herodias,L4703260,Square Lake State Park,2020-09-17 10:38,1,47.4802697,-122.6844388,True,False,False,S73711365
+belkin1,Belted Kingfisher,Megaceryle alcyon,L4703260,Square Lake State Park,2020-09-17 10:38,1,47.4802697,-122.6844388,True,False,False,S73711365
+rebnut,Red-breasted Nuthatch,Sitta canadensis,L4703260,Square Lake State Park,2020-09-17 10:38,1,47.4802697,-122.6844388,True,False,False,S73711365
+daejun,Dark-eyed Junco,Junco hyemalis,L4703260,Square Lake State Park,2020-09-17 10:38,1,47.4802697,-122.6844388,True,False,False,S73711365
+sonspa,Song Sparrow,Melospiza melodia,L4703260,Square Lake State Park,2020-09-17 10:38,7,47.4802697,-122.6844388,True,False,False,S73711365
+spotow,Spotted Towhee,Pipilo maculatus,L4703260,Square Lake State Park,2020-09-17 10:38,3,47.4802697,-122.6844388,True,False,False,S73711365
+wooduc,Wood Duck,Aix sponsa,L4703260,Square Lake State Park,2020-09-19 09:26,37,47.4802697,-122.6844388,True,True,False,S73809871
+norsho,Northern Shoveler,Spatula clypeata,L4703260,Square Lake State Park,2020-09-19 09:26,1,47.4802697,-122.6844388,True,False,False,S73809871
+mallar3,Mallard,Anas platyrhynchos,L4703260,Square Lake State Park,2020-09-19 09:26,20,47.4802697,-122.6844388,True,False,False,S73809871
+gnwtea,Green-winged Teal,Anas crecca,L4703260,Square Lake State Park,2020-09-19 09:26,2,47.4802697,-122.6844388,True,False,False,S73809871
+rinduc,Ring-necked Duck,Aythya collaris,L4703260,Square Lake State Park,2020-09-19 09:26,3,47.4802697,-122.6844388,True,False,False,S73809871
+pibgre,Pied-billed Grebe,Podilymbus podiceps,L4703260,Square Lake State Park,2020-09-19 09:26,1,47.4802697,-122.6844388,True,False,False,S73809871
+moudov,Mourning Dove,Zenaida macroura,L4703260,Square Lake State Park,2020-09-19 09:26,3,47.4802697,-122.6844388,True,False,False,S73809871
+annhum,Anna's Hummingbird,Calypte anna,L4703260,Square Lake State Park,2020-09-19 09:26,1,47.4802697,-122.6844388,True,False,False,S73809871
+killde,Killdeer,Charadrius vociferus,L4703260,Square Lake State Park,2020-09-19 09:26,15,47.4802697,-122.6844388,True,False,False,S73809871
+pecsan,Pectoral Sandpiper,Calidris melanotos,L4703260,Square Lake State Park,2020-09-19 09:26,1,47.4802697,-122.6844388,True,False,False,S73809871
+wilsni1,Wilson's Snipe,Gallinago delicata,L4703260,Square Lake State Park,2020-09-19 09:26,10,47.4802697,-122.6844388,True,False,False,S73809871
+grbher3,Great Blue Heron,Ardea herodias,L4703260,Square Lake State Park,2020-09-19 09:26,1,47.4802697,-122.6844388,True,False,False,S73809871
+belkin1,Belted Kingfisher,Megaceryle alcyon,L4703260,Square Lake State Park,2020-09-19 09:26,1,47.4802697,-122.6844388,True,False,False,S73809871
+pilwoo,Pileated Woodpecker,Dryocopus pileatus,L4703260,Square Lake State Park,2020-09-19 09:26,1,47.4802697,-122.6844388,True,False,False,S73809871
+norfli,Northern Flicker,Colaptes auratus,L4703260,Square Lake State Park,2020-09-19 09:26,6,47.4802697,-122.6844388,True,False,False,S73809871
+stejay,Steller's Jay,Cyanocitta stelleri,L4703260,Square Lake State Park,2020-09-19 09:26,3,47.4802697,-122.6844388,True,False,False,S73809871
+comrav,Common Raven,Corvus corax,L4703260,Square Lake State Park,2020-09-19 09:26,2,47.4802697,-122.6844388,True,False,False,S73809871
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L4703260,Square Lake State Park,2020-09-19 09:26,6,47.4802697,-122.6844388,True,False,False,S73809871
+gockin,Golden-crowned Kinglet,Regulus satrapa,L4703260,Square Lake State Park,2020-09-19 09:26,2,47.4802697,-122.6844388,True,False,False,S73809871
+amerob,American Robin,Turdus migratorius,L4703260,Square Lake State Park,2020-09-19 09:26,12,47.4802697,-122.6844388,True,False,False,S73809871
+daejun,Dark-eyed Junco,Junco hyemalis,L4703260,Square Lake State Park,2020-09-19 09:26,1,47.4802697,-122.6844388,True,False,False,S73809871
+sonspa,Song Sparrow,Melospiza melodia,L4703260,Square Lake State Park,2020-09-19 09:26,2,47.4802697,-122.6844388,True,False,False,S73809871
+spotow,Spotted Towhee,Pipilo maculatus,L4703260,Square Lake State Park,2020-09-19 09:26,2,47.4802697,-122.6844388,True,False,False,S73809871
+wooduc,Wood Duck,Aix sponsa,L4703260,Square Lake State Park,2020-09-20 08:05,20,47.4802697,-122.6844388,True,False,False,S73915332
+norsho,Northern Shoveler,Spatula clypeata,L4703260,Square Lake State Park,2020-09-20 08:05,2,47.4802697,-122.6844388,True,False,False,S73915332
+mallar3,Mallard,Anas platyrhynchos,L4703260,Square Lake State Park,2020-09-20 08:05,9,47.4802697,-122.6844388,True,False,False,S73915332
+killde,Killdeer,Charadrius vociferus,L4703260,Square Lake State Park,2020-09-20 08:05,11,47.4802697,-122.6844388,True,False,False,S73915332
+wilsni1,Wilson's Snipe,Gallinago delicata,L4703260,Square Lake State Park,2020-09-20 08:05,1,47.4802697,-122.6844388,True,False,False,S73915332
+greyel,Greater Yellowlegs,Tringa melanoleuca,L4703260,Square Lake State Park,2020-09-20 08:05,1,47.4802697,-122.6844388,True,False,False,S73915332
+grbher3,Great Blue Heron,Ardea herodias,L4703260,Square Lake State Park,2020-09-20 08:05,1,47.4802697,-122.6844388,True,False,False,S73915332
+pilwoo,Pileated Woodpecker,Dryocopus pileatus,L4703260,Square Lake State Park,2020-09-20 08:05,1,47.4802697,-122.6844388,True,False,False,S73915332
+sonspa,Song Sparrow,Melospiza melodia,L4703260,Square Lake State Park,2020-09-20 08:05,1,47.4802697,-122.6844388,True,False,False,S73915332
+spotow,Spotted Towhee,Pipilo maculatus,L4703260,Square Lake State Park,2020-09-20 08:05,1,47.4802697,-122.6844388,True,False,False,S73915332
+wooduc,Wood Duck,Aix sponsa,L4703260,Square Lake State Park,2020-09-21 07:57,22,47.4802697,-122.6844388,True,False,False,S73875672
+mallar3,Mallard,Anas platyrhynchos,L4703260,Square Lake State Park,2020-09-21 07:57,8,47.4802697,-122.6844388,True,False,False,S73875672
+gnwtea,Green-winged Teal,Anas crecca,L4703260,Square Lake State Park,2020-09-21 07:57,14,47.4802697,-122.6844388,True,False,False,S73875672
+pibgre,Pied-billed Grebe,Podilymbus podiceps,L4703260,Square Lake State Park,2020-09-21 07:57,1,47.4802697,-122.6844388,True,False,False,S73875672
+semplo,Semipalmated Plover,Charadrius semipalmatus,L4703260,Square Lake State Park,2020-09-21 07:57,1,47.4802697,-122.6844388,True,False,False,S73875672
+killde,Killdeer,Charadrius vociferus,L4703260,Square Lake State Park,2020-09-21 07:57,12,47.4802697,-122.6844388,True,False,False,S73875672
+pecsan,Pectoral Sandpiper,Calidris melanotos,L4703260,Square Lake State Park,2020-09-21 07:57,2,47.4802697,-122.6844388,True,False,False,S73875672
+wilsni1,Wilson's Snipe,Gallinago delicata,L4703260,Square Lake State Park,2020-09-21 07:57,13,47.4802697,-122.6844388,True,False,False,S73875672
+comrav,Common Raven,Corvus corax,L4703260,Square Lake State Park,2020-09-21 07:57,1,47.4802697,-122.6844388,True,False,False,S73875672
+pinsis,Pine Siskin,Spinus pinus,L4703260,Square Lake State Park,2020-09-21 07:57,2,47.4802697,-122.6844388,True,False,False,S73875672
+wooduc,Wood Duck,Aix sponsa,L4703260,Square Lake State Park,2020-09-22 11:20,15,47.4802697,-122.6844388,True,False,False,S73941040
+norsho,Northern Shoveler,Spatula clypeata,L4703260,Square Lake State Park,2020-09-22 11:20,2,47.4802697,-122.6844388,True,False,False,S73941040
+mallar3,Mallard,Anas platyrhynchos,L4703260,Square Lake State Park,2020-09-22 11:20,20,47.4802697,-122.6844388,True,False,False,S73941040
+annhum,Anna's Hummingbird,Calypte anna,L4703260,Square Lake State Park,2020-09-22 11:20,1,47.4802697,-122.6844388,True,False,False,S73941040
+killde,Killdeer,Charadrius vociferus,L4703260,Square Lake State Park,2020-09-22 11:20,4,47.4802697,-122.6844388,True,False,False,S73941040
+grbher3,Great Blue Heron,Ardea herodias,L4703260,Square Lake State Park,2020-09-22 11:20,1,47.4802697,-122.6844388,True,False,False,S73941040
+rethaw,Red-tailed Hawk,Buteo jamaicensis,L4703260,Square Lake State Park,2020-09-22 11:20,1,47.4802697,-122.6844388,True,False,False,S73941040
+belkin1,Belted Kingfisher,Megaceryle alcyon,L4703260,Square Lake State Park,2020-09-22 11:20,1,47.4802697,-122.6844388,True,False,False,S73941040
+pilwoo,Pileated Woodpecker,Dryocopus pileatus,L4703260,Square Lake State Park,2020-09-22 11:20,1,47.4802697,-122.6844388,True,False,False,S73941040
+stejay,Steller's Jay,Cyanocitta stelleri,L4703260,Square Lake State Park,2020-09-22 11:20,1,47.4802697,-122.6844388,True,False,False,S73941040
+vigswa,Violet-green Swallow,Tachycineta thalassina,L4703260,Square Lake State Park,2020-09-22 11:20,2,47.4802697,-122.6844388,True,False,False,S73941040
+amerob,American Robin,Turdus migratorius,L4703260,Square Lake State Park,2020-09-22 11:20,1,47.4802697,-122.6844388,True,False,False,S73941040
+wooduc,Wood Duck,Aix sponsa,L4703260,Square Lake State Park,2020-09-26 08:00,15,47.4802697,-122.6844388,True,False,False,S74093362
+mallar3,Mallard,Anas platyrhynchos,L4703260,Square Lake State Park,2020-09-26 08:00,6,47.4802697,-122.6844388,True,False,False,S74093362
+gnwtea,Green-winged Teal,Anas crecca,L4703260,Square Lake State Park,2020-09-26 08:00,4,47.4802697,-122.6844388,True,False,False,S74093362
+annhum,Anna's Hummingbird,Calypte anna,L4703260,Square Lake State Park,2020-09-26 08:00,1,47.4802697,-122.6844388,True,False,False,S74093362
+killde,Killdeer,Charadrius vociferus,L4703260,Square Lake State Park,2020-09-26 08:00,6,47.4802697,-122.6844388,True,False,False,S74093362
+belkin1,Belted Kingfisher,Megaceryle alcyon,L4703260,Square Lake State Park,2020-09-26 08:00,1,47.4802697,-122.6844388,True,False,False,S74093362
+daejun,Dark-eyed Junco,Junco hyemalis,L4703260,Square Lake State Park,2020-09-26 08:00,4,47.4802697,-122.6844388,True,False,False,S74093362
+sonspa,Song Sparrow,Melospiza melodia,L4703260,Square Lake State Park,2020-09-26 08:00,2,47.4802697,-122.6844388,True,False,False,S74093362
+spotow,Spotted Towhee,Pipilo maculatus,L4703260,Square Lake State Park,2020-09-26 08:00,1,47.4802697,-122.6844388,True,False,False,S74093362
+wooduc,Wood Duck,Aix sponsa,L4703260,Square Lake State Park,2020-10-12 14:33,2,47.4802697,-122.6844388,True,False,False,S74753729
+mallar3,Mallard,Anas platyrhynchos,L4703260,Square Lake State Park,2020-10-12 14:33,4,47.4802697,-122.6844388,True,False,False,S74753729
+gnwtea,Green-winged Teal,Anas crecca,L4703260,Square Lake State Park,2020-10-12 14:33,3,47.4802697,-122.6844388,True,False,False,S74753729
+rinduc,Ring-necked Duck,Aythya collaris,L4703260,Square Lake State Park,2020-10-12 14:33,5,47.4802697,-122.6844388,True,False,False,S74753729
+killde,Killdeer,Charadrius vociferus,L4703260,Square Lake State Park,2020-10-12 14:33,5,47.4802697,-122.6844388,True,False,False,S74753729
+wilsni1,Wilson's Snipe,Gallinago delicata,L4703260,Square Lake State Park,2020-10-12 14:33,6,47.4802697,-122.6844388,True,False,False,S74753729
+pilwoo,Pileated Woodpecker,Dryocopus pileatus,L4703260,Square Lake State Park,2020-10-12 14:33,1,47.4802697,-122.6844388,True,False,False,S74753729
+norfli,Northern Flicker,Colaptes auratus,L4703260,Square Lake State Park,2020-10-12 14:33,1,47.4802697,-122.6844388,True,False,False,S74753729
+gockin,Golden-crowned Kinglet,Regulus satrapa,L4703260,Square Lake State Park,2020-10-12 14:33,2,47.4802697,-122.6844388,True,False,False,S74753729
+rebnut,Red-breasted Nuthatch,Sitta canadensis,L4703260,Square Lake State Park,2020-10-12 14:33,1,47.4802697,-122.6844388,True,False,False,S74753729
+amerob,American Robin,Turdus migratorius,L4703260,Square Lake State Park,2020-10-12 14:33,1,47.4802697,-122.6844388,True,False,False,S74753729
+daejun,Dark-eyed Junco,Junco hyemalis,L4703260,Square Lake State Park,2020-10-12 14:33,1,47.4802697,-122.6844388,True,False,False,S74753729
+spotow,Spotted Towhee,Pipilo maculatus,L4703260,Square Lake State Park,2020-10-12 14:33,2,47.4802697,-122.6844388,True,False,False,S74753729
+mallar3,Mallard,Anas platyrhynchos,L4703260,Square Lake State Park,2020-10-24 13:29,12,47.4802697,-122.6844388,True,False,False,S75368966
+buffle,Bufflehead,Bucephala albeola,L4703260,Square Lake State Park,2020-10-24 13:29,1,47.4802697,-122.6844388,True,False,False,S75368966
+pibgre,Pied-billed Grebe,Podilymbus podiceps,L4703260,Square Lake State Park,2020-10-24 13:29,1,47.4802697,-122.6844388,True,False,False,S75368966
+killde,Killdeer,Charadrius vociferus,L4703260,Square Lake State Park,2020-10-24 13:29,2,47.4802697,-122.6844388,True,False,False,S75368966
+comrav,Common Raven,Corvus corax,L4703260,Square Lake State Park,2020-10-24 13:29,1,47.4802697,-122.6844388,True,False,False,S75368966
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L4703260,Square Lake State Park,2020-10-24 13:29,5,47.4802697,-122.6844388,True,False,False,S75368966
+bushti,Bushtit,Psaltriparus minimus,L4703260,Square Lake State Park,2020-10-24 13:29,6,47.4802697,-122.6844388,True,False,False,S75368966
+gockin,Golden-crowned Kinglet,Regulus satrapa,L4703260,Square Lake State Park,2020-10-24 13:29,6,47.4802697,-122.6844388,True,False,False,S75368966
+rebnut,Red-breasted Nuthatch,Sitta canadensis,L4703260,Square Lake State Park,2020-10-24 13:29,1,47.4802697,-122.6844388,True,False,False,S75368966
+pacwre1,Pacific Wren,Troglodytes pacificus,L4703260,Square Lake State Park,2020-10-24 13:29,3,47.4802697,-122.6844388,True,False,False,S75368966
+varthr,Varied Thrush,Ixoreus naevius,L4703260,Square Lake State Park,2020-10-24 13:29,2,47.4802697,-122.6844388,True,False,False,S75368966
+amerob,American Robin,Turdus migratorius,L4703260,Square Lake State Park,2020-10-24 13:29,6,47.4802697,-122.6844388,True,False,False,S75368966
+redcro,Red Crossbill,Loxia curvirostra,L4703260,Square Lake State Park,2020-10-24 13:29,2,47.4802697,-122.6844388,True,False,False,S75368966
+pinsis,Pine Siskin,Spinus pinus,L4703260,Square Lake State Park,2020-10-24 13:29,40,47.4802697,-122.6844388,True,False,False,S75368966
+wooduc,Wood Duck,Aix sponsa,L4703260,Square Lake State Park,2020-10-29 10:14,4,47.4802697,-122.6844388,True,False,False,S75562756
+mallar3,Mallard,Anas platyrhynchos,L4703260,Square Lake State Park,2020-10-29 10:14,17,47.4802697,-122.6844388,True,False,False,S75562756
+gnwtea,Green-winged Teal,Anas crecca,L4703260,Square Lake State Park,2020-10-29 10:14,9,47.4802697,-122.6844388,True,False,False,S75562756
+rinduc,Ring-necked Duck,Aythya collaris,L4703260,Square Lake State Park,2020-10-29 10:14,4,47.4802697,-122.6844388,True,False,False,S75562756
+lessca,Lesser Scaup,Aythya affinis,L4703260,Square Lake State Park,2020-10-29 10:14,1,47.4802697,-122.6844388,True,False,False,S75562756
+buffle,Bufflehead,Bucephala albeola,L4703260,Square Lake State Park,2020-10-29 10:14,9,47.4802697,-122.6844388,True,False,False,S75562756
+killde,Killdeer,Charadrius vociferus,L4703260,Square Lake State Park,2020-10-29 10:14,2,47.4802697,-122.6844388,True,False,False,S75562756
+belkin1,Belted Kingfisher,Megaceryle alcyon,L4703260,Square Lake State Park,2020-10-29 10:14,1,47.4802697,-122.6844388,True,False,False,S75562756
+rebsap,Red-breasted Sapsucker,Sphyrapicus ruber,L4703260,Square Lake State Park,2020-10-29 10:14,1,47.4802697,-122.6844388,True,False,False,S75562756
+comrav,Common Raven,Corvus corax,L4703260,Square Lake State Park,2020-10-29 10:14,1,47.4802697,-122.6844388,True,False,False,S75562756
+bewwre,Bewick's Wren,Thryomanes bewickii,L4703260,Square Lake State Park,2020-10-29 10:14,1,47.4802697,-122.6844388,True,False,False,S75562756
+sonspa,Song Sparrow,Melospiza melodia,L4703260,Square Lake State Park,2020-10-29 10:14,1,47.4802697,-122.6844388,True,False,False,S75562756
+spotow,Spotted Towhee,Pipilo maculatus,L4703260,Square Lake State Park,2020-10-29 10:14,3,47.4802697,-122.6844388,True,False,False,S75562756
+cacgoo1,Cackling Goose,Branta hutchinsii,L4703260,Square Lake State Park,2020-12-17 15:46,11,47.4802697,-122.6844388,True,False,False,S77717565
+cangoo,Canada Goose,Branta canadensis,L4703260,Square Lake State Park,2020-12-17 15:46,40,47.4802697,-122.6844388,True,False,False,S77717565
+wooduc,Wood Duck,Aix sponsa,L4703260,Square Lake State Park,2020-12-17 15:46,2,47.4802697,-122.6844388,True,False,False,S77717565
+gnwtea,Green-winged Teal,Anas crecca,L4703260,Square Lake State Park,2020-12-17 15:46,8,47.4802697,-122.6844388,True,False,False,S77717565
+buffle,Bufflehead,Bucephala albeola,L4703260,Square Lake State Park,2020-12-17 15:46,6,47.4802697,-122.6844388,True,False,False,S77717565
+commer,Common Merganser,Mergus merganser,L4703260,Square Lake State Park,2020-12-17 15:46,15,47.4802697,-122.6844388,True,False,False,S77717565
+moudov,Mourning Dove,Zenaida macroura,L4703260,Square Lake State Park,2020-12-17 15:46,1,47.4802697,-122.6844388,True,False,False,S77717565
+norfli,Northern Flicker,Colaptes auratus,L4703260,Square Lake State Park,2020-12-17 15:46,1,47.4802697,-122.6844388,True,False,False,S77717565
+comrav,Common Raven,Corvus corax,L4703260,Square Lake State Park,2020-12-17 15:46,60,47.4802697,-122.6844388,True,True,False,S77717565
+gockin,Golden-crowned Kinglet,Regulus satrapa,L4703260,Square Lake State Park,2020-12-17 15:46,5,47.4802697,-122.6844388,True,False,False,S77717565
+rebnut,Red-breasted Nuthatch,Sitta canadensis,L4703260,Square Lake State Park,2020-12-17 15:46,1,47.4802697,-122.6844388,True,False,False,S77717565
+pacwre1,Pacific Wren,Troglodytes pacificus,L4703260,Square Lake State Park,2020-12-17 15:46,3,47.4802697,-122.6844388,True,False,False,S77717565
+varthr,Varied Thrush,Ixoreus naevius,L4703260,Square Lake State Park,2020-12-17 15:46,2,47.4802697,-122.6844388,True,False,False,S77717565
+pinsis,Pine Siskin,Spinus pinus,L4703260,Square Lake State Park,2020-12-17 15:46,15,47.4802697,-122.6844388,True,False,False,S77717565
+sonspa,Song Sparrow,Melospiza melodia,L4703260,Square Lake State Park,2020-12-17 15:46,6,47.4802697,-122.6844388,True,False,False,S77717565
+spotow,Spotted Towhee,Pipilo maculatus,L4703260,Square Lake State Park,2020-12-17 15:46,2,47.4802697,-122.6844388,True,False,False,S77717565
+gnwtea,Green-winged Teal,Anas crecca,L4703260,Square Lake State Park,2020-12-20 09:24,4,47.4802697,-122.6844388,True,False,False,S77743121
+rinduc,Ring-necked Duck,Aythya collaris,L4703260,Square Lake State Park,2020-12-20 09:24,2,47.4802697,-122.6844388,True,False,False,S77743121
+lessca,Lesser Scaup,Aythya affinis,L4703260,Square Lake State Park,2020-12-20 09:24,2,47.4802697,-122.6844388,True,False,False,S77743121
+buffle,Bufflehead,Bucephala albeola,L4703260,Square Lake State Park,2020-12-20 09:24,8,47.4802697,-122.6844388,True,False,False,S77743121
+hoomer,Hooded Merganser,Lophodytes cucullatus,L4703260,Square Lake State Park,2020-12-20 09:24,2,47.4802697,-122.6844388,True,False,False,S77743121
+commer,Common Merganser,Mergus merganser,L4703260,Square Lake State Park,2020-12-20 09:24,4,47.4802697,-122.6844388,True,False,False,S77743121
+haiwoo,Hairy Woodpecker,Dryobates villosus,L4703260,Square Lake State Park,2020-12-20 09:24,1,47.4802697,-122.6844388,True,False,False,S77743121
+stejay,Steller's Jay,Cyanocitta stelleri,L4703260,Square Lake State Park,2020-12-20 09:24,2,47.4802697,-122.6844388,True,False,False,S77743121
+comrav,Common Raven,Corvus corax,L4703260,Square Lake State Park,2020-12-20 09:24,2,47.4802697,-122.6844388,True,False,False,S77743121
+pacwre1,Pacific Wren,Troglodytes pacificus,L4703260,Square Lake State Park,2020-12-20 09:24,4,47.4802697,-122.6844388,True,False,False,S77743121
+bewwre,Bewick's Wren,Thryomanes bewickii,L4703260,Square Lake State Park,2020-12-20 09:24,1,47.4802697,-122.6844388,True,False,False,S77743121
+varthr,Varied Thrush,Ixoreus naevius,L4703260,Square Lake State Park,2020-12-20 09:24,19,47.4802697,-122.6844388,True,False,False,S77743121
+foxspa,Fox Sparrow,Passerella iliaca,L4703260,Square Lake State Park,2020-12-20 09:24,3,47.4802697,-122.6844388,True,False,False,S77743121
+daejun,Dark-eyed Junco,Junco hyemalis,L4703260,Square Lake State Park,2020-12-20 09:24,15,47.4802697,-122.6844388,True,False,False,S77743121
+sonspa,Song Sparrow,Melospiza melodia,L4703260,Square Lake State Park,2020-12-20 09:24,6,47.4802697,-122.6844388,True,False,False,S77743121
+spotow,Spotted Towhee,Pipilo maculatus,L4703260,Square Lake State Park,2020-12-20 09:24,11,47.4802697,-122.6844388,True,False,False,S77743121
+cangoo,Canada Goose,Branta canadensis,L4703260,Square Lake State Park,2020-12-24 15:49,6,47.4802697,-122.6844388,True,False,False,S77945298
+mallar3,Mallard,Anas platyrhynchos,L4703260,Square Lake State Park,2020-12-24 15:49,14,47.4802697,-122.6844388,True,False,False,S77945298
+gnwtea,Green-winged Teal,Anas crecca,L4703260,Square Lake State Park,2020-12-24 15:49,9,47.4802697,-122.6844388,True,False,False,S77945298
+rinduc,Ring-necked Duck,Aythya collaris,L4703260,Square Lake State Park,2020-12-24 15:49,6,47.4802697,-122.6844388,True,False,False,S77945298
+lessca,Lesser Scaup,Aythya affinis,L4703260,Square Lake State Park,2020-12-24 15:49,1,47.4802697,-122.6844388,True,False,False,S77945298
+buffle,Bufflehead,Bucephala albeola,L4703260,Square Lake State Park,2020-12-24 15:49,22,47.4802697,-122.6844388,True,False,False,S77945298
+grbher3,Great Blue Heron,Ardea herodias,L4703260,Square Lake State Park,2020-12-24 15:49,1,47.4802697,-122.6844388,True,False,False,S77945298
+pilwoo,Pileated Woodpecker,Dryocopus pileatus,L4703260,Square Lake State Park,2020-12-24 15:49,1,47.4802697,-122.6844388,True,False,False,S77945298
+comrav,Common Raven,Corvus corax,L4703260,Square Lake State Park,2020-12-24 15:49,7,47.4802697,-122.6844388,True,False,False,S77945298
+chbchi,Chestnut-backed Chickadee,Poecile rufescens,L4703260,Square Lake State Park,2020-12-24 15:49,2,47.4802697,-122.6844388,True,False,False,S77945298
+gockin,Golden-crowned Kinglet,Regulus satrapa,L4703260,Square Lake State Park,2020-12-24 15:49,6,47.4802697,-122.6844388,True,False,False,S77945298
+rebnut,Red-breasted Nuthatch,Sitta canadensis,L4703260,Square Lake State Park,2020-12-24 15:49,1,47.4802697,-122.6844388,True,False,False,S77945298
+pacwre1,Pacific Wren,Troglodytes pacificus,L4703260,Square Lake State Park,2020-12-24 15:49,2,47.4802697,-122.6844388,True,False,False,S77945298
+varthr,Varied Thrush,Ixoreus naevius,L4703260,Square Lake State Park,2020-12-24 15:49,3,47.4802697,-122.6844388,True,False,False,S77945298
+foxspa,Fox Sparrow,Passerella iliaca,L4703260,Square Lake State Park,2020-12-24 15:49,1,47.4802697,-122.6844388,True,False,False,S77945298
+daejun,Dark-eyed Junco,Junco hyemalis,L4703260,Square Lake State Park,2020-12-24 15:49,10,47.4802697,-122.6844388,True,False,False,S77945298
+sonspa,Song Sparrow,Melospiza melodia,L4703260,Square Lake State Park,2020-12-24 15:49,6,47.4802697,-122.6844388,True,False,False,S77945298
+spotow,Spotted Towhee,Pipilo maculatus,L4703260,Square Lake State Park,2020-12-24 15:49,1,47.4802697,-122.6844388,True,False,False,S77945298
