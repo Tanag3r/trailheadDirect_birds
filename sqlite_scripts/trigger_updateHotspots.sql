@@ -1,5 +1,5 @@
 create trigger if not exists hotspotUpdate
-after update on Hotspots_cooking
+after INSERT on Hotspots_cooking
 BEGIN
 
 update Hotspots
