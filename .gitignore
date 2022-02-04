@@ -2,3 +2,4 @@ trailheadDirectBirds_sous.db
 trailheadsRef.json
 hotspotRef.json
 cooking/*.csv
+*.json
