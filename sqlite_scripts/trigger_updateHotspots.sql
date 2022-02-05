@@ -27,4 +27,5 @@ where
 			and Hotspots.locId=Hotspots_cooking.locId
 			)
 ;
+DELETE FROM Hotspots_cooking;
 END;
