@@ -24,4 +24,4 @@ where
 			)
 ;
 DELETE FROM Hotspots_cooking;
-END;
+END
