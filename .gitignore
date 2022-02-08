@@ -3,3 +3,4 @@ trailheadsRef.json
 hotspotRef.json
 cooking/*.csv
 *.json
+*.csv
