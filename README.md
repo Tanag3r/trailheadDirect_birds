@@ -1,10 +1,10 @@
 # trailheadDirect_birds
-Leveraging Cornell's eBirds data to provide rich bird and sighting info at TrailheadDirect.org stops.
+Leveraging Cornell's eBird service, USGS and NASA habitat data (MODIS) and nesting observations from the Seattle Audabon to deliver rich, dynamic insights about birds at King County Metro TrailheadDirect.org stops.
 
 mytrash_opossum.jpg
 
 Science-ish questions we will attempt to answer:
-- On each week of the year, what habitat type (FAO land cover classification) does each species of bird prefer?
+- On each week of the year, what habitat type (FAO land cover classification) does each species of bird prefer within the region covered by each Trailhead Direct route?
 - Is there a relationship between annual temperature changes coming out of winter, the change in foliage coverage during the same period, the increased amount of sunlight (longer days) and the 're-appearance' of birds that spend significant time in the regions covered by the study?
 - Out of the four trends given above (temperature, foliage, sunlight and migration) is there a <i>stronger</i> relationship between any of the two?
 
