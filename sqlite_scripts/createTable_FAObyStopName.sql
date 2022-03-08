@@ -21,8 +21,7 @@ select
 from Hotspots 
 
 left outer join "MCD12Q1-006-LC-Prop1-Statistics.csv_MODIS_cooking" as MCD12Q1Prop1 on MCD12Q1Prop1.locId = Hotspots.locId
-left outer join "MCD12Q1-006-QC-Statistics-QA.csv_MODIS_cooking" as MCD12Q1QAQC on MCD12Q1Prop1.locId = MCD12Q1QAQC.locId where MCD12Q1Prop1.Date = MCD12Q1QAQC.Date
-
+left outer join "MCD12Q1-006-QC-Statistics-QA.csv_MODIS_cooking" as MCD12Q1QAQC on MCD12Q1Prop1.locId = MCD12Q1QAQC.locId
 --where StopName = 'MargaretsWay'
 group by StopName
 ;
