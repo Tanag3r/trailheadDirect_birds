@@ -2,7 +2,8 @@
 --CREATE VIEW 'coefficients_bySpecies' AS
 select
 	comName,
-	locId,
+	HsOb.locId as 'locId',
+	closestStop.StopName as 'closestStop',
 	count(subId) as 'uniqueSightings',
 	round(avg(howMany),2) as 'averageVolume',
 	strftime('%Y',obsDt) as 'year',
@@ -10,6 +11,6 @@ select
 	(SELECT COUNT(DISTINCT(strftime('%W',obsDt))) FROM historicObservations as hz WHERE hz.comName=HsOb.comName and hz.locId=HsOb.locId) as 'WEEKfrequency'
 
 from historicObservations as HsOb
-
-group by comName,locId,strftime('%Y',obsDt)
+left join closestStop on HsOb.locId = closestStop.locId
+group by comName,HsOb.locId,strftime('%Y',obsDt)
 ;
