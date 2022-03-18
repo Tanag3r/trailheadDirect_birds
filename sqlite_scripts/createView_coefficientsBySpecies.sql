@@ -1,6 +1,7 @@
 --DROP VIEW "main"."coefficients_bySpecies";
 --CREATE VIEW 'coefficients_bySpecies' AS
 select
+	speciesCode,
 	comName,
 	HsOb.locId as 'locId',
 	closestStop.StopName as 'closestStop',
@@ -13,4 +14,3 @@ select
 from historicObservations as HsOb
 left join closestStop on HsOb.locId = closestStop.locId
 group by comName,HsOb.locId,strftime('%Y',obsDt)
-;
