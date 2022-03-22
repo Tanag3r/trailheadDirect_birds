@@ -10,6 +10,7 @@ select
 	round((avg(MCD12Q1Type3."(1) Grasslands")/avg(MCD12Q1QAQC."0")),2) as 'Grasslands',
 	round((avg(MCD12Q1Type3."(4) Savannas")/avg(MCD12Q1QAQC."0")),2) as 'Savannas',
 	round((avg(MCD12Q1Prop1."(3) Water Bodies")/avg(MCD12Q1QAQC."0")),2) as 'waterBodies',
+	round((avg(MCD12Q1Prop1."(3) Water Bodies")/avg(MCD12Q1QAQC."3")),2) as 'waterUnclassified',
 	round((avg(MCD12Q1Prop1."(11) Evergreen Needleleaf Forest")/avg(MCD12Q1QAQC."0")),2) as 'evergreenNeedleleafForest',
 	round((avg(MCD12Q1Prop1."(12) Evergreen Broadleaf Forests")/avg(MCD12Q1QAQC."0")),2) as 'evergreenBroadleafForests',
 	round((avg(MCD12Q1Prop1."(21) Open Forests")/avg(MCD12Q1QAQC."0")),2) as 'openForests',
