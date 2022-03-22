@@ -1,7 +1,6 @@
---Cooked FAO land cover type for each locId
-DROP VIEW "main"."FAO_by_locId";
-CREATE VIEW 'FAO_by_locId'
-AS
+--DROP VIEW "main"."FAO_by_locId";
+--CREATE VIEW 'FAO_by_locId'
+--AS
 select
 	Hotspots.locName,
 	Hotspots.locId,
@@ -15,11 +14,11 @@ select
 	round((avg(MCD12Q1Prop1."(12) Evergreen Broadleaf Forests")/avg(MCD12Q1QAQC."0")),2) as 'evergreenBroadleafForests',
 	round((avg(MCD12Q1Prop1."(21) Open Forests")/avg(MCD12Q1QAQC."0")),2) as 'openForests',
 	round((avg(MCD12Q1Prop1."(15) Mixed Broadleaf/Needleleaf Forests")/avg(MCD12Q1QAQC."0")),2) as 'mixedBroadleafandNeedleleafForests',
+	round((avg(MCD12Q1Type3."(6) Deciduous Broadleaf Forests")/avg(MCD12Q1QAQC."0")),2) as 'deciduousBroadleafForests',
 	round((avg(MCD12Q1Prop1."(22) Sparse Forests")/avg(MCD12Q1QAQC."0")),2) as 'sparseForests',
 	round((avg(MCD12Q1Prop1."(31) Dense Herbaceous")/avg(MCD12Q1QAQC."0")),2) as 'denseHerbaceous',
-	round((avg(MCD12Q1Prop1."(32) Sparse Herbaceous")/avg(MCD12Q1QAQC."0")),2) as 'sparseHerbaceous',
-	round(avg(MCD12Q1QAQC."0"),2) as 'cleanPixels',
-	MCD12Q1QAQC."0" as 'Pixels'
+	round((avg(MCD12Q1Prop1."(32) Sparse Herbaceous")/avg(MCD12Q1QAQC."0")),2) as 'sparseHerbaceous'
+
 from Hotspots 
 
 left outer join "MCD12Q1-006-LC-Prop1-Statistics.csv_MODIS_cooking" as MCD12Q1Prop1 on Hotspots.locId = MCD12Q1Prop1.locId
