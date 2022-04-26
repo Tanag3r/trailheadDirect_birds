@@ -1,10 +1,13 @@
+with habitatAbundance as (
 select
-	strftime('%Y',obsDt) as "year",
-	strftime('%W',obsDt) as "WoY",
-	(howMany/(avg(howMany) over (PARTITION by strftime('%Y',obsDt)))) as "relativeAbundance",
+	obsDt,
+	(strftime('%Y',obsDt)||'-'||strftime('%W',obsDt)) as "year_week",
+	round(avg(howMany),0) as "volume",
 	habitatLabel 
-from historicObservations
-left join (select locId,habitatLabel from Hotspots) as "labels" on historicObservations.locId=labels.locId
+from historicObservations as hsob
+left join (select locId,habitatLabel from Hotspots) as "labels" on hsob.locId=labels.locId
 where speciesCode = 'westan'
-ORDER by habitatLabel,year asc,WoY asc
+group by year_week,habitatLabel)
+select year_week,volume from habitatAbundance
+where habitatLabel = 2
 ;
