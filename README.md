@@ -4,13 +4,14 @@ Leveraging Cornell's eBird service, USGS and NASA habitat data (MODIS) and nesti
 mytrash_opossum.jpg
 
 Science-ish questions we will attempt to answer:
-- On each week of the year, what habitat type (FAO land cover classification) does each species of bird prefer within the region covered by each Trailhead Direct route?
+- For birds that switch habitats and strongly select single habitats, can trends in habitat selection ratios be explained by photosynthetic radiation (fPar), the Leaf Area Index and the annual relative abundance?
+- Can neural networks help us understand the resiliency of common birds? For birds that can be found year-round in the study region, can neural networks like LSTM accurately model responses to food scarcity events?
 - Is there a relationship between annual temperature changes coming out of winter, the change in foliage coverage during the same period, the increased amount of sunlight (longer days) and the 're-appearance' of birds that spend significant time in the regions covered by the study?
 - Out of the four trends given above (temperature, foliage, sunlight and migration) is there a <i>stronger</i> relationship between any of the two?
 
 Structure and function:
 - Sous: data factories that fetch raw data and prepare it for cooking by Kitchen services
-- Cooking: file library that is produced and maintained by back-of-house services in 'Cooking'
-- Kitchen: analysis of ingredients produced by services in Sous. produces Cooked information/files/etc.
-- Cooked: file library ready for consumption by front-of-house services. Fed and maintained by Kitchen services
+- Cooking: sql blocks and notebooks that deliver features
+- TestKitchen: analysis notebooks and feature factories that are not ready for serving
+- Analysis: cooked notebooks containing models and test results
 - Service: Django delivery of ready-to-eat data for users of the TrailheadDirect.org service
