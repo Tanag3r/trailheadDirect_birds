@@ -3,11 +3,14 @@ SELECT
 	fpar.Date as "readingDate",
 	fpar.Mean as "fparMean",
 	(lead(fpar.Mean,1) over(order by fpar.locId desc,fpar."Date" asc)) as "fparLead",
+	(lead(fpar.Mean,2) over(order by fpar.locId desc,fpar."Date" asc)) as "fparLead2",
 	(lag(fpar.Mean,1) over(order by fpar.locId desc,fpar."Date" asc)) as "fparLag",
+	(lag(fpar.Mean,2) over(order by fpar.locId desc,fpar."Date" asc)) as "fparLag2",
 	laiMean,
-	laiMean as "potato",
 	laiLead,
+	laiLead2,
 	laiLag,
+	laiLag2,
 	goodReads,
 	badReads,
 	deadPixels,
@@ -20,7 +23,9 @@ left join
 		leafArea."Date" as "lai_date",
 		CASE WHEN leafArea.Mean = 0.0 THEN leafArea.Mean+0.1 ELSE leafArea.Mean END as "laiMean",
 		(lead(leafArea.Mean,1) over(order by leafArea.locId desc,leafArea."Date" asc)) as "laiLead",
-		(lag(leafArea.Mean,1) over(order by leafArea.locId desc,leafArea."Date" asc)) as "laiLag"
+		(lead(leafArea.Mean,2) over(order by leafArea.locId desc,leafArea."Date" asc)) as "laiLead2",
+		(lag(leafArea.Mean,1) over(order by leafArea.locId desc,leafArea."Date" asc)) as "laiLag",
+		(lag(leafArea.Mean,2) over(order by leafArea.locId desc,leafArea."Date" asc)) as "laiLag2"
 	from "MOD15A2H-006-Statistics.csv_MODIS_cooking" as leafArea where leafArea.Dataset = 'Lai_500m' order by leafArea.locId desc,leafArea."Date" asc) 
 as lai on lai.lai_locId = fpar.locId and lai.lai_date = fpar.Date
 left join
@@ -35,15 +40,19 @@ select
 	readingDate,
 	locId,
 	habitatLabel,
+	goodReads,
+	badReads,
 	CASE WHEN 
-		laiMean-laiLead >=3 AND laiMean-laiLag >=3 THEN ((laiLead+laiLag)/2)
-		when deadPixels >= goodReads and ((laiLead+laiLag)/2)!= 0 then ((laiLead+laiLag)/2)
-		when laiMean = 0 then ((laiLead+laiLag)/2)
+		laiMean-laiLead >=3 AND laiMean-laiLag >=3 THEN ((laiLead+laiLead2+laiLag2+laiLag)/4)
+		when deadPixels >= goodReads and ((laiLead+laiLag)/2)!= 0 then ((laiLead+laiLead2+laiLag2+laiLag)/4)
+		when badReads >=goodReads THEN ((laiLead+laiLead2+laiLag2+laiLag)/4)
+		when laiMean = 0 then ((laiLead+laiLead2+laiLag2+laiLag)/4)
 		else laiMean end as "adj_laiMean",
 	CASE WHEN
-		fparMean-fparLead >=0.3 AND fparMean-fparLag >=0.3 THEN ((fparLead+fparLag)/2)
-		when deadPixels >= goodReads then ((fparLead+fparLag)/2)
-		when fparMean = 0 then ((fparLead+fparLag)/2)
+		fparMean-fparLead >=0.3 AND fparMean-fparLag >=0.3 THEN ((fparLead+fparLead2+fparLag2+fparLag)/4)
+		when deadPixels >= goodReads and ((fparLead+fparLag)/2)!=0 then ((fparLead+fparLead2+fparLag2+fparLag)/4)
+		when badReads >= goodReads THEN ((fparLead+fparLead2+fparLag2+fparLag)/4)
+		when fparMean = 0 then ((fparLead+fparLead2+fparLag2+fparLag)/4)
 		else fparMean end as "adj_fparMean"
 from fparLaiSummary
 where habitatLabel = 2
