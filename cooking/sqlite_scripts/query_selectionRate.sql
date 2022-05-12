@@ -14,9 +14,9 @@ group by year_week,habitatLabel
 select obsDt,year_week,
 habitatLabel,
 --selection ratio as a function of weekly observations
-round((habitatVolume/volume_allHabitats),3) as "weekly_selectionRatio_",
+round((habitatVolume/volume_allHabitats),3) as "weekly_selectionRatio",
 --selection ratio as a function of the annual relative abundance
-round((habitatVolume/annualAvgAbd),3) as "annual_selectionRatio_"
+round((habitatVolume/annualAvgAbd),3) as "annual_selectionRatio"
 from habitatAbundance
 where habitatLabel = 2
 order by obsDt asc
